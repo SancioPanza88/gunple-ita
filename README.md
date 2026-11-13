@@ -1,63 +1,56 @@
-# Gunple: Gunman's Proof - traduzione italiana
+# Gunple: Gunman's Proof — in italiano
 
-Questa è la mia traduzione in italiano di **Ganpuru: Gunman's Proof** (ガンプル), il gioco per Super Famicom del 1997 di ASCII e Lenar. Ci giocavo con la traduzione inglese e mi è sempre dispiaciuto che non ci fosse una versione in italiano, quindi eccola.
+Un ragazzino del Far West, un'isola invasa da mostri caduti dallo spazio, due sceriffi alieni che gli prendono "in prestito" il corpo. Gunple è uscito solo in Giappone nel 1997, su un Super Famicom ormai a fine carriera, e quasi nessuno se lo ricorda. Peccato, perché è uno degli action-RPG più simpatici della console: chi ha giocato a Zelda: A Link to the Past si sente a casa, però qui si spara, si fanno a pugni i boss e si incontrano fantasmi che cantano.
 
-Versione attuale: **1.0** (novembre 2026)
+Da oggi lo potete giocare anche in italiano.
 
-![Dialoghi](immagini/anteprima_dialoghi.png)
+![Qualche dialogo](immagini/anteprima_dialoghi.png)
 
-## Come si applica
+## Per giocarci
 
-Vi serve la ROM giapponese originale, non ancora patchata:
+Prendete `gunple_ita.bps` dalla [pagina delle release](https://github.com/SancioPanza88/gunple-ita/releases) e applicatelo alla ROM giapponese **pulita**, cioè senza nessun'altra patch sopra:
 
-- `Ganpuru - Gunman's Proof (Japan).sfc`
-- 3.145.728 byte, senza header
-- CRC32: `AF415C24`
-- SHA-1: `dad73d2c0b1a3c916d40c4a208566ee4193333b2`
+| | |
+|---|---|
+| File | `Ganpuru - Gunman's Proof (Japan).sfc` |
+| Dimensione | 3.145.728 byte (senza header) |
+| CRC32 | `AF415C24` |
+| SHA-1 | `dad73d2c0b1a3c916d40c4a208566ee4193333b2` |
 
-Applicateci sopra `gunple_ita.bps` con [Floating IPS](https://www.romhacking.net/utilities/1040/) oppure online con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/). Se la ROM ha l'header da 512 byte (file .smc), prima toglietelo, altrimenti la patch non va.
+La patch si applica con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/), direttamente dal browser, oppure con [Floating IPS](https://www.romhacking.net/utilities/1040/). Se la vostra ROM è un .smc da 3.146.240 byte ha l'header: Rom Patcher lo toglie da solo, con Floating IPS dovete toglierlo voi.
 
-La ROM qui non c'è e non ve la posso dare, quindi non chiedetela.
+La ROM non la trovate qui e non posso darvela.
 
-## Cosa è tradotto
+## Cosa c'è dentro
 
-- Tutti i dialoghi (513 messaggi), dall'introduzione al finale
-- Le schede delle mosse e i menu MOSSE / STEMMI / OGGETTI
-- Le opzioni del game over e i pulsanti della schermata del nome
+Tutto il testo del gioco, dall'introduzione ai titoli di coda: 513 messaggi, compresi negozi, boss e quel fantasma che non la smette di cantare. In più ho tradotto le schede delle mosse, i menu e le opzioni del game over, e ho aggiunto le lettere accentate al font.
 
-Rimasti in originale: il logo del titolo, la scritta GAME OVER e un pulsante della schermata del nome ("HELLO!"), che non ho capito bene a cosa serva.
+Ho lasciato com'erano il logo del titolo, la scritta GAME OVER e il pulsante "HELLO!" della schermata del nome, di cui onestamente non ho ancora capito lo scopo. Per le maiuscole accentate nel font non c'era spazio, quindi troverete E' al posto di È, come nelle traduzioni amatoriali di una volta.
 
-Le lettere accentate ci sono (à è é ì ò ù). Per le maiuscole accentate non c'era spazio nel font, quindi trovate E' al posto di È, come nelle vecchie traduzioni amatoriali.
+## Una cosa da sapere
 
-## L'AI mi ha aiutato
+Non ho fatto tutto da solo. Per questo progetto mi sono fatto aiutare da un'intelligenza artificiale (Claude, di Anthropic): con lei ho capito come il gioco memorizza il testo, ho scritto gli strumenti per estrarlo e reinserirlo e ho preparato la prima stesura della traduzione. Le scelte e la revisione sono mie, ma preferisco dirlo chiaramente.
 
-Lo dico chiaramente: in questo progetto **mi sono fatto assistere da un'intelligenza artificiale** (Claude, di Anthropic). Mi ha aiutato con la parte tecnica, cioè capire come il gioco salva il testo, scrivere gli strumenti per estrarlo e reinserirlo e ridisegnare le lettere accentate. Mi ha aiutato anche con la prima stesura della traduzione.
+Proprio per questo la v1.0 va presa per quello che è: una versione da testare. Il testo è stato verificato in automatico (niente righe che escono dalla finestra, ogni messaggio al suo posto), però il gioco non l'ho ancora finito con la patch. Qualche frase storta, un refuso o una scritta disegnata male ci saranno di sicuro.
 
-Il testo è stato controllato in automatico: nessuna riga esce dalla finestra e ogni messaggio torna al posto giusto. Però **non è ancora stato rigiocato tutto dall'inizio alla fine**. Quindi ci possono essere:
+Se ne trovate una, aprite una [issue](https://github.com/SancioPanza88/gunple-ita/issues) con uno screenshot e mi date una grossa mano. Se riuscite, aggiungete il codice del messaggio (tipo `B0-123`): lo trovate cercando la frase in `copione/copione_it.txt`.
 
-- frasi che suonano strane o tradotte troppo alla lettera
-- errori di battitura
-- scritte che si vedono male in qualche punto (soprattutto le grafiche del game over e la riga dei crediti nella schermata del nome)
-- scelte Sì/No col cursore un po' disallineato
+## Per chi vuole mettere le mani nel copione
 
-Insomma, ha bisogno di altri controlli. Se ci giocate e trovate qualcosa che non va, aprite una issue con uno screenshot. Se riuscite, scrivete anche il codice del messaggio (tipo `B0-123`): lo trovate cercando la frase in `copione/copione_it.txt`.
-
-## Ricompilare da soli
-
-Nella cartella `strumenti` ci sono gli script Python che uso io (servono Python 3 e Pillow per le anteprime). La traduzione parte dalla ROM con la patch inglese di Aeon Genesis v1.03 applicata, perché usa il loro font e il loro motore del testo:
+Gli script Python che ho usato sono in `strumenti/` (servono Python 3 e, per le anteprime, Pillow). Si parte dalla ROM con la patch inglese di Aeon Genesis v1.03 già applicata:
 
 ```
 python3 strumenti/compila.py ROM_INGLESE.sfc copione/copione_it.txt ROM_GIAPPONESE.sfc build
 ```
 
-Il copione si modifica a mano. Le regole sono scritte in cima al file: massimo 24 caratteri per riga, e i codici tra parentesi quadre non vanno toccati. I menu, le grafiche e la riga dei crediti sono in fondo a `compila.py`.
+Il copione è un normale file di testo. Le regole sono scritte in cima: 24 caratteri per riga e i codici tra parentesi quadre non vanno toccati. Il compilatore vi avvisa se sbagliate qualcosa.
 
-## Crediti
+## Grazie a
 
-- Traduzione italiana: **Sanciopanza88**
-- Hacking originale e traduzione inglese: **Aeon Genesis** (agtp.romhack.net). Senza il loro lavoro questa traduzione non esisterebbe: font, motore del testo e compressione sono roba loro.
-- Traduzione spagnola di **Traducciones Lukas**, che ho usato come riferimento
-- Assistenza tecnica e di traduzione: Claude (Anthropic)
-- Il gioco è di ASCII, Lenar, Akihito Tomisawa e Isami Nakagawa
+- **Aeon Genesis**: la loro traduzione inglese è la base di tutto. Font, motore del testo e compressione sono lavoro loro, io ci ho costruito sopra.
+- **Traducciones Lukas**: la loro versione spagnola mi ha aiutato più di una volta a capire cosa intendeva davvero un personaggio.
+- **ASCII, Lenar, Akihito Tomisawa e Isami Nakagawa**, per aver fatto questo gioco.
 
-Ganpuru: Gunman's Proof © 1997 ASCII / Lenar. Questa è una traduzione amatoriale, fatta senza scopo di lucro e senza nessun legame con i detentori dei diritti.
+Traduzione italiana di **Sanciopanza88**, 2026.
+
+*Ganpuru: Gunman's Proof © 1997 ASCII / Lenar. Traduzione amatoriale e gratuita, senza alcun legame con i detentori dei diritti.*
