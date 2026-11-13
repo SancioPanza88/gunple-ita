@@ -109,6 +109,36 @@ def patch_menus(d):
         if len(w) != cells: raise SystemExit('titolo troppo lungo: %r' % text)
         for k, v in enumerate(w): struct.pack_into('<H', d, off + 2 * k, v)
 
+
+# ---------------------------------------------------------------- HUD: SCORE: / LIFE:  ->  PUNTI: / VITA:
+HUD_TILE = lambda c: 0x58038 + c * 16      # tile della barra in alto (2bpp, non compresse)
+HUD_FONT = {
+    'P': ['111', '1.1', '1.1', '111', '1..', '1..', '1..'], 'U': ['1.1'] * 6 + ['111'],
+    'N': ['11.', '1.1', '1.1', '1.1', '1.1', '1.1', '1.1'], 'T': ['111'] + ['.1.'] * 6,
+    'I': ['1'] * 7, 'V': ['1.1'] * 6 + ['.1.'], 'A': ['111', '1.1', '1.1', '111', '1.1', '1.1', '1.1'],
+    ':': ['.', '1', '1', '.', '1', '1', '.'],
+}
+def hud_strip(text, width, x0=0):
+    fill = [[0] * (width + 2) for _ in range(9)]; x = x0
+    for ch in text:
+        g = HUD_FONT[ch]
+        if ch == ':': x += 1
+        for y, row in enumerate(g):
+            for k, b in enumerate(row):
+                if b == '1': fill[y][x + k] = 1
+        x += len(g[0]) + 1
+    out = [[0] * width for _ in range(8)]
+    for y in range(8):
+        for xx in range(width):
+            if fill[y][xx]: out[y][xx] = 1
+            elif (xx > 0 and fill[y][xx - 1]) or (y > 0 and fill[y - 1][xx]) or (y > 0 and xx > 0 and fill[y - 1][xx - 1]):
+                out[y][xx] = 2
+    return out
+def patch_hud(d):
+    assert d[HUD_TILE(17):HUD_TILE(17) + 4] == bytes.fromhex('ee118a75'), 'tile HUD non trovate'
+    write_strip(d, [HUD_TILE(c) for c in (17, 18, 19)], hud_strip('PUNTI:', 24))
+    write_strip(d, [HUD_TILE(c) for c in (20, 21, 22)], hud_strip('VITA:', 24, 4))
+
 # ---------------------------------------------------------------- grafiche 2bpp
 def get_tile(d, o):
     return [[((d[o + 2 * y] >> (7 - x)) & 1) | (((d[o + 2 * y + 1] >> (7 - x)) & 1) << 1) for x in range(8)] for y in range(8)]
@@ -400,6 +430,7 @@ def main(en_path, script_path, jp_path, outdir):
         d[G.DTE_TABLE + 2 * i] = a; d[G.DTE_TABLE + 2 * i + 1] = b
     make_glyphs(d)
     patch_menus(d)
+    patch_hud(d)
     patch_graphics(d)
     report = []
     for bi, (base, n, end) in enumerate(G.BANKS):
