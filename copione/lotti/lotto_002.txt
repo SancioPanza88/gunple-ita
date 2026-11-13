@@ -1,0 +1,411 @@
+### B0-016
+Zuppa di mais bevuta![24][20]
+Era densissima![00]
+
+### B0-017
+Hamburger mangiato![24][20]
+C'era anche
+l'insalata!![00]
+
+### B0-018
+Hai mangiato un
+secchio di budino![24][20]
+Il tuo stomaco ha
+quasi fatto BLOP![00]
+
+### B0-019
+Colobutch:
+Ma guarda, [NAME]![24][20]
+Proprio il giovanotto
+che aspettavo! Con
+che coraggio combatti
+quei Demiseed![WAIT]
+E' straordinario!
+Strafavoloso!
+[24][20]
+Lascia che ti dia
+una mano in più!
+[WAIT]
+Che ne dici se t'insegno
+a usare le armi che
+quei mostri mi hanno
+rubato?[WAIT]
+Così, quando un nemico
+lascia cadere un'arma,
+potrai usarla pure tu!
+Ti va l'idea?[00]
+
+### B0-020
+Colobutch:
+Bene, lascia che ti
+insegni a usare la
+Mitragliatrice![22][20]
+
+      Sì     No[END]
+
+### B0-021
+Colobutch:
+Bene, lascia che ti
+insegni a usare il
+Fucile a pompa![22][20]
+
+      Sì     No[END]
+
+### B0-022
+Colobutch:
+Bene, lascia che ti
+insegni a usare il
+Bazooka![22][20]
+
+      Sì     No[END]
+
+### B0-023
+Colobutch:
+Bene, lascia che ti
+insegni a usare il
+Lanciafiamme![22][20]
+
+      Sì     No[END]
+
+### B0-024
+Colobutch:
+Bene, lascia che ti
+insegni a usare il
+Braccio Trapano![22][20]
+
+      Sì     No[END]
+
+### B0-025
+Colobutch:
+Bene, lascia che ti
+insegni a usare la
+Palla di Ferro![22][20]
+
+      Sì     No[END]
+
+### B0-026
+Colobutch:
+D-davvero non la
+vuoi?
+Va... va bene.[24][20]
+SNIFF[00]
+
+### B0-027
+Colobutch:
+Allora! Che ne dici se
+t'insegno a usare
+un'arma o due?[00]
+
+### B0-028
+Aiyah! Questo è
+grande peccato.[00]
+
+### B0-029
+...Io molto dispiace
+signore, ma tuoi soldi
+non bastano![00]
+
+### B0-030
+Trovato un tesoro![24][20]
+Specchio di Bronzo![22][24]    [20][20][20][00]
+
+### B0-031
+Trovato un tesoro![24][20]
+Zanna di Bestia![22][24]     [21][20][00]
+
+### B0-032
+Trovato un tesoro![24][20]
+Anello di Rubino![22][24]     [21][20][00]
+
+### B0-033
+Trovato un tesoro![24][20]
+Medaglia di Lapis![22][24]     [21][20][00]
+
+### B0-034
+Trovato un tesoro![24][20]
+Collana![22][24]     [21][20][20][00]
+
+### B0-035
+Trovato un tesoro![24][20]
+Sfera di Cristallo![22][24]     [21][21][20][00]
+
+### B0-036
+Trovato un tesoro![24][20]
+Calice![22][24]     [21][20][20][00]
+
+### B0-037
+Trovato un tesoro![24][20]
+Spada Sfarzosa![22][24]     [20][20][20][00]
+
+### B0-038
+Trovato un tesoro![24][20]
+10000 yen![22][24]     [21][20][20][00]
+
+### B0-039
+Trovato un tesoro![24][20]
+Lingotto d'Oro![22][24]     [21][20][00]
+
+### B0-040
+Trovato un tesoro![24][20]
+Diamante![22][24]     [21][20][00]
+
+### B0-041
+Hai il Crocifisso![22][20][WAIT]
+Ah, dev'essere un
+sacro Crocifisso
+d'oro![24][20]
+Con questo potrai
+scacciare il Fantasma
+Sbarrapasso che ti
+blocca la strada![00]
+
+### B0-042
+Trovato un tesoro![24][20]
+Maschera d'Argento![22][24]    [21][20][00]
+
+### B0-043
+Trovato un tesoro![24][20]
+Corona![22][24]     [21][20][20][20][00]
+
+### B0-044
+Trovato un tesoro![24][20]
+Maschera d'Oro![22][24]     [21][20][00]
+
+### B0-045
+Trovato un tesoro![24][20]
+Teschio di Cristallo![22][24]   [21][20][00]
+
+### B0-046
+Hai la Moneta Zelo![22][22][20]
+La vita aumenta
+di uno!![00]
+
+### B0-047
+Hai il Pugno di Ferro![22][22][20][WAIT]
+E' un guanto fatto
+di ferro![24][20]
+Con questo addosso,
+la mano non ti farà
+male, QUALSIASI cosa
+colpisca![00]
+
+### B0-048
+Hai la Mano Potente![22][22][20][WAIT]
+Questo pugno lucente
+è il simbolo della
+giustizia![24][20]
+Con una forza che
+supera perfino il
+Pugno di Ferro, deve
+essere il guanto
+definitivo!![00]
+
+### B0-049
+Hai imparato a usare
+il Fucile a pompa![22][20][WAIT]
+Il potente Colpo a 5
+vie non delude mai!
+Con questo sarai
+onnipotente!
+...sempre che tu
+riesca a sparare
+abbastanza in fretta...[00]
+
+### B0-050
+Hai imparato la
+Combo Deluxe![22][20][WAIT]
+Premi il tasto Y
+più e più volte![24][20]
+E' un attacco a raffica
+uno-due-BAM![00]
+
+### B0-051
+Hai imparato il
+Montante Supremo![22][20][WAIT]
+Mentre usi questa
+tecnica sei del tutto
+invincibile!
+E' efficacissima
+contro i nemici
+sopra di te!
+E se la usassi sotto
+una cascata...?[00]
+
+### B0-052
+Hai i Fuochi
+Crisantemo![00]
+
+### B0-053
+Hai la Bomba Stellare![00]
+
+### B0-054
+Hai la Bomba Ascensione![22][20][WAIT]
+Basta un colpo per
+spazzare via tutto,
+sia davanti che
+dietro![24][20]
+Fai vedere a quei
+Demiseed chi comanda![00]
+
+### B0-055
+Trovato un tesoro![24][20]
+Stella![22][24][24][24][24][24][24][20][00]
+
+### B0-056
+Hai lo Stemma Demiseed![22][22][20][00]
+
+### B0-057
+Hai il Kit Subacqueo![22][20][WAIT]
+Perfetto per tutti quei
+punti d'acqua profonda
+che ti sbarravano la
+strada![24][20] Premi i
+tasti a ripetizione e
+nuota a più non posso![00]
+
+### B0-058
+Gabriel:
+Salve![24][20]
+Benvenuto alla
+Maison-sur-la-mer!
+Se ti serve qualcosa,
+mettiti davanti e
+premi il tasto A![00]
+
+### B0-059
+Hai gli Abiti della
+Forza![22][20][WAIT]
+Basta indossarli e
+tutti i tuoi attacchi
+diventano più
+potenti![24][20]
+Dovrai solo
+sopportare quel
+colore sgargiante![00]
+
+### B0-060
+Hai gli Abiti
+Protettivi![22][20][WAIT]
+Basta indossarli e la
+tua difesa aumenta
+miracolosamente![24][20]
+Dovrai solo
+sopportare quello
+strano colore![00]
+
+### B0-061
+Gabriel:
+Non hai abbastanza
+soldi.[00]
+
+### B0-062
+Hai il Revolver![22][22][20][WAIT]
+Senti il suo peso
+nella mano![24][20]
+La tua pistola è
+finalmente potenziata![22][20]
+Così la lotta si fa
+più facile![00]
+
+### B0-063
+Hai la Magnum![22][22][20][WAIT]
+Finalmente hai la
+pistola più forte![24][20]
+Ora non hai più
+niente da temere![22][20]
+Vai, apriti la strada
+a colpi di pistola![00]
+
+### B0-064
+Hai 1UP![00]
+
+### B0-065
+Hai 3UP![00]
+
+### B0-066
+Hai imparato il
+Pugnooone![22][20][WAIT]
+Tieni premuto Y per
+un attimo, poi lascia![24][20]
+Usa questo pugno
+enorme per spazzare
+via ciò che ti blocca,
+nemico o macigno![00]
+
+### B0-067
+Hai ricevuto la
+Fascia Rossa![22][20][WAIT]
+La leggendaria fascia
+indossata da un certo
+artista marziale![24][20]
+Basta legarla attorno
+alla testa per sentirsi
+più forti![00]
+
+### B0-068
+Si è cristallizzata
+in Cina per 4000
+anni!
+E' molto speciale
+Bomba Ascensione!
+
+C'è solo questa
+bomba e basta, quindi
+molto attento a come
+usare, sì?[00]
+
+### B0-069
+Molto felice per te,
+buona fortuna!
+Io fa il tifo per tuo
+successo![00]
+
+### B0-070
+Gantetsu:
+Mh? Che succede?
+Qui non hai più
+niente da fare.[WAIT]
+Su, vai da Tenkai![24][20]
+...per imparare il
+Segreto Supremo![00]
+
+### B0-071
+Fantasma Sbarrapasso:
+Oh, davvero![22][20]
+Che bello sentirlo!
+Allora! Prossima strofa![WAIT]
+- Iooo sooono un
+fantaaasma -[24][20]
+- trasparente come
+l'aria - la-laaa -
+- E quindi tu -[22][20]
+- puoi vedeeere -
+- attraverso meee -[24][20]
+Uuuaaaaah![WAIT]
+Il Fantasma Sbarrapasso
+ignora [NAME] e
+continua a cantare la
+sua strana canzone...
+
+Pare che dovrai fare
+qualcosa se vuoi
+passare...[00]
+
+### B0-072
+Tenkai:
+Che succede?
+Dovresti andare da
+Gantetsu![WAIT]
+...per imparare il
+Segreto Supremo che noi
+fratelli abbiamo creato![00]
+
+### B0-073
+Hai imparato il
+Colpo Carico![22][20][WAIT]
+Tieni premuto il tasto
+A per caricare![24][20]
+Lascia andare quando il
+tuo corpo lampeggia e
+sparerai un colpo
+potentissimo![00]

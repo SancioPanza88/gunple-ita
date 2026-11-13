@@ -1,0 +1,431 @@
+### B0-236
+C[21]-che disastro...[24][20][WAIT]
+Pare che il mio
+gioco sia durato
+troppo...
+E sia... anche a
+rischio della mia
+stessa vita, preparati
+a conoscere il vero
+segreto delle Arti
+Psico-Ninja...[WAIT]
+Caduta della Colonia
+Ninja!![00]
+
+### B0-237
+...Eh-eh-eh...[24][20]
+Dunque sei tu...[24][20]
+Il ragazzo che osa
+opporsi a noi
+Demiseed...[00]
+
+### B0-238
+I[21]o sono Demi...[24][21]
+Il potente signore
+dei Demiseed!![00]
+
+### B0-239
+S[21]ei dunque tu quello
+che ha battuto due
+boss della mia
+organizzazione e li ha
+fatti venire da me
+a piagnucolare?[WAIT]
+Mi pare una cosa
+infantile, ma visto
+che offendi la mia
+vista, dovrò farti
+sparire...[WAIT]
+Attacca, Galahad E3![24][21]
+Abbattilo e ti
+aspetta una bella
+bistecca succosa![00]
+
+### B0-240
+Bene, bene![24][20]
+Era da tanto, tanto
+tempo che non avevamo
+un visssitatore VIVO...
+Chiamami...
+Fantasma Sssuzuki![24][20][WAIT]
+Vita, vita, vita...
+Chi ne ha bisssogno?
+
+Essere un fantasssma
+è molto più
+divertente!
+I fantasssmi non
+hanno essssami![WAIT]
+Vieni, ragazzo![24][20]
+Preparati a goderti il
+tuo primo giorno di
+vita fantasssmale![00]
+
+### B0-241
+Che... dolore![WAIT]
+Non ho mai provato
+un dolore cosssì in
+tutta la mia morte!![WAIT]
+Qui ci vuole l'ultima
+risssorsa![00]
+
+### B0-242
+Sìsìpronto
+pronto,[24][20]
+Un Parts Shoot,
+grazie, sì, sì.[00]
+
+### B0-243
+Vieni qui![24][20]
+Apache 1!![00]
+
+### B0-244
+Aaargh!! Ahi, che
+dolore doloroso![WAIT]
+Ma![24][20]
+Quessta non è una
+sconfitta![24][20]
+Perché i fantasssmi
+non muoiono![24][20]
+Non si ammalano
+nemmeno![WAIT]
+Un giorno farò
+davvero di te un
+fantasssma![24][20]
+Alla prossima![00]
+
+### B0-245
+E[21]h-eh-eh...[24][21]
+Grazie mille per
+tutti quei
+sssoldi...[24][20]
+Da quanto tempo,
+Bambino Vivo![WAIT]
+Non dirmi che hai
+dimenticato il
+fantasma dell'amore,
+della verità e della
+giussstizia, il
+Fantasssma Suzuki!![WAIT]
+Grazie alle tue
+generose donazioni,
+ho potuto completare
+il Mecha Gigante
+Definitivo![24][20]
+Ssstavolta si fa
+sul serio![00]
+
+### B0-246
+Da quanto tempo,
+Bambino Vivo![WAIT]
+Non dirmi che hai
+dimenticato il
+fantasma dell'amore,
+della verità e della
+giussstizia, il
+Fantasssma Suzuki!![WAIT]
+Grazie alle tue
+generose donazioni,
+ho potuto completare
+il Mecha Gigante
+Definitivo![24][20]
+Ssstavolta si fa
+sul serio![00]
+
+### B0-247
+Guarda e stupisci![24][20]
+God Suzuuuking!![00]
+
+### B0-248
+S[21]-sconfitto ancora...[24][21]
+Ma non lo trovo
+ssstrano, né ti porto
+rancore...[24][20]
+...Ben giocato,
+Bambino Vivo![24][20]
+E' ssstata una bella
+lotta![WAIT]
+Ma non mi sono ancora
+arreso![24][20]
+I fantasssmi non
+muoiono![24][20]
+Ho tutto il tempo
+dell'universsso!
+Un giorno farò
+davvero di te un
+fantasssma![24][20]
+Fino ad allora,[24][20] ciao![00]
+
+### B0-249
+Complimenti per essere
+arrivato fin qui,
+ragazzino.[24][20]
+Sei molto più forte
+di quanto sembri.[00]
+
+### B0-250
+Ma qui finisce la tua
+strada![24][20]
+Preparati, Mary![00]
+
+### B0-251
+Sono sempre pronta,
+sorella![00]
+
+### B0-252
+Allora andiamo![00]
+
+### B0-253
+Per cogliere la gioia
+in ogni anima![00]
+
+### B0-254
+Per il domani,
+combattiamo oggi![00]
+
+### B0-255
+Le Belle Sorelle
+Combattenti
+dell'Amore e della
+Giustizia![00]
+
+### B0-256
+Sally![00]
+
+### B0-257
+...e Mary!![00]
+
+### B0-258
+In nome del Padrone
+Demi![00]
+
+### B0-259
+Ti mandiamo i nostri
+pugni più duri![00]
+
+### B0-260
+E' un osso duro,
+questo glielo
+concedo...[24][20]
+Mary! Ora tocca a te![00]
+
+### B0-261
+Ricevuto, sorella![00]
+
+### B0-262
+S-Sally...[24][20]
+Perdonami...[24][20]
+Ho perso...[00]
+
+### B0-263
+N-non posso
+crederci...[24][20]
+Mary, per ora
+ritiriamoci![00]
+
+### B0-264
+Ahhh, che peccato![24][20]
+Ce la pagherai![00]
+
+### B0-265
+Barone Alps:
+Uaah-ah-ah-ah![24][20][WAIT]
+Se vuoi salvare
+questa ragazza,
+ragazzo, dovrai venire
+alla Torre di Pietra![24][20]
+Ti aspetto![00]
+
+### B0-266
+Barone Alps:[21]
+Ti stavo aspettando,
+[NAME]...[00]
+
+### B0-267
+Barone Alps:
+Mh?[24][20] Ah sì, sì![22][20][WAIT]
+Riporterò di sicuro
+questa ragazza al
+villaggio...
+...non appena avrò
+finito di spiaccicare
+TE, ragazzo![21][WAIT]
+...O forse dovrei
+chiamarti...[WAIT]
+Sceriffo Spaziale[24][20] Zero!![00]
+
+### B0-268
+Sarah:[21]
+Sceriffo...[24][20]Spaziale!?[00]
+
+### B0-269
+Barone Alps:
+Inseguire il nostro
+grande padrone Demi
+di stella in stella
+per tutta la galassia...
+Sei stato bravo a
+seguirne le tracce
+fin quaggiù...[WAIT]
+Ma per te qui è il
+capolinea![00]
+
+### B0-270
+Barone Alps:
+Con te ho finito,
+ragazza. Su, vattene
+da qui.[00]
+
+### B0-271
+Sarah:
+.......
+..Ehm.....[00]
+
+### B0-272
+Sarah:[21]
+.........[WAIT]
+...V-[22][21]va bene.....[24][21]
+Ho capito...[00]
+
+### B0-273
+Sarah:S-sì![00]
+
+### B0-274
+Barone Alps:[21]
+Eh-eh-eh...[24][20][WAIT]
+Oh, niente...[22][20]
+Pensavo solo che è
+proprio strano che un
+uomo dello spazio
+rischi la vita per un
+moccioso terrestre
+come quello...[WAIT]
+Un mestiere che ti si
+addice poco, eh,
+Sceriffo Spaziale?[00]
+
+### B0-275
+[NAME]:
+......![00]
+
+### B0-276
+Barone Alps:[21]
+Ooh...[24][20]ho toccato un
+tasto dolente?[24][21]
+Chiedo scusa...[21][WAIT]
+Bene...[24][20]
+Direi che è ora di
+cominciare...[24][20][WAIT]
+Sei pronto? Ti
+avverto, sono un
+osso duro![00]
+
+### B0-277
+.[21]..Benvenuto, mio caro
+piccolo Zero...
+Ti stavo aspettando...[WAIT]
+O ora dovrei dire[22][21]
+"mio caro piccolo
+[NAME]"?[00]
+
+### B0-278
+M[21]i dispiace tanto
+averti fatto fare
+tutta questa strada
+solo per mor...[24][20]Ehi![24][20]
+C-[22][20]cosa stai
+facendo?[00]
+
+### B0-279
+C-[22][20]cos'è QUELLO?[24][20]
+Cosa credi di fare?![WAIT]
+No![22][20] Fermo![22][20] Ti prego![24][20]
+AAAAAAAAAAAH!![00]
+
+### B0-280
+M[21]a-[24][20]ma che diavolo
+stai FACENDO?![WAIT]
+Io sto qui a
+chiacchierare
+tranquillo e tu mi
+tiri un ESPLOSIVO![WAIT]
+Ooohh, ora mi hai
+fatto arrabbiare![24][20]
+Questa non te la
+perdono! No, dobbiamo
+chiudere i conti
+adesso!![00]
+
+### B0-281
+Il mecha che ho
+preparato sarà finito
+solo al 70 per cento,
+ma basta e avanza per
+farti fuori!![00]
+
+### B0-282
+L[21]uci,[24][20] ACCESE![00]
+
+### B0-283
+M[21]usica,[24][20] VIA![00]
+
+### B0-284
+.[21]..Grazie per
+l'attesa...[24][20]
+Allora, cominciamo?[00]
+
+### B0-285
+Gyaaahh! N-non è
+possibile!![24][20]
+Danni al 96 per cento?![24][20]
+Potenza del motore
+in calo!?[WAIT]
+Non puoi avermi
+sconfitto! Non ci
+posso credere!![22][20]
+Iiiaaargh!![22][20][00]
+
+### B0-286
+[NAME]:
+Ma--?[24][20]
+Sta crollando!?[00]
+
+### B0-287
+E[21]h-eh... proprio così...[24][20]
+Credevi di arrivare
+al finale così
+facilmente? Ti
+seppellirò qui con me![00]
+
+### B0-288
+[NAME]:
+N-no![24][20]
+Che faccio adesso?![00]
+
+### B0-289
+Robaton:
+Fiu, appena in
+tempo![00]
+
+### B0-290
+[NAME]:
+Robaton?![WAIT]
+Ma avevi detto che i
+posti bui non li
+sopporti![00]
+
+### B0-291
+Robaton:
+Non è il momento!
+Aggrappati![00]
+
+### B0-292
+[NAME]:
+A-agli ordini!![00]
+
+### B0-293
+C-cosa--?![24][20]
+U-un terremoto!?[22][20]
+Aiuto![24][20]
+Ehi! G-guardate
+lassù![00]

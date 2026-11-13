@@ -1,0 +1,501 @@
+### B0-163
+Uomo Misterioso:
+Ih-ih-ih...
+Lieto di esssservi
+utile...[00]
+
+### B0-164
+Uomo Misterioso:
+Ih-ih-ih...
+Non hai abbassstanza
+sssoldi per passsare...[00]
+
+### B0-165
+Uomo Misterioso:
+Ih-ih-ih...
+Allora non ti faccio
+passsare...[00]
+
+### B0-166
+Colobutch:
+Ehm, beh, ecco,
+t-torna pure quando
+vuoi![WAIT]
+Imparare a usare le
+armi non fa mai
+male, dopotutto![00]
+
+### B0-167
+Colobutch:
+Santo cielo, impari
+in fretta![WAIT]
+Torna più tardi,
+capito?[24][20]
+
+T'insegnerò a usare
+un'arma ancora
+MIGLIORE![00]
+
+### B0-168
+Colobutch:
+Ma che diamine?[WAIT]
+T'ho insegnato tutte
+le armi che conosco...[22][20]
+E ADESSO che faccio?...[00]
+
+### B0-169
+Colobutch:
+BAM!![24][20]
+Annunciamo la grande
+riapertura come la
+nuovissima[22][20]
+Casa delle Bombe!
+Se non ho armi da
+vendere, beh, allora
+le FABBRICO! Uahahah![WAIT]
+Allora che ne dici,
+[NAME]? Ti va di
+comprare una delle mie
+bombe fatte a mano?[22][20]
+Ti faccio degli
+affaroni![00]
+
+### B0-170
+Colobutch:[21]
+Ehm...[20]
+Mi spiace, ma...[24][20]
+Non hai abbastanza
+quattrini.[00]
+
+### B0-171
+Colobutch:
+Oh. Va... va bene.[00]
+
+### B0-172
+1 Fuoco Crisantemo
+costa $100.
+Lo vuoi comprare?[24][20]
+      Sì      No[END]
+
+### B0-173
+3 Fuochi Crisantemo
+costano $300.
+Li vuoi comprare?[24][20]
+      Sì      No[END]
+
+### B0-174
+1 Bomba Stellare - $100.
+La vuoi comprare?[24][20]
+      Sì      No[END]
+
+### B0-175
+3 Bombe Stellari - $300.
+Le vuoi comprare?[24][20]
+      Sì      No[END]
+
+### B0-176
+Nero:
+Mentre io mi spaccavo
+la schiena, tutti
+questi adulti se ne
+stavano seduti![WAIT]
+Ma ora basta! Lavora,
+fannullone, lavora![00]
+
+### B0-177
+Se compri altre Bombe,
+dovrai buttare quelle
+che hai già.
+Va bene?[24][20]
+      Sì      No[END]
+
+### B0-178
+Nell'anno 1880...[00]
+
+### B0-179
+...due meteore
+precipitarono
+sulla Terra.[00]
+
+### B0-180
+Caddero nel West
+americano, su
+Strange Island.[WAIT]
+Verrebbe da pensare
+che fecero un gran
+clamore...[00]
+
+### B0-181
+Ma la gente di
+quell'epoca era così
+occupata a guadagnarsi[WAIT]
+il poco necessario
+per vivere che nessuno
+ci fece molto caso,[WAIT]
+e l'accaduto fu
+presto dimenticato.[00]
+
+### B0-182
+Eppure...[WAIT]
+Fu proprio qui che la
+nostra storia ebbe
+inizio...[00]
+
+### B0-183
+E così, poco tempo
+dopo la caduta delle
+meteore...[00]
+
+### B0-184
+Eventi inquietanti
+colpirono l'isola, un
+tempo pacifica.[00]
+
+### B0-185
+Comparvero mostri
+bizzarri che presero
+ad aggredire la gente.[00]
+
+### B0-186
+E ovunque un mostro
+attaccasse,[WAIT]
+lasciava dietro di sé
+uno stemma dall'aria
+sinistra.[00]
+
+### B0-187
+"Demiseed"...[WAIT]
+Questa parola, incisa
+sugli stemmi, divenne
+il nome di questi
+misteriosi nemici...[00]
+
+### B0-188
+E ora arriviamo al
+Villaggio Bronco,[WAIT]
+un minuscolo paesino
+nel sud dell'isola...[WAIT]
+...dove vive il nostro
+eroe, il giovane
+[NAME].[00]
+
+### B0-189
+Mamma di [NAME]:
+Fermo lì,
+giovanotto![00]
+
+### B0-190
+Mamma di [NAME]:
+Non ti ho detto di non
+giocare fuori dal
+villaggio?! Là fuori
+ci sono i Demiseed![00]
+
+### B0-191
+Mamma di [NAME]:
+Non guardarmi
+così...[WAIT]
+Uffa, va bene,
+VA BENE![24][20]
+Ma torna a casa
+presto![00]
+
+### B0-192
+[NAME]:
+Ciaaaao![00]
+
+### B0-193
+Papà di [NAME]:
+Quel monello è
+scappato fuori dal[WAIT]
+villaggio un'altra
+volta? E proprio dopo
+che gliel'avevamo
+proibito![00]
+
+### B0-194
+Mamma di [NAME]:
+Su, su, i ragazzi
+sono ragazzi, caro.[00]
+
+### B0-195
+Papà di [NAME]:
+No, di questo passo
+non imparerà mai.[WAIT]
+Gli farò una ramanzina
+che non scorderà più![00]
+
+### B0-196
+[NAME]:
+AAAAAAAAAAH!
+F-f-f-fantasmi!![00]
+
+### B0-197
+Ufo-uomo (N.1):
+Ehm... terrestre, ci
+farebbe piacere che
+tu ascoltassi senza
+tanto... ehm...
+"dare di matto".[00]
+
+### B0-198
+Ufo-uomo (N.1):
+Gahh! Vuoi STARE
+ZITTO e ASCOLTARE?![00]
+
+### B0-199
+[NAME]:
+S-sissignore!![00]
+
+### B0-200
+Ufo-uomo (N.1):
+Siamo Sceriffi
+Spaziali venuti
+dall'altro capo della
+galassia![WAIT]
+Io sono Zero.[00]
+
+### B0-201
+Ufo-uomo (N.2):
+Io sono Garo.[00]
+
+### B0-202
+Zero:
+Siamo sulle tracce
+del famigerato
+Fuorilegge Spaziale
+Demi! Ne sai niente,
+terrestre?[00]
+
+### B0-203
+[NAME]:
+D-Demi? Ehm...
+Non so, assomiglia
+un sacco a quei
+Demiseed che stanno
+combinando guai
+sull'isola...[00]
+
+### B0-204
+Zero:[21]
+Demiseed... [24][20]Questo
+merita
+un'indagine...[00]
+
+### B0-205
+Garo:
+Vuoi dire...[WAIT]
+Che anche Mono
+potrebbe essere
+venuto su questo
+pianeta...[00]
+
+### B0-206
+[NAME]:
+Eh? Chi è "Mono"?[00]
+
+### B0-207
+Zero:
+Uno Sceriffo Spaziale
+partito all'inseguimento
+di Demi prima di noi.[WAIT]
+Non hai sentito
+niente di lui?[00]
+
+### B0-208
+[NAME]:
+No, niente di
+niente...[00]
+
+### B0-209
+Garo:
+Che cosa starà
+combinando?[WAIT]
+"Vado io a prendere
+quella canaglia di
+Demi!"
+Non aveva detto
+così?[00]
+
+### B0-210
+Zero:
+Beh, in ogni caso
+dobbiamo riunirci a
+lui il prima
+possibile...[WAIT]
+Ma prima.
+Ragazzo terrestre.[24][20][WAIT]
+Devo chiederti un
+favore.[00]
+
+### B0-211
+[NAME]:
+Eh?[00]
+
+### B0-212
+Zero:
+I nostri corpi non
+reggono a lungo su
+questo pianeta.[WAIT]
+Quindi...[22][20]
+Vorrei prendere in
+prestito il tuo corpo
+per un po'.[00]
+
+### B0-213
+[NAME]:
+COSA?![00]
+
+### B0-214
+Garo:
+Un momento,
+Capitano!
+Non vorrà dire...[00]
+
+### B0-215
+Zero:
+Gahh! Vuoi STARE
+ZITTO?![WAIT]
+Se la nostra NAVE non
+fosse distrutta per
+colpa della TUA guida
+spericolata, non ci
+sarebbe NESSUN
+bisogno di chiederlo![00]
+
+### B0-216
+Garo:
+Beh, su questo...
+ha ragione, ma...[00]
+
+### B0-217
+[NAME]:
+...Va bene, d'accordo.[00]
+
+### B0-218
+Garo:
+Ehh!?[WAIT]
+Zero:
+Davvero,
+terrestre?![00]
+
+### B0-219
+[NAME]:
+Sì! Cioè, siete qui per
+acchiappare un
+cattivo, giusto?[WAIT]
+Se pensate che un
+ragazzino come me vi
+possa servire...[24][20]
+Ben volentieri![00]
+
+### B0-220
+Zero:
+...Grazie, coraggioso
+terrestre.[WAIT]
+Hai la nostra più
+profonda gratitudine!![00]
+
+### B0-221
+Garo:
+...Senti, come ti
+chiami?[00]
+
+### B0-222
+[NAME]:
+Sono [NAME]![00]
+
+### B0-223
+Zero:
+Allora, [NAME].
+Se non ti dispiace...[WAIT]
+Tieni i muscoli
+rilassati, e...[00]
+
+### B0-224
+Garo:
+Come si sente,
+Capitano?
+Ehm... ora dovrei
+chiamarla "[NAME]",
+giusto?[00]
+
+### B0-225
+[NAME](Zero):
+E' un po' stretto, ma
+non troppo scomodo.
+...Bene. Continuerò
+l'indagine in questa
+forma.[WAIT]
+Garo, tu ripara la
+nave sotto quel
+grande albero. E vedi
+se riesci a raccogliere
+dati sui nostri
+nemici.[00]
+
+### B0-226
+Garo:
+Ricevuto![00]
+
+### B0-227
+Ehi, [NAME]!!
+Cos'era quel gran
+botto laggiù?[00]
+
+### B0-228
+[NAME](Zero):
+Presto, nasconditi![00]
+
+### B0-229
+Tutto bene, [NAME]?
+Non ti sei fatto
+male, vero?[00]
+
+### B0-230
+[NAME]:
+N-no.[00]
+
+### B0-231
+Wow! Che cratere
+enorme![22][20]
+Sono stati di nuovo
+i Demiseed?[00]
+
+### B0-232
+[NAME]:
+Ehm, sì...[22][20]
+Ma io sto bene![WAIT]
+Sono, ehm, scappati
+da qualche parte.[00]
+
+### B0-233
+Ma pensa...[22][20]
+Beh, torna dentro,
+svelto.[00]
+
+### B0-234
+Chi essere TUUU?[24][20]
+Mio nome essere
+Miracle 5![WAIT]
+Padrone Demi dire me
+non lasciare tornare
+a casa vivo NESSUNO
+che viene qui![24][20]
+Io essere tanto tanto
+dispiaciuto, ma...[WAIT]
+Io schiacciare te
+con mio CORPO![00]
+
+### B0-235
+S[21]aresti dunque tu
+quel "Mono" che osa
+opporsi a noi
+Demiseed?[20][WAIT]
+Cosa!?[24][20]
+Sei solo un ragazzo![24][20]
+Che farsa![WAIT]
+Il tuo corpo sarà
+ridotto in cenere
+dalle Arti Psico-Ninja
+di Brazil Circle![00]

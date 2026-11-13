@@ -1,0 +1,105 @@
+### B0-000
+Vuoi andare a letto?[24][20]
+
+      Sì      No[END]
+
+### B0-001
+Gelato alla fragola![24][20]
+Mangialo per recuperare
+un po' di salute![WAIT]
+$5, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-002
+Ramen![24][20]
+Mangialo per recuperare
+un pochino di salute![WAIT]
+$8, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-003
+Riso al curry![24][20]
+Mangialo per recuperare
+parecchia salute![WAIT]
+$10, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-004
+Gelato mangiato![24][20]
+E' ghiacciato!![00]
+
+### B0-005
+Ramen mangiato![24][20]
+Sa di glutammato!![00]
+
+### B0-006
+Curry mangiato![24][20]
+Così piccante!![00]
+
+### B0-007
+Un Menù Bambini![24][20]
+Mangialo per recuperare
+un pochino di salute![WAIT]
+$12, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-008
+Una torta![24][20]
+Mangiala, perché ti fa
+recuperare parecchia
+salute![WAIT]
+$15, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-009
+Un panino![24][20]
+Mangialo per recuperare
+un sacco di salute![WAIT]
+$20, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-010
+Menù Bambini mangiato![24][20]
+C'era anche il budino
+come dolce!![00]
+
+### B0-011
+Torta mangiata![24][20]
+Le fragole erano
+deliziose!![00]
+
+### B0-012
+Panino mangiato![24][20]
+Però, che salutare!![00]
+
+### B0-013
+Zuppa di mais![24][20]
+Mangiala per recuperare
+parecchia salute![WAIT]
+$10, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-014
+Un hamburger![24][20]
+Mangialo per recuperare
+un sacco di salute![WAIT]
+$20, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-015
+Budino.
+(Formato secchio!)[24][20]
+Mangialo e avrai così
+tanta salute che non
+saprai più che farne![WAIT]
+$25, che ne dici?[24][20]
+
+      Sì      No[END]

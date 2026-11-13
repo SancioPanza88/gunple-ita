@@ -1,0 +1,630 @@
+### B1-000
+E' f-finita...?[WAIT]
+Wow! La montagna è
+completamente
+diversa...[00]
+
+### B1-001
+[NAME]:
+Sono tornatooo![22][20][WAIT]
+Robaton:
+Yippie-ka-yei![00]
+
+### B1-002
+Sarah:
+[NAME]![22][20]
+Stai bene!![00]
+
+### B1-003
+[NAME]:
+Il male è stato
+sconfitto!
+Missione...[22][20]
+compiuta al
+cento per cento!![24][20][21]
+E ora...[24][21]
+dobbiamo salutarci...[00]
+
+### B1-004
+Sarah:[21]
+.......[00]
+
+### B1-005
+[NAME](Zero):
+...Ho fatto passare
+fin troppo a questo
+ragazzo terrestre.[WAIT]
+Per favore, fai in
+modo che il suo corpo
+riposi come si deve.[00]
+
+### B1-006
+[NAME](Zero):
+E così...[00]
+
+### B1-007
+Sarah:
+Kyaaaaaaaaah![00]
+
+### B1-008
+Zero:
+Ehm... Non c'è da
+preoccuparsi.[24][20]
+Spero.[00]
+
+### B1-009
+Sarah:
+SPERI?![00]
+
+### B1-010
+Garo:
+E' normale, dopo una
+separazione così
+improvvisa...
+Starà bene.[22][20][WAIT]
+Presto si sveglierà
+da quello che è stato
+un lungo, lungo sogno.[00]
+
+### B1-011
+Sarah:
+Davvero!?[24][21]
+...grazie al cielo...[00]
+
+### B1-012
+Robaton:
+Yuhuu! Finalmente
+possiamo tornare
+al Quartier Generale![00]
+
+### B1-013
+Zero:
+E di che stai
+parlando?[24][20]
+Tu resti qui.[00]
+
+### B1-014
+Robaton:
+COOOSA--?![00]
+
+### B1-015
+Zero:
+Senti, questa nave è
+fatta solo per due,[WAIT]
+e se pensi che ci sia
+posto anche per te
+dentro quel...
+coso, ti sbagli di
+grosso.[00]
+
+### B1-016
+Robaton:
+Ma come--!?[WAIT]
+Andiamo, non ho
+rischiato la pelle
+anch'io come tutti
+voialtri?![24][20]
+State SCHERZANDO,
+spero![00]
+
+### B1-017
+Garo:
+Va bene, facciamo
+così.[WAIT]
+Quando Demi sarà al
+sicuro in prigione,
+tornerò a prenderti.[00]
+
+### B1-018
+Robaton:
+D-dici davvero?![00]
+
+### B1-019
+Garo:
+...tra una
+cinquantina d'anni.[00]
+
+### B1-020
+Zero:
+Allora, voi due! [24][20]Che
+restiamo sempre amici![00]
+
+### B1-021
+Garo:
+Arrivederci![00]
+
+### B1-022
+[NAME]:
+Ooohh...[00]
+
+### B1-023
+Sarah:
+[NAME]![00]
+
+### B1-024
+[NAME]:
+Eh? Che ci facevo qui
+a dormire?
+Giurerei di aver
+appena incontrato
+degli... uomini dello
+spazio... o roba del
+genere...[24][21]
+...Eh?[00]
+
+### B1-025
+Sarah:[21]
+...Non è niente,
+[NAME].[24][21]
+Proprio niente...[00]
+
+### B1-026
+Dopo di allora[00]
+
+### B1-027
+[NAME] fu lodato da
+tutti come il piccolo
+eroe che aveva
+salvato l'isola.[WAIT]
+Nessuno ne fu più
+felice del papà di
+[NAME].[00]
+
+### B1-028
+Su insistenza dello
+sceriffo, [NAME]
+divenne Vicesceriffo.[WAIT]
+Nessuno ne fu più
+felice del papà di
+[NAME].[00]
+
+### B1-029
+Tuttavia...[00]
+
+### B1-030
+Senza più lo Sceriffo
+Spaziale Zero nel suo
+corpo, [NAME] era
+(ovviamente) solo un
+ragazzino, incapace
+perfino di sparare.[WAIT]
+Nessuno ne soffrì più
+del papà di [NAME].[00]
+
+### B1-031
+Man mano che il ricordo
+dei Demiseed e del
+ruolo di [NAME]
+svaniva,[WAIT]
+la gente cominciò a
+chiedersi ad alta voce
+se non fosse stato
+tutto un sogno, o una
+specie di errore.[WAIT]
+Nessuno ne soffrì più
+del papà di [NAME].[00]
+
+### B1-032
+Eppure...[00]
+
+### B1-033
+[NAME] non diede
+retta a quelle voci.[WAIT]
+Ogni giorno ce la
+metteva tutta per
+diventare un grande
+sceriffo.[WAIT]
+Inutile dire che
+Sarah lo sosteneva
+in tutto e per tutto...[WAIT]
+Almeno per ora, pare
+proprio che la vita
+continuerà in pace.[00]
+
+### B1-034
+Inutile dire che
+Sarah lo sosteneva
+in tutto e per tutto...[WAIT]
+Almeno per ora, pare
+proprio che la vita
+continuerà in pace.[00]
+
+### B1-035
+ - P.S.[22][20]
+Per favore, venite a
+prendermi presto.[WAIT]
+ - un Robaton molto
+pentito[00]
+
+### B1-036
+   Fine!![25]Robaton:
+Allora è ora della
+battaglia finale,
+eh, [NAME]?
+Che si fa?[WAIT]
+      Base nemica!
+      Meglio di no[05]Robaton:
+Che c'è, [NAME]?
+Non ti senti bene?
+Che si fa?[WAIT]
+      Torna in città
+      Sto bene[05]Papà di [NAME]:
+...così ho saputo che
+sei andato di nuovo
+a giocare fuori dal
+villaggio...[00]
+
+### B1-037
+Robaton:
+Allora è ora della
+battaglia finale,
+eh, [NAME]?
+Che si fa?[WAIT]
+      Base nemica!
+      Meglio di no[05]Robaton:
+Che c'è, [NAME]?
+Non ti senti bene?
+Che si fa?[WAIT]
+      Torna in città
+      Sto bene[05]Papà di [NAME]:
+...così ho saputo che
+sei andato di nuovo
+a giocare fuori dal
+villaggio...[00]
+
+### B1-038
+Robaton:
+Che c'è, [NAME]?
+Non ti senti bene?
+Che si fa?[WAIT]
+      Torna in città
+      Sto bene[05]Papà di [NAME]:
+...così ho saputo che
+sei andato di nuovo
+a giocare fuori dal
+villaggio...[00]
+
+### B1-039
+Papà di [NAME]:
+...così ho saputo che
+sei andato di nuovo
+a giocare fuori dal
+villaggio...[00]
+
+### B1-040
+Papà di [NAME]:
+Perché diamine non
+dai retta a tua
+madre?! Lei...[21]
+...si preoccupa
+per te...[20]
+Eh?[24][20]...Cosa dici?[00]
+
+### B1-041
+Papà di [NAME]:
+...Eh?[24][20]
+"Il nostro senso di
+Giustizia si è
+risvegliato"?[WAIT]
+"E per questo
+dobbiamo sconfiggere
+i Demiseed...
+...Papà."?[24][20]
+Ma che...[00]
+
+### B1-042
+Papà di [NAME]:
+Stupido che non
+sei altro![00]
+
+### B1-043
+Mamma di [NAME]:
+Ti prego, caro, non
+essere così duro
+con...[00]
+
+### B1-044
+Papà di [NAME]:
+Silenzio, donna![00]
+
+### B1-045
+Papà di [NAME]:
+Ma che DIAVOLO stai
+dicendo, ragazzo?
+Credi che quei
+Demiseed siano roba
+da TE?[WAIT]
+Non raccontarci più
+queste fesserie![00]
+
+### B1-046
+Papà di [NAME]:
+Adesso![24][20]
+Voglio che prometti
+a mamma e papà:[WAIT]
+"Non andrò più a
+giocare fuori dal
+villaggio." Dillo![00]
+
+### B1-047
+Papà di [NAME]:
+...Cosa?[24][20] "Nessuno può
+fermarci."?
+"Distruggere i
+Demiseed è la nostra
+missione...
+...Papà."?[24][20]
+...ma che roba è?[00]
+
+### B1-048
+Papà di [NAME]:
+Non hai sentito una
+parola di quello che
+ho detto, ragazzo![WAIT]
+Bene, se le cose
+stanno così, allora
+vai pure, fai quello
+che ti pare![WAIT]
+...Ma ascoltami bene!![00]
+
+### B1-049
+Papà di [NAME]:
+Se hai deciso con
+cuore d'uomo che è
+questo che vuoi fare,
+allora ti parlo da
+uomo a uomo![WAIT]
+Finché non avrai
+abbattuto almeno un
+Demiseed, non voglio
+vedere la tua faccia
+in questa casa!![WAIT]
+Mi sono spiegato?![00]
+
+### B1-050
+Mamma di [NAME]:
+[NAME], ma cosa ti è
+saltato in mente di
+dire certe cose?...[24][20][WAIT]
+Su, tesoro.[22][20]
+Dovresti proprio
+chiedere scusa a tuo
+padre, più tardi.[00]
+
+### B1-051
+Papà di [NAME]:
+In questa casa non
+c'è posto per te!
+Fuori di qui![00]
+
+### B1-052
+Mamma di [NAME]:
+Tu e tuo padre siete
+due testoni, lo
+sai...?[WAIT]
+...Non dargli retta,
+d'accordo? Puoi
+tornare a casa quando
+vuoi. Intesi?[00]
+
+### B1-053
+Papà di [NAME]:
+Avanti, hai sentito!
+Fuori di qui![00]
+
+### B1-054
+Billy:
+Cosa?[24][20] Hai sconfitto
+un boss dei Demiseed?!
+Dici davvero?! Ero
+sicuro che stessi solo
+andando a giocare...
+Ahah![22][20] E' fantastico![WAIT]
+Corro subito a dirlo
+a tuo padre!
+Farà i salti
+mortali![00]
+
+### B1-055
+Billy:
+Ehi, [NAME]!
+Come va?[00]
+
+### B1-056
+Ragazza:
+Kyaaaaaaaaah!![00]
+
+### B1-057
+Ragazza:
+S-scusa, [NAME]![WAIT]
+Ma sei piombato in
+camera mia così di
+corsa... è anche
+colpa tua![00]
+
+### B1-058
+Ragazza:
+Eh? C-cosa?[22][21]
+..."Chi sei?"
+...hai detto
+così?[00]
+
+### B1-059
+Ragazza:
+Ehm, stai bene,
+[NAME]?
+Hai battuto la testa
+o cosa?![21]
+...Cioè...[20]
+Ah. Giusto.[24][20]
+L'hai... battuta.[24][20]
+Quando io... già.[00]
+
+### B1-060
+Ragazza:
+...Ehm, va bene,
+credo...[WAIT]
+Siamo amici da così
+tanto tempo che è un
+po' strano...
+...beh, pazienza![00]
+
+### B1-061
+Ragazza:
+Mi chiamo Sarah![24][20]
+Sono la figlia dello
+sceriffo!
+...Fa un po' strano
+dirlo, visto che ci
+vediamo sempre...[WAIT]
+Ih-ih-ih!
+Scusami davvero se
+ti ho colpito,
+[NAME]![24][20] Beh, ci
+vediamo![00]
+
+### B1-062
+Sarah:
+[NAME], non scordarti
+di nuovo il mio nome,
+d'accordo?[00]
+
+### B1-063
+Ragazza:
+C-cos'è successo,
+[NAME]?[WAIT]
+Ho sentito dei gran
+botti venire da
+casa tua, così sono
+venuta a vedere...[00]
+
+### B1-064
+Ragazza:
+Stai bene,
+[NAME]?![22][20]
+Hai battuto la testa
+o cosa?!
+...Oh, ma l'hai
+battuta davvero...[22][20]
+Hai un bernoccolo
+proprio qui...[00]
+
+### B1-065
+Ragazza:
+Mi chiamo Sarah![22][20]
+Sono la figlia dello
+sceriffo!
+Ma lascia stare, cos'è
+successo, [NAME]?[22][20]
+Cosaa!?[22][20]Ti hanno
+cacciato di casa?[22][20]
+Perché?[00]
+
+### B1-066
+Sarah:[21]
+...attento, tu...[22][20]
+...Neanche a mio papà
+piacerebbero questi
+discorsi.[00]
+
+### B1-067
+Sarah:
+Nemmeno mio papà sa
+cosa fare con i
+Demiseed!
+Se non ci riescono gli
+adulti, figurati
+se ci riesci TU![WAIT]
+Dovresti andare a
+chiedere scusa a tuo
+papà, [NAME]!
+E stavolta piantala
+con le stranezze.[00]
+
+### B1-068
+Sarah:
+[NAME]! Mi raccomando,
+chiedi scusa a tuo
+papà![00]
+
+### B1-069
+Papà di [NAME]:
+In questa casa non
+c'è posto per te!
+Ho detto, ...[24][20]Mh?[00]
+
+### B1-070
+Papà di [NAME]:
+Eh?[24][20] C-COSA?[24][20]
+Un Boss dei Demiseed?
+Tu!? [22][20]Ma va' là![00]
+
+### B1-071
+Papà di [NAME]:
+Que...[22][20]
+Quello è...?![22][20]
+Uno Stemma Demiseed!?[00]
+
+### B1-072
+Mamma di [NAME]:
+Oh...[22][21]
+Oh, cielo...[22][20][00]
+
+### B1-073
+Papà di [NAME]:
+Eh... cosa?[24][20]
+C'è dell'altro?
+"Ho preso un cattivo,
+quindi posso tornare
+a casa...
+...vero, papà?"[WAIT]
+E-ehm![24][20]
+C-certo che puoi!
+Era una promessa fra
+uomini, dopotutto![22][20]
+Mh![22][20] Sì![00]
+
+### B1-074
+Papà di [NAME]:
+C-comunque![WAIT]
+Dovresti andare a
+riferirlo allo
+sceriffo!
+
+Sì, così va bene!
+[00]
+
+### B1-075
+Papà di [NAME]:
+C-comunque![WAIT]
+Dovresti andare a
+riferirlo allo
+sce[21]rif[22]...[20]
+Mh? Cosa dici?
+L'hai già fatto?[22][21]
+Ah, sì...[00]
+
+### B1-076
+Papà di [NAME]:
+B-bravo![24][20]
+Sì! Bravo,
+[NAME]![00]
+
+### B1-077
+Mamma di [NAME]:
+...Davvero, piccola
+peste...
+Non so se metterti
+in punizione o
+abbracciarti...[00]
+
+### B1-078
+Mamma di [NAME]:
+...Non strafare,
+tesoro.[00]
+
+### B1-079
+Mamma di [NAME]:
+Tuo padre sembra più
+felice di quanto
+l'abbia mai visto...[00]

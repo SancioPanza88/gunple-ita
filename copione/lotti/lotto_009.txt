@@ -1,0 +1,637 @@
+### B1-148
+Barone Alps:[21]
+...Me le stai proprio
+suonando di santa
+ragione...[20][WAIT]
+Dalla tomba ti
+pentirai di avermi
+costretto a fare sul
+serio![WAIT]
+Bene![24][20]
+Grande Cannone,[22][20]
+Carica d'energia!![00]
+
+### B1-149
+Carne Deliziosa![24][20]
+Salute al MASSIMO![00]
+
+### B1-150
+Robaton:
+E-eh? [24][20]Questa sì che
+è strana...
+Non riesco ad andare
+più avanti...[24][20]e c'è
+pure 'sto odore
+strano...[WAIT]
+Capo...[24][20]ho un
+bruuutto presentimento
+su 'sta faccenda...[00]
+
+### B1-151
+Aiyah![24][20]
+Prego aspettare
+un pochettino!![00]
+
+### B1-152
+Non puoi aprire i
+forzieri mentre
+cavalchi Robaton!
+...Ci dispiace tanto,
+davvero.[00]
+
+### B1-153
+Buona fortuna, eh!![00]
+
+### B1-154
+Sceriffo:
+Salve, [NAME].[24][20]
+Hai qualche faccenda
+con l'Ufficio dello
+Sceriffo?[00]
+
+### B1-155
+Sceriffo:
+Cosa?[24][20]
+Dici che TU hai
+battuto un boss dei
+Demiseed?[00]
+
+### B1-156
+Sceriffo:
+Mah...[22][20]
+Beh, quello è uno
+Stemma Demiseed,
+non c'è dubbio! Va
+bene, allora, ti
+credo![00]
+
+### B1-157
+Sceriffo:
+...Neanch'io ho
+intenzione di lasciar
+stare quelle canaglie,
+ma...[WAIT]
+Conosci la mappa che
+appare quando premi il
+tasto Select, vero? [24][20]E
+quella grossa montagna
+sospetta al centro,
+tutta coperta di
+nuvole?[00]
+
+### B1-158
+Sceriffo:
+Se non sbaglio, quello
+dev'essere il quartier
+generale dei
+Demiseed...[24][20]
+Ma per qualche
+motivo, non riusciamo
+nemmeno ad
+avvicinarci!
+In nessun modo![00]
+
+### B1-159
+Sceriffo:
+Però![WAIT]
+Se non possiamo
+attaccare la loro base
+principale, almeno
+possiamo provare a
+far fuori i covi che
+hanno sparsi per
+l'isola![22][20]
+E per questo ci serve
+la tua forza![24][20]
+Ti prego, aiutaci![00]
+
+### B1-160
+Sceriffo:
+Ah, sapevo di poter
+contare su di te,
+[NAME]!
+Bene, ti dirò dei
+covi dei Demiseed che
+abbiamo trovato![00]
+
+### B1-161
+Sceriffo:
+Ah, giusto!
+
+Quando sconfiggi un
+Demiseed, ritira la
+taglia da Peggy,
+laggiù![00]
+
+### B1-162
+Sceriffo:
+Cosa! Hai battuto un
+altro boss?!
+Spettacolare![24][20]
+Bene, ecco dove
+dovresti andare
+adesso![00]
+
+### B1-163
+Sceriffo:
+Il Canyon Rosso, nel
+sud-ovest dell'isola...
+In cima c'è la terza
+base dei Demiseed![WAIT]
+Questo lo sappiamo,
+ma... pare che una
+frana blocchi
+l'ingresso![24][20]
+Non riuscirai a
+passare senza fare
+qualcosa a quei
+macigni![00]
+
+### B1-164
+Sceriffo:
+C'è una città
+fantasma a nord-est...
+E ho sentito che i
+Demiseed ci hanno
+costruito una base![WAIT]
+Si dice che in quel
+posto ci siano VERI
+FANTASMI che vanno
+in giro, quindi stai
+in guardia![00]
+
+### B1-165
+Sceriffo:
+Sulla montagna a est
+del villaggio c'è una
+miniera abbandonata.
+Pare che quelle
+canaglie ne stiano
+facendo una base,
+ma...[WAIT]
+Per arrivarci dovrai
+risalire il fiume a
+est...[24][20]
+Sai nuotare, vero?[00]
+
+### B1-166
+Sceriffo:
+Ora le uniche basi
+nemiche rimaste sono
+quelle due torri a
+nord...[WAIT]
+Ma la Torre di Pietra
+è bloccata da una
+barriera elettrica, e
+alla Torre di Legno
+non ci si può
+nemmeno AVVICINARE!
+Cioè, a meno di
+risalire a nuoto una
+CASCATA...
+...Insomma, ne so
+quanto te...[00]
+
+### B1-167
+Sceriffo:
+No, davvero, è tutto
+merito di [NAME] se i
+Demiseed sono quasi
+annientati![WAIT]
+Dev'essere un orgoglio
+avere un figlio così
+in gamba!
+Tale e quale al
+padre, eh?[00]
+
+### B1-168
+Sceriffo:
+Che succede, [NAME]?![24][20]
+Cosa?! SARAH?!
+Oh, santo cielo![WAIT]
+[NAME]! Sei la mia
+unica speranza!
+
+Ti prego, [22][20]salva mia
+figlia![22][20]
+Salva Sarah![00]
+
+### B1-169
+Sceriffo:
+Sarah![24][20]
+Sei salva!![00]
+
+### B1-170
+Sceriffo:
+Grazie, [NAME]!![WAIT]
+Non so come
+ringraziarti per
+quello che hai fatto![00]
+
+### B1-171
+Sceriffo:
+Così si fa, [NAME]!
+Combatti per la
+giusta causa![00]
+
+### B1-172
+Strana Bestia:
+Pe-perbacco... Nun so
+chi siete, ma grazie
+assai d'avermi
+salvato![00]
+
+### B1-173
+Strana Bestia:
+Aspetta un
+momentino... sei
+conciato strano, ma
+sei il Capo Zero,
+vero?!
+Uh-uh! Non ti vedo da
+una vita![24][20]
+...Sono io, sono io![WAIT]
+Lo Sceriffo Spaziale
+Mono![00]
+
+### B1-174
+Mono:
+Me la cavavo
+benissimo a inseguire
+quel Demi fin qua,
+ma...[WAIT]
+Quando ho provato ad
+atterrare su 'sto
+pianeta, per sbaglio
+mi so' schiantato
+proprio addosso a
+'sta creatura,
+"Robaton".[WAIT]
+Noi due ci siamo,
+ehm, fusi, e adesso
+non riesco a
+staccarmi da lui
+manco a pagarlo![00]
+
+### B1-175
+Robaton:
+Comunque, filiamocela
+da 'sta tana di
+muffa![00]
+
+### B1-176
+Mono:
+...Capisco se sei
+arrabbiato, Capo...
+...ahiaaa.....[24][20]
+Ma perbacco, mi
+dispiace un sacco![WAIT]
+Ho risposto male, ho
+fatto stupidaggini e
+sono stato una vera
+seccatura per tutti
+voi!
+[24][20]
+Ma guarda, me ne
+pento!
+[WAIT]
+D'ora in poi seguirò
+i tuoi ordini, lo
+giuro![22][20]
+Dai, mettiamoci una
+pietra sopra![00]
+
+### B1-177
+Mono si è unito
+al gruppo![22][20][00]
+
+### B1-178
+Mono:
+Ah, se non ti
+dispiace, d'ora in
+poi puoi chiamarmi
+"Robaton"?[WAIT]
+Mi ci sono un po'
+affezionato a quel
+nome...[24][20]
+Scusa, ma...
+per favoruccio?[00]
+
+### B1-179
+...Robaton si è unito
+al gruppo![22][24][22][00]
+
+### B1-180
+Robaton:
+Uh-uhuuu!![24][20]
+Non vedevo il sole da
+una vita!
+Che bello potersi
+MUOVERE dopo essere
+stato rinchiuso in
+tutto quel buio![00]
+
+### B1-181
+Robaton:
+A proposito![WAIT]
+D'ora in poi, a volte
+vedrai i nemici
+sconfitti lasciar
+cadere delle carote!
+Se ne raccogli una,
+tienila alta alta e
+io arrivo di corsa![WAIT]
+Però non sopporto i
+posti bui come i
+sotterranei.[22][20]
+Quindi lì non provare
+a chiamarmi!
+
+E per ora, hasta la
+vista!
+[00]
+
+### B1-182
+Peggy:
+Ciao! Sono Peggy,
+quella che consegna
+le taglie da queste
+parti![WAIT]
+Abbiamo messo una
+taglia su tutti i
+boss dei Demiseed, e
+va benissimo, sai,
+è giusto fare
+QUALCOSA, ma...[WAIT]
+Neanche un'anima ha
+riscosso UNA sola
+taglia...
+e io me ne sto qui
+seduta a morire di
+noia.[00]
+
+### B1-183
+Peggy:
+Super, [NAME]![WAIT]
+La taglia di $200 su
+Miracle 5 è tua![00]
+
+### B1-184
+Peggy:
+Ottimo, [NAME]![WAIT]
+La taglia di $400 su
+Brazil Circle è tua![00]
+
+### B1-185
+Peggy:
+Magnifico, [NAME]![WAIT]
+La taglia di $600 su
+Galahad E3 è tua![00]
+
+### B1-186
+Peggy:
+Fantastico, [NAME]![WAIT]
+La taglia di $1000 su
+Ghost Suzuki è tua![00]
+
+### B1-187
+Peggy:
+Splendido, [NAME]![WAIT]
+La taglia di $1400 su
+God Suzuking è tua![00]
+
+### B1-188
+Peggy:
+Eccezionale, [NAME]![WAIT]
+La taglia di $2000 su
+Mary e Sally è tua![00]
+
+### B1-189
+Peggy:
+Bravissimo, [NAME]![WAIT]
+La taglia di $3000 sul
+Barone Alps è tua![00]
+
+### B1-190
+Peggy:
+Mh? [24][20]Ti ho già dato
+la taglia, no?[00]
+
+### B1-191
+Peggy:
+L'ultima battaglia
+contro i Demiseed è
+proprio dietro
+l'angolo![WAIT]
+Ci sei quasi![22][20]
+Non mollare![00]
+
+### B1-192
+C'è una grotta a
+nord-ovest che mi
+puzza parecchio!
+Vai a darci
+un'occhiata per me![WAIT]
+Dirò a Frank di farti
+passare dal cancello
+ovest.
+
+Non deludermi![00]
+
+### B1-193
+Bzzzzzzaap![22][20]
+Con questa barriera
+non c'è modo di
+entrare nella torre![00]
+
+### B1-194
+Papà di [NAME]:
+Ma no, ma no, ah-ah!
+Meno male che NON
+somiglia al suo
+vecchio, uah-ah-ah![00]
+
+### B1-195
+Sceriffo:
+Ecco di nuovo la
+modestia! Ah-ah-ah![00]
+
+### B1-196
+Sarah:
+C-[24][20]COSA?![00]
+
+### B1-197
+Sceriffo:
+[NAME]! Si parla del
+diavolo![00]
+
+### B1-198
+Sceriffo:
+Cosa? Hai appena
+battuto il sesto
+boss?!
+Favoloso, semplicemente
+favoloso![00]
+
+### B1-199
+Sceriffo:
+Quindi l'unico covo
+rimasto è la Torre di
+Pietra...[24][20]e sai che
+c'è? Siamo riusciti a
+danneggiarla un po'
+anche noi![WAIT]
+Quella banda se la
+darà a gambe in un
+attimo con la coda
+fra le gambe! E tutto
+grazie a te, [NAME]![00]
+
+### B1-200
+Sarah:[21]
+.........[24][21][WAIT]
+.......[24][21]
+...Puoi venire qui
+un attimo?[00]
+
+### B1-201
+Sarah:[21]
+...[NAME]...
+Tu...[24][20]
+Tu non sei il VERO
+[NAME], vero?![00]
+
+### B1-202
+Sarah:
+Ultimamente pensavo
+che in te ci fosse
+qualcosa di diverso,
+ma...[24][20]
+E' che...
+...il [NAME] che
+conosco io non è mai
+stato così forte![00]
+
+### B1-203
+Sarah:
+Il [NAME] che conosco
+di solito è un...
+Beh, è un tontolone.[24][20]
+E non ci si può mai
+contare...[WAIT]
+Ma ha sempre un gran
+sorriso stampato in
+faccia,
+E solo a stare con
+lui non posso fare a
+meno di ridere...[00]
+
+### B1-204
+Sarah:
+In te non sento
+niente di tutto
+questo!
+Chi SEI?[24][20]
+Dov'è il vero
+[NAME]? [24][20]Rispondi![00]
+
+### B1-205
+Voce Misteriosa:
+Uaahahahah!![00]
+
+### B1-206
+Sarah:
+T-tu non sei di
+queste parti!
+Chi sei?![00]
+
+### B1-207
+Uomo Misterioso:
+Ah-ah-ah...[24][20]
+Salve, mia cara.
+Sono il Barone Alps![24][20]
+E sono qui per
+rapire proprio te![00]
+
+### B1-208
+Sarah:
+KYAAAAH![24][20]
+  [NAME], aiuto!![00]
+
+### B1-209
+Mono:
+Cossa?[24][20]
+
+"Cosa ci fai conciato
+in QUEL modo?"
+[24][20]...dici?[WAIT]
+Ah, che bello che
+me l'hai chiesto![00]
+
+### B1-210
+Sarah:
+Papà!![00]
+
+### B1-211
+Sceriffo:
+Mille grazie, [NAME]!
+Con sette dei loro
+Boss fuori gioco,
+forse i Demiseed la
+smetteranno di darci
+il tormento![00]
+
+### B1-212
+Sceriffo:
+Mh? [24][20]Cosa?[24][20]
+"Resta ancora il vero
+Boss"?[WAIT]
+"Finché non sarà
+sconfitto, il nostro
+compito non è
+finito..."?[00]
+
+### B1-213
+Sceriffo:[21]
+Mmm.....[24][20] Giusto![24][20]
+Non dire altro!
+Lascio la faccenda
+dei Demiseed
+interamente a te!
+Dacci dentro![00]
+
+### B1-214
+Papà di [NAME]:
+Ma allora ce l'hai
+FATTA![24][20]
+Questo è il mio
+ragazzo![00]
+
+### B1-215
+Sceriffo:[21]
+Mmm.....[24][20] Giusto![24][20]
+Non dire altro!
+Lascio la faccenda
+dei Demiseed
+interamente a te!
+Dacci dentro![00]
+
+### B1-216
+Salve![24][20]
+Sono lo Spirito del
+Forziere!
+Come premio per avermi
+trovato, ti donerò
+dei bei vestiti![WAIT]
+Quelli a sinistra (SX)
+aumentano la difesa,
+quelli a destra (DX)
+aumentano l'attacco!
+Pensaci bene prima di
+scegliere![WAIT]
+...Quali preferisci?[24][20]
+      SX      DX[END]
+
+### B1-217
+Bene![24][20]
+Usali bene![00]

@@ -1,0 +1,17 @@
+GLOSSARIO (inglese -> italiano)
+Personaggi: nomi invariati (Colobutch, Gabriel, Gantetsu, Tenkai, Woody, Robaton, Zero, Demi...)
+Demiseed -> Demiseed            Blocking Ghost -> Fantasma Sbarrapasso
+Machine Gun -> Mitragliatrice   Shotgun -> Fucile a pompa   Bazooka -> Bazooka
+Flamethrower -> Lanciafiamme    Drill Arm -> Braccio Trapano  Iron Ball -> Palla di Ferro
+Revolver -> Revolver            Magnum -> Magnum
+Charge Shot -> Colpo Carico     Crazy Shot -> Colpo Folle    Biiiig Punch -> Pugnooone
+Deluxe Combo -> Combo Deluxe    Almighty Upper -> Super Montante
+Iron Fist -> Pugno di Ferro     Power Hand -> Mano Potente   Red Headband -> Fascia Rossa
+Zeal Coin -> Moneta Zelo        Demiseed Crest -> Stemma Demiseed  Crucifix -> Crocifisso
+Chrysanthemum Fireworks -> Fuochi Crisantemo  Starmine Bomb -> Bomba Stellare
+Ascension Bomb -> Bomba Ascensione  Underwater Set -> Kit Subacqueo
+Strength Clothes -> Abiti della Forza  Protection Clothes -> Abiti Protettivi
+Tesori: Specchio di Bronzo, Zanna di Bestia, Anello di Rubino, Medaglia di Lapis, Collana,
+  Sfera di Cristallo, Calice, Spada Sfarzosa, Lingotto d'Oro, Diamante, Maschera d'Argento,
+  Corona, Maschera d'Oro, Teschio di Cristallo, Stella
+Scelte: Yes/No -> Sì/No (S col.7, N col.15);  OK/Nah -> Sì/No (S col.7, N col.14)

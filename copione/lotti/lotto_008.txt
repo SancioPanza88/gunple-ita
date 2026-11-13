@@ -1,0 +1,647 @@
+### B1-080
+Mamma di [NAME]:
+Cosa? Hanno rapito
+Sarah?![00]
+
+### B1-081
+Mamma di [NAME]:
+Buongiorno, [NAME]!
+Hai dormito bene?[00]
+
+### B1-082
+Mamma di [NAME]:
+...Bentornato,
+[NAME]!
+Esci di nuovo fra
+poco?[WAIT]
+Sbriga in fretta le
+tue faccende e torna
+subito a casa,
+capito?[00]
+
+### B1-083
+Sarah:
+Ho saputo! Hai
+battuto un Demiseed?
+Incredibile, [NAME]![WAIT]
+Di solito sei un tale
+sciocchino, ma a
+quanto pare quando
+serve sai darti una
+mossa![00]
+
+### B1-084
+Sarah:
+Hai sconfitto un
+altro boss?[WAIT]
+Wow, [NAME]![24][20]
+Forse mi sbagliavo
+su di te![00]
+
+### B1-085
+Sarah:
+...Quasi non ci
+credo...
+Quando sei diventato
+così forte?[00]
+
+### B1-086
+Sarah:
+...Ultimamente... ci
+stavo pensando...
+...è solo che sembri
+diverso dal [NAME]
+che conosco...[WAIT]
+...Scusa.
+Sto solo... dicendo
+sciocchezze, credo...[00]
+
+### B1-087
+Sarah:
+......Io...[22][20]
+...Potrei giurare...
+Scusa,[22][20] lascia stare...[00]
+
+### B1-088
+Sarah:[21]
+........[24][21]
+......Ehm...[00]
+
+### B1-089
+Sarah:[21]
+.......[24][21][WAIT]
+...Grazie.[00]
+
+### B1-090
+Sarah:[21]
+...Chiunque tu sia,
+mi hai salvata...
+So che dovrei
+ringraziarti, ma...[22][21]
+io...[22][21]io solo...[00]
+
+### B1-091
+Sarah:[21]
+.......[24][21]Dimmi solo
+una cosa.[WAIT]
+[NAME]...[24][21]
+   ...sta bene?[00]
+
+### B1-092
+Sarah:[21]
+......[NAME]...[24][22][21]
+...è lì dentro?[00]
+
+### B1-093
+Sarah:[21]
+...Davvero...[WAIT]
+...è...[24][21]tutto quello
+che volevo sapere...[00]
+
+### B1-094
+Papà di [NAME]:[21]
+Bene, bene, bene...[24][20]
+Quanto vi invidio,
+ragazzi![00]
+
+### B1-095
+Sarah:[21]
+.........[WAIT]
+......Buona fortuna,
+[NAME]![00]
+
+### B1-096
+Papà di [NAME]:
+H-hai battuto UN ALTRO
+Boss?[WAIT]
+Ma allora...[24][20]devi
+essere SUPER-forte![00]
+
+### B1-097
+Papà di [NAME]:[21]
+Mmm... mm-mmm...[WAIT]
+Già, già, l'ho sempre
+pensato che un giorno
+avresti fatto cose
+spettacolari.[00]
+
+### B1-098
+Papà di [NAME]:
+Bene, bene, bene,
+ah-ah-ah!
+Questo è il mio
+ragazzo!![00]
+
+### B1-099
+Papà di [NAME]:
+Bene, bene, bene,
+ah-ah-ah!
+Scoppio d'orgoglio![00]
+
+### B1-100
+Papà di [NAME]:
+Oh, [NAME]![WAIT]
+Stavo giusto parlando
+di te![00]
+
+### B1-101
+Papà di [NAME]:
+C-cosa!?[24][20]
+Sarah è stata--!?
+Beh, forza, [NAME]![22][20]
+Devi fare qualcosa![00]
+
+### B1-102
+Papà di [NAME]:
+Bene, bene, bene,
+ah-ah-ah!
+Continua così,
+ragazzo mio!![00]
+
+### B1-103
+Mamma di [NAME]:
+Tuo padre è andato
+all'ufficio dello
+sceriffo.[00]
+
+### B1-105
+Garo:
+Sì, Capitano![24][20]
+...Cioè, [NAME]!
+
+      Info    Parla[END]
+
+### B1-106
+Garo:
+Allora... secondo i
+sensori...[WAIT]
+Rilevo una specie di
+energia anomala nella
+foresta a sud-est.[WAIT]
+Potrebbe avere a che
+fare con i
+Demiseed...[00]
+
+### B1-107
+Garo:
+Io resto qui a
+riparare la nave e a
+raccogliere
+informazioni sul
+nemico.
+Se rilevo qualcosa,
+te lo riferirò quando
+passi di qui.[00]
+
+### B1-108
+Garo:
+Cosa? Hai incontrato
+Mono?
+...Capisco, quindi
+quello che captavano
+i sensori era
+l'energia di Mono...[WAIT]
+Beh, in ogni caso
+sono contento che
+siamo riusciti a
+contattarlo![WAIT]
+Allora, noi tre uniremo
+le forze e
+combatteremo insieme
+finché Demi non sarà
+catturato![00]
+
+### B1-109
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[00]
+
+### B1-110
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[WAIT]
+Il Boss di lì
+dovrebbe essere un
+"Ninja"!
+Per quel che ho
+capito, i "Ninja" sono
+forti e nudi, e con un
+colpo di taglio ti
+fanno volare la testa![WAIT]
+Stia attento,
+Capitano![00]
+
+### B1-111
+Garo:
+La montagna al centro
+dell'isola, dici?...
+L'ho controllata
+anch'io, ma sembra
+protetta da una
+potente barriera e
+non vedo modo di
+entrare.[WAIT]
+Pare proprio che sia
+il quartier generale
+dei Demiseed, ma se
+non troviamo un modo
+per entrare...[00]
+
+### B1-112
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[WAIT]
+Pare che il Boss di
+quel covo sia una
+fusione di mecha ed
+esseri viventi.
+Direi che Demi ha
+manipolato le
+creature di qui
+trasformandole in
+mostri...[WAIT]
+Non so nulla della
+potenza d'attacco o
+delle armi del Boss.
+Agisca con prudenza,
+per favore![00]
+
+### B1-113
+Garo:
+Credo di cominciare
+ad abituarmi alla vita
+qui, [NAME].
+E' una stella così
+bella e tranquilla...
+Peccato non essere
+venuti in vacanza
+invece che per
+lavoro...[00]
+
+### B1-114
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[WAIT]
+Il Boss di lì
+dovrebbe essere una
+specie di "Fantasma".
+Mi dicono che un
+"Fantasma" è lo
+spirito di un morto
+che va in giro da
+solo.
+Sembra quasi un po'...
+come noi.[00]
+
+### B1-115
+Garo:
+Le riparazioni della
+nave non vanno bene
+come speravo... mi
+mancano dei pezzi
+necessari...[22]
+[21]
+Come?[20][WAIT]
+Sì, sì, lo SO![24][20]
+E' per colpa della
+mia guida se la nave
+è ridotta così...
+Me ne assumo tutta la
+responsabilità!
+Finirò queste
+riparazioni![00]
+
+### B1-116
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[WAIT]
+Il Boss di lì sembra
+essere una specie di
+robot gigante...
+La sua energia supera
+di gran lunga tutto
+quello visto finora!
+
+Stia attento![00]
+
+### B1-117
+Garo:
+Avrà notato che i
+nemici sono diventati
+più forti!
+Credo che Demi sia
+sempre più deciso a
+renderci la vita
+difficile![00]
+
+### B1-118
+Trovati $200![00]
+
+### B1-119
+Trovati $500![00]
+
+### B1-120
+Trovati $1000![00]
+
+### B1-121
+Garo:
+Non ho ancora trovato
+un modo per arrivare
+al loro quartier
+generale...
+...ma dammi ancora un
+po' di tempo![24][20]
+Ci dev'essere un modo
+per arrivare a quella
+montagna![00]
+
+### B1-122
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[WAIT]
+A quanto pare la Torre
+di Legno non ha un
+Boss ma due, una
+coppia di femmine
+umane![WAIT]
+Sembra che siano
+"artiste marziali" e
+dicono di voler
+"battersi con un
+degno avversario!"
+...Pare pericoloso![00]
+
+### B1-123
+Garo:
+Riguardo a come
+entrare nel quartier
+generale dei
+Demiseed...[22][20]
+C'è una possibilità
+che mi è venuta in
+mente.
+[22]
+...[24][20]Non ne sarò sicuro
+finché non provo,
+ma...[WAIT]
+Mono...[22][20]
+Se magari riuscissimo
+ad aumentare per un
+po' le capacità di
+movimento di Robaton...
+Comunque, continuo a
+lavorarci![00]
+
+### B1-124
+Garo:
+C-cos'è successo?![WAIT]
+Cosa?! Hanno rapito
+una del villaggio?
+
+Per la tartaruga a gas
+di Cassiopea! E'
+terribile![WAIT]
+Ehm-- S-sissignore!
+Riguardo a questo
+"Barone Alps"...
+Dovrebbe essere uno
+degli agenti di punta
+dei Demiseed![WAIT]
+E dicono che abbia
+armi nascoste in tutto
+il corpo!
+Stia attento![00]
+
+### B1-125
+Garo:
+Capitano!
+...Cioè, [NAME]!
+Buone notizie![24][20]
+Ho finalmente trovato
+un modo per entrare
+nel quartier generale
+nemico!![WAIT]
+Poco fa ho contattato
+Robaton...
+...e gli ho trasferito
+la micro-energia del
+generatore appena
+riparato della nostra
+nave![WAIT]
+Ora che Robaton è
+potenziato, basta
+cavalcarlo per
+sfondare la barriera
+ed entrare nella base
+nemica!
+Ti servirà anche per
+fuggire dalla base![00]
+
+### B1-126
+Garo:[00]
+
+### B1-127
+Garo:
+La battaglia finale
+si avvicina![WAIT]
+La base dei Demiseed
+è al centro dell'isola,
+in cima alla montagna!
+Cavalcando Robaton
+dovresti poterti
+teletrasportare lì![24][20]
+Vai a prendere Demi![00]
+
+### B1-128
+Robaton potenziato![22][20]
+Ora puoi
+teletrasportarti
+quando vuoi alla base
+dei Demiseed![00]
+
+### B1-129
+Garo:
+Ehi, Mono![24][20] ...O ora
+è Robaton?
+Va bene comunque, ma
+devo dire... che
+faccione enorme.[00]
+
+### B1-130
+Fantasma Sbarrapasso:
+Aaah! Un cavallo!
+Cavallocavallocavallo!!
+- Iooo sooono -
+- un fantaaasma -[24][20]
+- non sono un cavallo -
+Lalalalaaa...
+- E quiiindi -
+- sono un fantaaasma -
+Uuuaaaaah![21][WAIT]
+Ehm...[24][20][WAIT]
+Ti ho spaventato?[24][20]
+
+      Sì      No[END]
+
+### B1-131
+Robaton:
+N-non ce la faccio,
+Capo!
+'Sta elettricità è
+troppa per me!
+Non c'è verso di
+superare 'sta
+barriera![00]
+
+### B1-132
+Jinba:[21]
+.....[24][20][21]
+....Un cavallo?
+Che ci fa un cavallo
+in un posto simile?[00]
+
+### B1-133
+Fantasma Sbarrapasso:
+Oh, davvero![22][20]
+Che bello sentirlo![24][20]
+Allora! Prossima strofa![WAIT]
+- Iooo sooono -
+- un fantaaasma -[24][20]
+- mi piacciono i -
+- cavaaalli -
+Lalalaaa...
+- Peeerò -[22][20]
+- tu sei un asinooo -
+Uuuaaaaah![WAIT]
+Il Fantasma Sbarrapasso
+ignora [NAME] e
+continua a cantare la
+sua strana canzone...
+
+Pare che dovrai fare
+qualcosa se vuoi
+passare...[00]
+
+### B1-134
+Ih-ih-ih-ih![24][20]
+
+Noi rivedere ancora!![WAIT]
+Padrone Demi usato
+suo potere per
+riportare me qui a
+battere te!
+Con mio corpo tutto
+nuovo, stavolta tu
+essere schiacciato
+DAVVERO!![00]
+
+### B1-135
+.[21]..Ti stavo
+aspettando, giovane...
+O piuttosto,[24][20]
+Sceriffo Spaziale [22][20]Zero!![WAIT]
+Già una volta fui
+ingannato dal tuo
+volto smunto, ma ora
+basta![24][20]
+D'ora innanzi il mio
+spirito sarà limpido![WAIT]
+Ora ti abbatterò con
+tutto il mio potere!
+In guardia!![00]
+
+### B1-136
+S[21]istema di sicurezza...
+...Operativo.....[WAIT]
+...Mecha ricostruito
+Galahad E3...
+Preparativi d'attacco
+tutti verdi...[WAIT]
+...Allarme intrusi...[24][21]
+Galahad E3 -[22][21]
+     - DECOLLO!![00]
+
+### B1-137
+...Benvenuto,
+ragazzino... [24][20]Che
+piacere rivederti...[00]
+
+### B1-138
+L'altra volta ci hai
+proprio suonate!
+...Non pensare che
+la lasceremo passare
+liscia![00]
+
+### B1-139
+Vedi, a noi
+proprio non va
+di perdere...
+Quindi temo...[00]
+
+### B1-140
+...Che stavolta io e
+mia sorella ti
+affronteremo insieme!
+Preparati![00]
+
+### B1-141
+C-[22][21]che smacco...[24][21]
+
+La sconfitta è mia...[WAIT]
+Cadere per mano di un
+semplice alieno... [22][21]Il
+mio addestramento è
+ancora insufficiente.[WAIT]
+B[20]ene![24][20]
+Con l'universo come
+mia palestra, da oggi
+mi allenerò per
+diventare Psico-Ninja
+Spaziale![21]
+Dunque...[24][20]addio![24][20][00]
+
+### B1-142
+O[21]hhh, che male...[24][20]
+Eh?[22][20] D-[22][20]dove sono?[00]
+
+### B1-143
+Mary! Cosa ci fai
+conciata in QUEL
+modo?[00]
+
+### B1-144
+S-senti chi parla,
+sorella![00]
+
+### B1-145
+Ma cosa--![24][20]
+Mi sento come se mi
+fossi appena
+svegliata![00]
+
+### B1-146
+A-aspetta, sorella![24][20]
+Torno con te!![00]
+
+### B1-147
+Barone Alps:[21]
+C...[20]COSA?![24][20]
+Non smette di
+scaricare energia!
+Di questo passo,[24][20]
+ESPLODE!
+NON E' DIVERTENTE!![24][20]
+Aaaaahhh!!![00]

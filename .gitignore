@@ -1,0 +1,6 @@
+*.sfc
+*.smc
+*.SFC
+*.SMC
+build/
+__pycache__/

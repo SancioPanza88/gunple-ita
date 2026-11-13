@@ -1,0 +1,489 @@
+### B0-112
+Jinba:
+Ben arrivato fin qui,
+giovane![22][20]
+Ammiro la tua
+giovinezza!
+Per essere venuto
+fin qui, ti offro
+questo in premio!
+Ti prego, accettalo.[00]
+
+### B0-113
+Jinba:
+La vita è un
+allenamento per tutti
+noi...
+Come stai, ragazzo?[00]
+
+### B0-114
+Aiyah!
+Molto piacere di
+conoscere te, signore!
+Io sono mercante
+viaggiatore che apre
+bottega in questo
+paese.[WAIT]
+Vendita comincia
+appena io trova cose
+da vendere. Molto
+felice se torni dopo![00]
+
+### B0-115
+Aiyah!
+Adesso non c'è niente
+da vendere. Molto
+felice se torni dopo![00]
+
+### B0-116
+Aiyah! Ragazzo, tu là!
+C'è cosa buona per
+te qui!
+Guarda! E' bellissima
+croce! Ne vuoi una,
+come portafortuna
+contro spiriti
+maligni?[WAIT]
+Crocifisso costa $300.[24][20]
+Vuoi comprare?
+      Sì      No[END]
+
+### B0-117
+Aiyah!
+Grazie per sempre e
+sempre.
+Molto felice parlare
+con te. Adesso niente
+da vendere, ma molto
+felice se torni
+ancora, sì![00]
+
+### B0-118
+Aiyah!
+Ragazzo, tu là![24][20]
+Io ha cosa molto
+buona per te!
+Si chiama Kit
+Subacqueo![24][20]
+Fa nuotare chiunque
+come piccoli
+pesciolini![WAIT]
+Kit Subacqueo costa
+$500.[24][20] Vuoi comprare?
+      Sì      No[END]
+
+### B0-119
+Aiyah!
+Battaglia finale
+arriva molto presto,
+no?
+Io vede te sempre
+combattere cattivi.
+Tu sei vero eroe![24][20]
+Per questo ora io
+regala qualcosa
+a te.[00]
+
+### B0-120
+Hiiiiiiiih![00]
+
+### B0-121
+Fantasma Sbarrapasso:
+- Iooo sooono -
+- un fantaaasma -
+- Iooo sooono -
+- mooostruoooso -[24][20]
+- Lulu-luuuu -
+- E quiiindi -[22][20]
+- faccio pauuura -[22][20]
+Uuuaaaaah![21][WAIT]
+Ehm...[24][20][WAIT]
+Ti ho spaventato?[24][20]
+
+      Sì      No[END]
+
+### B0-122
+Fantasma Sbarrapasso:
+Aaaah! I crocifissi
+mi fanno paura!!
+Perdonamiii!![00]
+
+### B0-123
+Uah-ah-ah!![24][20]
+Davanti a te c'è la
+Città Fantasma!
+Il paradiso dei
+morti!![22][20]
+Se muori qui, il tuo
+teschio sarà nostro![24][20]
+Gyahahahaa!![WAIT]
+(Che cosa assurda
+da dire. Cosa
+rispondi?)[24][20]
+      Certo   Aiuto![END]
+
+### B0-124
+Gwaah-oh-oh!!
+Hai fegato,
+ragazzo![24][20]
+Allora avanti![WAIT]
+Benvenuto nella
+nostra città!
+Goditi il soggiorno...
+finché puoi!![24][20]
+Gyahahahahaaa!![00]
+
+### B0-125
+Dog Wandy:
+Mi chiamo Dog
+Wandy...[22][20][WAIT]
+Mi chiamano il
+"Cagnolino Lesto"![24][20]
+
+...Mi spiace dirlo,
+giovanotto, ma non
+credo tu abbia ancora
+abbastanza forza...
+Torna un'altra volta,
+d'accordo?[WAIT]
+Mi dispiace davvero,
+parola mia.[00]
+
+### B0-126
+Hai imparato il
+Colpo Folle![22][20][WAIT]
+Con proiettili sparati
+a caso in tutte le
+direzioni, è una
+tecnica letale un
+po' disperata![WAIT]
+Quando i nemici ti
+circondano, pesta
+come un matto sul
+tasto A![00]
+
+### B0-127
+Uomo Misterioso:
+Ih-ih-ih...
+Benvenuto, benvenuto...
+Quessssta è una
+miniera abbandonata
+della corsssa all'oro...[WAIT]
+Il biglietto per la
+visssita cossssta
+$300![WAIT]
+Paghi $300?
+
+      Sì      No[END]
+
+### B0-128
+Uomo Misterioso:
+Ih-ih-ih...
+Ci rivediamo...
+Per passsare oltre
+quessssto punto devi
+pagare altri $600![WAIT]
+Paghi $600?[24][20]
+
+      Sì      No[END]
+
+### B0-129
+Uomo Misterioso:
+Ih-ih-ih... Ancora
+ci rivediamo...
+Per passsare oltre
+quessssto punto devi
+pagare altri $1200![WAIT]
+Paghi $1200?[24][20]
+
+      Sì      No[END]
+
+### B0-130
+Daniel:
+Non possiamo uscire,
+che NOIA!![00]
+
+### B0-131
+Cathy:
+Dai, Daniel, dobbiamo
+stare zitti![00]
+
+### B0-132
+Barista:
+Salve, [NAME].
+Sei qui per
+divertirti un po'?[00]
+
+### B0-133
+Barista:
+Ma è vero che hai
+sconfitto un Boss dei
+Demiseed?
+Non l'avrei mai
+detto...[00]
+
+### B0-134
+Barista:
+Quindi affronti quei
+mostri che nemmeno
+gli adulti riuscivano
+a fermare?...[WAIT]
+Che potenza... sei
+nelle grazie del
+Signore o cosa?[00]
+
+### B0-135
+Barista:
+Non smetto di
+meravigliarmi di
+quello che fai.[WAIT]
+...Non posso fare
+niente per aiutarti,
+ma prego che tu torni
+sano e salvo.
+
+Falli fuori![00]
+
+### B0-136
+Bebe:
+Ma che cliente
+carino![24][20]
+Ih-ih...[00]
+
+### B0-137
+Bebe:
+...Caspita, piccolo...
+
+Tutta la città parla
+di te.[00]
+
+### B0-138
+Bebe:
+Sei proprio un
+ometto forte...
+Gli uomini mi
+piacciono...[24][20]
+forti.[24][20]
+Ih-ih...[00]
+
+### B0-139
+Bebe:
+Dai il massimo,
+piccolo eroe...
+Ih-ih...[00]
+
+### B0-140
+Suor Jane:
+Ciao, [NAME].[24][20] Bella
+giornata, vero?
+...Se solo non
+dovessimo preoccuparci
+dei Demiseed...[24][20]  sigh[00]
+
+### B0-141
+Suor Jane:
+Ehm...[24][20] Stento a
+crederci, ma...
+Sei stato tu a
+sconfiggere i Boss
+dei Demiseed?
+
+      Sì      Già[END]
+
+### B0-142
+Suor Jane:
+Pare che di recente
+i Demiseed siano più
+attivi...[WAIT]
+Siamo preoccupati,
+così facciamo
+rifugiare qui dentro
+i bambini.[00]
+
+### B0-143
+Suor Jane:
+...Signore, liberaci
+dalle forze del
+Male...[00]
+
+### B0-144
+Allevatore Morgan:
+Accidenti, non c'è
+peste peggiore di
+quei Demiseed!
+Mi rompono i recinti,
+scrivono porcherie
+di ogni tipo sul
+sedere dei cavalli...[WAIT]
+Sono piccole cose,
+una dopo l'altra, ma
+tutte insieme mi
+fanno venir voglia
+di strapparmi la
+barba!
+Non c'è niente da
+fare. Mi tocca
+portare tutti i
+cavalli al villaggio...[WAIT]
+Almeno così starò
+un po' più
+tranquillo.[00]
+
+### B0-145
+Allevatore Morgan:
+Ma guarda, c'è
+[NAME].
+Ora ho portato tutti
+i cavalli al villaggio
+e sto per filarmela
+anch'io da qui.[00]
+
+### B0-146
+Nero:
+Mio papà è un
+allevatore![24][20]
+E' fortissimo![00]
+
+### B0-147
+Zia Kate:
+Oh, ciao, piccolo
+[NAME].[WAIT]
+Vivace come sempre,
+vedo![00]
+
+### B0-148
+Zia Kate:
+Oh, ciao, piccolo
+[NAME].[WAIT]
+Ho sentito che hai
+battuto un Boss dei
+Demiseed?
+Mi lasci senza
+parole![00]
+
+### B0-149
+Zia Kate:
+Oh, ciao, piccolo
+[NAME].[WAIT]
+Sai, ho notato che
+quel mercante laggiù
+non ha mai niente
+da vendere.[24][20]
+Chissà cosa gli
+succede?[00]
+
+### B0-150
+Zia Kate:
+Oh, ciao, piccolo
+[NAME].
+Vedo che ti aspetta
+la battaglia finale.
+La zia farà il tifo
+per te da dietro le
+quinte fino alla fine!
+Ora devi proprio dare
+il massimo![00]
+
+### B0-151
+Allevatore Morgan:
+Bene, qui dentro quei
+Demiseed non credo
+riescano a entrare!
+
+Brutte canaglie,
+i miei piccoli non
+li toccherete![00]
+
+### B0-152
+Nero:
+...Quello non ha fatto
+altro che riposarsi
+per tutto il tempo!
+Non è stato LUI a
+mettere i cavalli nel
+recinto, ho fatto
+TUTTO io...[WAIT]
+...Grr, mi fa così
+ARRABBIARE...[00]
+
+### B0-153
+Gabriel:
+Questa è la mia
+favolosa
+Maison-sur-la-mer!
+Per questo servo solo
+quello che piace a me![WAIT]
+Questa è la mia
+favolosa
+Maison-sur-la-mer![00]
+
+### B0-154
+Daniel:
+Ehi, [NAME]!
+Come va?
+Giochiamo oggi?[WAIT]
+Eh?[24][20] Sei occupato?[24][20]
+Uffa, speravo...[24][20]
+Beh, allora magari
+domani![00]
+
+### B0-155
+Daniel:
+Ehi, [NAME]![22][20]
+L'ho saputo da papà!
+Ma davvero combatti
+contro i Demiseed?![24][20]
+WOW! Che figata![00]
+
+### B0-156
+Cathy:
+Ehi, è [NAME]!
+Evviva!![00]
+
+### B0-157
+Cathy:
+Dimmi, dimmi,[24][20]
+non fa paura
+combattere contro
+i Demiseed?[00]
+
+### B0-158
+Suor Jane:
+Santo cielo![24][20]
+Allora le voci sono
+vere![WAIT]
+...Io sono una serva
+di Dio...[22][20]
+Non posso approvare
+che tu usi la
+violenza, ma...
+...il tuo coraggio
+mi è d'ispirazione.[WAIT]
+Signore, fa' che la
+tua Luce illumini
+sempre il cammino di
+questo ragazzo...[00]
+
+### B0-160
+Uah-ah-ah-ah!!
+Ooh, ti ho fatto
+paululla?
+Ti stavo solo
+prendendo in giro!
+Se basta così poco,
+non uscirai mai vivo
+da qui![WAIT]
+Beh, mettici tutto
+quello che hai![24][20]
+Ih-ih-ih!![00]
+
+### B0-161
+Dog Wandy:
+Vedo che è ora di
+insegnarti la mia
+tecnica...[00]
+
+### B0-162
+Dog Wandy:
+Allora? Ti torna utile
+la mia tecnica?[00]

@@ -1,0 +1,4340 @@
+# ============================================================================
+#  GUNPLE: GUNMAN'S PROOF - copione per la traduzione italiana
+# ============================================================================
+#  Ogni messaggio inizia con una riga  ### Bx-nnn  (non modificarla).
+#  Le righe che iniziano con  ;EN  e  ;ES  sono solo riferimento (ignorate).
+#  Tutte le altre righe sono il testo che finisce nel gioco: sostituiscile
+#  con l'italiano.
+#
+#  REGOLE
+#   - Ogni riga di testo = una riga nella finestra. Massimo 24 caratteri
+#     (il nome del giocatore [NAME] conta come 8). Il numero di righe e'
+#     libero: quando la finestra e' piena il gioco scorre da solo.
+#   - [WAIT] a fine riga = attende il tasto e apre una nuova pagina.
+#   - Ogni messaggio deve finire con [END] o [00] (lasciali come sono).
+#     Anche [05] e [25] chiudono un pezzo di messaggio (es. prima di un nome
+#     di chi parla tipo "Robaton:"): lasciali dove sono.
+#   - [20] [21] [22] [24] [25] ecc. = codici del gioco (velocita', pause...):
+#     lasciali nella stessa posizione rispetto alla frase.
+#   - Scelte Si'/No: la S e la N devono restare alle colonne 7 e 15, es.
+#           "      Sì      No[END]"   (6 spazi, Sì, 6 spazi, No)
+#   - Lettere accentate disponibili: à è é ì ò ù
+#     Maiuscole accentate NON disponibili: scrivi  E'  invece di  È.
+#   - Caratteri disponibili: A-Z a-z 0-9 spazio , . - ! ? " ' : ( ) $
+#     (& % / * ~ NON esistono piu': i loro posti sono usati dagli accenti)
+# ============================================================================
+
+### B0-000   (voci 000,001)
+Vuoi andare a letto?[24][20]
+
+      Sì      No[END]
+
+### B0-001   (voci 002,003)
+Gelato alla fragola![24][20]
+Mangialo per recuperare
+un po' di salute![WAIT]
+$5, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-002   (voci 004)
+Ramen![24][20]
+Mangialo per recuperare
+un pochino di salute![WAIT]
+$8, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-003   (voci 005)
+Riso al curry![24][20]
+Mangialo per recuperare
+parecchia salute![WAIT]
+$10, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-004   (voci 006)
+Gelato mangiato![24][20]
+E' ghiacciato!![00]
+
+### B0-005   (voci 007)
+Ramen mangiato![24][20]
+Sa di glutammato!![00]
+
+### B0-006   (voci 008)
+Curry mangiato![24][20]
+Così piccante!![00]
+
+### B0-007   (voci 009)
+Un Menù Bambini![24][20]
+Mangialo per recuperare
+un pochino di salute![WAIT]
+$12, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-008   (voci 00A)
+Una torta![24][20]
+Mangiala, perché ti fa
+recuperare parecchia
+salute![WAIT]
+$15, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-009   (voci 00B)
+Un panino![24][20]
+Mangialo per recuperare
+un sacco di salute![WAIT]
+$20, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-010   (voci 00C)
+Menù Bambini mangiato![24][20]
+C'era anche il budino
+come dolce!![00]
+
+### B0-011   (voci 00D)
+Torta mangiata![24][20]
+Le fragole erano
+deliziose!![00]
+
+### B0-012   (voci 00E)
+Panino mangiato![24][20]
+Però, che salutare!![00]
+
+### B0-013   (voci 00F)
+Zuppa di mais![24][20]
+Mangiala per recuperare
+parecchia salute![WAIT]
+$10, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-014   (voci 010)
+Un hamburger![24][20]
+Mangialo per recuperare
+un sacco di salute![WAIT]
+$20, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-015   (voci 011)
+Budino.
+(Formato secchio!)[24][20]
+Mangialo e avrai così
+tanta salute che non
+saprai più che farne![WAIT]
+$25, che ne dici?[24][20]
+
+      Sì      No[END]
+
+### B0-016   (voci 012)
+Zuppa di mais bevuta![24][20]
+Era densissima![00]
+
+### B0-017   (voci 013)
+Hamburger mangiato![24][20]
+C'era anche
+l'insalata!![00]
+
+### B0-018   (voci 014)
+Hai mangiato un
+secchio di budino![24][20]
+Il tuo stomaco ha
+quasi fatto BLOP![00]
+
+### B0-019   (voci 015)
+Colobutch:
+Ma guarda, [NAME]![24][20]
+Proprio il giovanotto
+che aspettavo! Con
+che coraggio combatti
+quei Demiseed![WAIT]
+E' straordinario!
+Strafavoloso!
+[24][20]
+Lascia che ti dia
+una mano in più!
+[WAIT]
+Che ne dici se t'insegno
+a usare le armi che
+quei mostri mi hanno
+rubato?[WAIT]
+Così, quando un nemico
+lascia cadere un'arma,
+potrai usarla pure tu!
+Ti va l'idea?[00]
+
+### B0-020   (voci 016)
+Colobutch:
+Bene, lascia che ti
+insegni a usare la
+Mitragliatrice![22][20]
+
+      Sì     No[END]
+
+### B0-021   (voci 017)
+Colobutch:
+Bene, lascia che ti
+insegni a usare il
+Fucile a pompa![22][20]
+
+      Sì     No[END]
+
+### B0-022   (voci 018)
+Colobutch:
+Bene, lascia che ti
+insegni a usare il
+Bazooka![22][20]
+
+      Sì     No[END]
+
+### B0-023   (voci 019)
+Colobutch:
+Bene, lascia che ti
+insegni a usare il
+Lanciafiamme![22][20]
+
+      Sì     No[END]
+
+### B0-024   (voci 01A)
+Colobutch:
+Bene, lascia che ti
+insegni a usare il
+Braccio Trapano![22][20]
+
+      Sì     No[END]
+
+### B0-025   (voci 01B)
+Colobutch:
+Bene, lascia che ti
+insegni a usare la
+Palla di Ferro![22][20]
+
+      Sì     No[END]
+
+### B0-026   (voci 01C)
+Colobutch:
+D-davvero non la
+vuoi?
+Va... va bene.[24][20]
+SNIFF[00]
+
+### B0-027   (voci 01D)
+Colobutch:
+Allora! Che ne dici se
+t'insegno a usare
+un'arma o due?[00]
+
+### B0-028   (voci 01E)
+Aiyah! Questo è
+grande peccato.[00]
+
+### B0-029   (voci 01F)
+...Io molto dispiace
+signore, ma tuoi soldi
+non bastano![00]
+
+### B0-030   (voci 020)
+Trovato un tesoro![24][20]
+Specchio di Bronzo![22][24]    [20][20][20][00]
+
+### B0-031   (voci 021)
+Trovato un tesoro![24][20]
+Zanna di Bestia![22][24]     [21][20][00]
+
+### B0-032   (voci 022)
+Trovato un tesoro![24][20]
+Anello di Rubino![22][24]     [21][20][00]
+
+### B0-033   (voci 023)
+Trovato un tesoro![24][20]
+Medaglia di Lapis![22][24]     [21][20][00]
+
+### B0-034   (voci 024)
+Trovato un tesoro![24][20]
+Collana![22][24]     [21][20][20][00]
+
+### B0-035   (voci 025)
+Trovato un tesoro![24][20]
+Sfera di Cristallo![22][24]     [21][21][20][00]
+
+### B0-036   (voci 026)
+Trovato un tesoro![24][20]
+Calice![22][24]     [21][20][20][00]
+
+### B0-037   (voci 027)
+Trovato un tesoro![24][20]
+Spada Sfarzosa![22][24]     [20][20][20][00]
+
+### B0-038   (voci 028)
+Trovato un tesoro![24][20]
+10000 yen![22][24]     [21][20][20][00]
+
+### B0-039   (voci 029)
+Trovato un tesoro![24][20]
+Lingotto d'Oro![22][24]     [21][20][00]
+
+### B0-040   (voci 02A)
+Trovato un tesoro![24][20]
+Diamante![22][24]     [21][20][00]
+
+### B0-041   (voci 02B)
+Hai il Crocifisso![22][20][WAIT]
+Ah, dev'essere un
+sacro Crocifisso
+d'oro![24][20]
+Con questo potrai
+scacciare il Fantasma
+Sbarrapasso che ti
+blocca la strada![00]
+
+### B0-042   (voci 02C)
+Trovato un tesoro![24][20]
+Maschera d'Argento![22][24]    [21][20][00]
+
+### B0-043   (voci 02D)
+Trovato un tesoro![24][20]
+Corona![22][24]     [21][20][20][20][00]
+
+### B0-044   (voci 02E)
+Trovato un tesoro![24][20]
+Maschera d'Oro![22][24]     [21][20][00]
+
+### B0-045   (voci 02F)
+Trovato un tesoro![24][20]
+Teschio di Cristallo![22][24]   [21][20][00]
+
+### B0-046   (voci 030)
+Hai la Moneta Zelo![22][22][20]
+La vita aumenta
+di uno!![00]
+
+### B0-047   (voci 031)
+Hai il Pugno di Ferro![22][22][20][WAIT]
+E' un guanto fatto
+di ferro![24][20]
+Con questo addosso,
+la mano non ti farà
+male, QUALSIASI cosa
+colpisca![00]
+
+### B0-048   (voci 032)
+Hai la Mano Potente![22][22][20][WAIT]
+Questo pugno lucente
+è il simbolo della
+giustizia![24][20]
+Con una forza che
+supera perfino il
+Pugno di Ferro, deve
+essere il guanto
+definitivo!![00]
+
+### B0-049   (voci 033)
+Hai imparato a usare
+il Fucile a pompa![22][20][WAIT]
+Il potente Colpo a 5
+vie non delude mai!
+Con questo sarai
+onnipotente!
+...sempre che tu
+riesca a sparare
+abbastanza in fretta...[00]
+
+### B0-050   (voci 034)
+Hai imparato la
+Combo Deluxe![22][20][WAIT]
+Premi il tasto Y
+più e più volte![24][20]
+E' un attacco a raffica
+uno-due-BAM![00]
+
+### B0-051   (voci 035)
+Hai imparato il
+Super Montante![22][20][WAIT]
+Mentre usi questa
+tecnica sei del tutto
+invincibile!
+E' efficacissima
+contro i nemici
+sopra di te!
+E se la usassi sotto
+una cascata...?[00]
+
+### B0-052   (voci 036)
+Hai i Fuochi
+Crisantemo![00]
+
+### B0-053   (voci 037)
+Hai la Bomba Stellare![00]
+
+### B0-054   (voci 038)
+Hai la Bomba Ascensione![22][20][WAIT]
+Basta un colpo per
+spazzare via tutto,
+sia davanti che
+dietro![24][20]
+Fai vedere a quei
+Demiseed chi comanda![00]
+
+### B0-055   (voci 039)
+Trovato un tesoro![24][20]
+Stella![22][24][24][24][24][24][24][20][00]
+
+### B0-056   (voci 03A,03B,03C)
+Hai lo Stemma Demiseed![22][22][20][00]
+
+### B0-057   (voci 03D)
+Hai il Kit Subacqueo![22][20][WAIT]
+Perfetto per tutti quei
+punti d'acqua profonda
+che ti sbarravano la
+strada![24][20] Premi i
+tasti a ripetizione e
+nuota a più non posso![00]
+
+### B0-058   (voci 03E)
+Gabriel:
+Salve![24][20]
+Benvenuto alla
+Maison-sur-la-mer!
+Se ti serve qualcosa,
+mettiti davanti e
+premi il tasto A![00]
+
+### B0-059   (voci 03F)
+Hai gli Abiti della
+Forza![22][20][WAIT]
+Basta indossarli e
+tutti i tuoi attacchi
+diventano più
+potenti![24][20]
+Dovrai solo
+sopportare quel
+colore sgargiante![00]
+
+### B0-060   (voci 040)
+Hai gli Abiti
+Protettivi![22][20][WAIT]
+Basta indossarli e la
+tua difesa aumenta
+miracolosamente![24][20]
+Dovrai solo
+sopportare quello
+strano colore![00]
+
+### B0-061   (voci 041)
+Gabriel:
+Non hai abbastanza
+soldi.[00]
+
+### B0-062   (voci 042)
+Hai il Revolver![22][22][20][WAIT]
+Senti il suo peso
+nella mano![24][20]
+La tua pistola è
+finalmente potenziata![22][20]
+Così la lotta si fa
+più facile![00]
+
+### B0-063   (voci 043)
+Hai la Magnum![22][22][20][WAIT]
+Finalmente hai la
+pistola più forte![24][20]
+Ora non hai più
+niente da temere![22][20]
+Vai, apriti la strada
+a colpi di pistola![00]
+
+### B0-064   (voci 044,045,046)
+Hai 1UP![00]
+
+### B0-065   (voci 047)
+Hai 3UP![00]
+
+### B0-066   (voci 048)
+Hai imparato il
+Pugnooone![22][20][WAIT]
+Tieni premuto Y per
+un attimo, poi lascia![24][20]
+Usa questo pugno
+enorme per spazzare
+via ciò che ti blocca,
+nemico o macigno![00]
+
+### B0-067   (voci 049)
+Hai ricevuto la
+Fascia Rossa![22][20][WAIT]
+La leggendaria fascia
+indossata da un certo
+artista marziale![24][20]
+Basta legarla attorno
+alla testa per sentirsi
+più forti![00]
+
+### B0-068   (voci 04A)
+Si è cristallizzata
+in Cina per 4000
+anni!
+E' molto speciale
+Bomba Ascensione!
+
+C'è solo questa
+bomba e basta, quindi
+molto attento a come
+usare, sì?[00]
+
+### B0-069   (voci 04B)
+Molto felice per te,
+buona fortuna!
+Io fa il tifo per tuo
+successo![00]
+
+### B0-070   (voci 04C)
+Gantetsu:
+Mh? Che succede?
+Qui non hai più
+niente da fare.[WAIT]
+Su, vai da Tenkai![24][20]
+...per imparare il
+Segreto Supremo![00]
+
+### B0-071   (voci 04D)
+Fantasma Sbarrapasso:
+Oh, davvero![22][20]
+Che bello sentirlo!
+Allora! Prossima strofa![WAIT]
+- Iooo sooono un
+fantaaasma -[24][20]
+- trasparente come
+l'aria - la-laaa -
+- E quindi tu -[22][20]
+- puoi vedeeere -
+- attraverso meee -[24][20]
+Uuuaaaaah![WAIT]
+Il Fantasma Sbarrapasso
+ignora [NAME] e
+continua a cantare la
+sua strana canzone...
+
+Pare che dovrai fare
+qualcosa se vuoi
+passare...[00]
+
+### B0-072   (voci 04E)
+Tenkai:
+Che succede?
+Dovresti andare da
+Gantetsu![WAIT]
+...per imparare il
+Segreto Supremo che noi
+fratelli abbiamo creato![00]
+
+### B0-073   (voci 04F)
+Hai imparato il
+Colpo Carico![22][20][WAIT]
+Tieni premuto il tasto
+A per caricare![24][20]
+Lascia andare quando il
+tuo corpo lampeggia e
+sparerai un colpo
+potentissimo![00]
+
+### B0-074   (voci 050)
+Woody:
+Ehi, [NAME]!
+Come te la passi?
+Eh, cosa sto facendo?
+Devo occuparmi di un
+po' di cavalli del
+pascolo a ovest, così
+mi stavo preparando![00]
+
+### B0-075   (voci 051)
+Woody:
+Ehi, [NAME]!
+Come te la passi?
+Eh, cosa sto facendo?
+Beh, per ora il lavoro
+è finito, così mi
+stavo prendendo una
+pausetta![22][20]
+Uff! Che fatica.[00]
+
+### B0-076   (voci 052)
+Woody:
+Ehi, [NAME]!
+Come te la passi?
+Eh, cosa sto facendo?
+Finalmente ho messo
+i cavalli nel recinto,
+così mi stavo
+prendendo una pausetta!
+Uff! Che fatica.[00]
+
+### B0-077   (voci 053)
+Woody:
+Oh... ciao, [NAME]...
+anf... anf...[WAIT]
+Eh, cosa sto facendo?
+Ho battuto la fiacca
+un po' troppo e la
+piccola Nero si è
+arrabbiata, così ora
+la aiuto coi cavalli![24][20]
+
+...ansiiimo...[00]
+
+### B0-078   (voci 054)
+Colobutch:
+Benveeenuto! Entra
+pure!![21]
+...è quello che vorrei
+poter dire, ma...[20][WAIT]
+A dire il vero, quei
+Demiseed mi hanno
+rubato tutto quello
+che avevo da vendere![22][20]
+BAM!![21]   SNIFF[20][WAIT]
+Ora posso solo
+insegnare alla gente
+a usare le armi...
+Non che serva a molto
+dirlo a un ragazzino
+come te...[21]
+Accidenti!...[20][WAIT]
+Se solo ci fosse un
+tipo abbastanza
+coraggioso da tener
+testa a quei Demiseed...[00]
+
+### B0-079   (voci 055)
+Hai imparato a usare la
+Mitragliatrice![22][20][WAIT]
+La potenza lascia un
+po' a desiderare, ma
+quanto a comodità è
+la numero uno![22][20]
+Fatti strada con una
+pioggia di proiettili!![00]
+
+### B0-080   (voci 056)
+Hai imparato a usare
+il Bazooka![22][20][WAIT]
+Ha la potenza di una
+normale Bomba!
+Non hai molti colpi,
+quindi mira con cura![00]
+
+### B0-081   (voci 057)
+Hai imparato a usare
+il Lanciafiamme![22][20][WAIT]
+Un'arma di fuoco
+dalla potenza senza
+pari!
+
+Però divora munizioni
+come niente, quindi
+tieni d'occhio il conto![00]
+
+### B0-082   (voci 058)
+Hai imparato a usare
+il Braccio Trapano![22][20][WAIT]
+Vai, Braccio Trapano![24][20]
+Il sogno di ogni uomo,
+il Braccio Trapano!
+Abbatte qualsiasi
+nemico con un solo
+colpo![00]
+
+### B0-083   (voci 059)
+Hai imparato a usare
+la Palla di Ferro![22][20][WAIT]
+Una palla di ferro
+chiodata! Questa
+DEVE fare male!
+Tieni premuto il tasto
+per farla girare
+sempre più veloce!
+Quando i cattivi ti
+circondano, falciali![00]
+
+### B0-084   (voci 05A)
+Batt:
+Proteggo io questi
+bambini!
+...Beh, ecco...
+...eh-eh-eh...
+
+Con una signora così
+carina... ehm, suora,
+a chiedermelo,
+come potevo dire di
+no, eh?...[WAIT]
+Ragazzo! Anche tu sei
+importante! Abbi cura
+di te, mi raccomando![00]
+
+### B0-085   (voci 05B)
+Moglie di Colobutch:
+Stai attento, piccolo
+[NAME]!
+Dai una bella lezione
+a quei Demiseed da
+parte mia e, perché
+no, anche da parte
+del mio caro marito![00]
+
+### B0-086   (voci 05C)
+Moglie di Colobutch:
+Giuro, con quell'uomo
+ci ho quasi rinunciato![WAIT]
+Quel vecchio sciocco
+si è fatto rubare tutte
+le armi dai Demiseed![22][20]
+Come pensa che ci
+difendiamo ADESSO,
+senza nemmeno
+un'arma?![WAIT]
+Che vergogna,
+che vergogna![00]
+
+### B0-087   (voci 05D)
+Moglie di Colobutch:
+Ma è vero che hai
+battuto un Demiseed?!
+Sei una meraviglia![WAIT]
+Mio marito, invece...[21][20]
+Dovrei proprio
+costringerlo a
+prendere esempio
+da te![00]
+
+### B0-088   (voci 05E)
+Moglie di Colobutch:
+Mio marito ha
+finalmente riaperto
+bottega. Fabbrica
+bombe da vendere con
+tutto il materiale che
+riesce a trovare.[WAIT]
+Dice che vuole esserti
+d'aiuto, [NAME].
+Pare che anche lui,
+nel momento del
+bisogno, ce la faccia...
+Forse non gli ho dato
+PROPRIO abbastanza
+fiducia.[00]
+
+### B0-089   (voci 05F)
+Billy:
+Mi spiace, non posso
+farti passare, ragazzo.
+Tuo padre su questo è
+stato chiarissimo.
+Scusa. Fai il bravo e
+resta al villaggio,
+d'accordo?[00]
+
+### B0-090   (voci 060)
+Billy:
+...Santo cielo...[24][20]
+E va bene, va bene,
+basta tormentarmi.
+Vai pure.[WAIT]
+Ma che non ti senta
+raccontarlo a tuo
+padre.[00]
+
+### B0-091   (voci 061)
+Billy:
+Stai attento, eh.
+Non fare sciocchezze!
+Se si fa pericoloso,
+torna subito al
+villaggio, capito?[00]
+
+### B0-092   (voci 062)
+Billy:
+Il villaggio lascialo
+nelle nostre mani![00]
+
+### B0-093   (voci 063)
+Frank:
+Eh no, non si passa.
+Là fuori i Demiseed
+hanno mostri a non
+finire![WAIT]
+Non è un posto dove
+i ragazzini vanno a
+giocare![24][20]
+Su, fila a casa.[00]
+
+### B0-094   (voci 064)
+Frank:
+OK, lo sceriffo mi ha
+spiegato tutto.
+Ti lascio passare.
+Ma là fuori stai
+bene attento![00]
+
+### B0-095   (voci 065)
+Frank:
+Falli a pezzi,
+cacciatore.[00]
+
+### B0-096   (voci 066)
+Frank:
+Pare che ultimamente
+gli attacchi nemici
+siano sempre più
+violenti...[WAIT]
+Fatevi sotto,
+maledetti Demiseed!
+Vediamo se riuscite
+a passare di qui![00]
+
+### B0-097   (voci 067)
+Batt:
+Sono un vagabondo
+solitario...[24][20]
+...vago per le terre
+selvagge con la
+pistola in pugno...[00]
+
+### B0-098   (voci 068)
+Batt:
+...Ragazzo, hai la
+faccia di chi va
+a combattere.
+...No, non dire niente,
+si capisce.[WAIT]
+Hai una faccia
+parecchio strana, ma
+vedo quello sguardo
+serio nei tuoi occhi...[WAIT]
+Bene, ragazzo! Lascia
+che ti insegni una
+tecnica che ho ideato
+alla fine dei miei
+viaggi![00]
+
+### B0-099   (voci 069)
+Batt:
+Falli a pezzi,
+ragazzo!![00]
+
+### B0-100   (voci 06A)
+Bart:
+Sapevo di fare bene a
+puntare su di te,
+ragazzo! Sei davvero
+speciale![WAIT]
+Grazie a te posso
+starmene tranquillo
+qui a bere da
+mezzogiorno al
+tramonto...[22][20]
+Hic![00]
+
+### B0-101   (voci 06B)
+Gantetsu:
+Io sono Gantetsu![24][20]
+
+Sono un maestro delle
+discipline marziali![WAIT]
+Torna qui, giovane,
+quando sarai più
+forte![24][20]
+Quando verrà il
+momento, ti
+trasmetterò il mio
+metodo infallibile![00]
+
+### B0-102   (voci 06C)
+Gantetsu:
+Benvenuto, giovane.
+Aspettavo il tuo
+arrivo! Ora sembri
+abbastanza forte da
+imparare le mie
+tecniche...
+Eccellente!
+Allora ti insegnerò
+il mio metodo per la
+vittoria certa![00]
+
+### B0-103   (voci 06D)
+Gantetsu:
+Torna quando ti sarai
+allenato ancora.[WAIT]
+Quando spirito,
+tecnica e corpo
+saranno del tutto
+affinati, allora e
+solo allora potrò
+insegnarti il metodo
+supremo della morte
+certa!![00]
+
+### B0-104   (voci 06E)
+Gantetsu:
+Vedo che sei diventato
+ancora più forte,
+giovane.
+
+Ne sono lieto![WAIT]
+Vieni, è ora che ti
+insegni il Segreto
+Supremo...
+Ma solo metà!
+Mio fratello minore
+Tenkai conosce
+l'altra metà.[WAIT]
+Lo troverai ad
+allenarsi su un'isola
+nel mare del sud.
+Va', vai a incontrare
+Tenkai![00]
+
+### B0-105   (voci 06F)
+Gantetsu:
+Vedo che sei diventato
+ancora più forte,
+giovane.
+
+Ne sono lieto![WAIT]
+E vedo che mio
+fratello minore Tenkai
+ti ha concesso il
+Segreto...
+Ne sono ancora più
+lieto![WAIT]
+E' giunto il momento!
+Ora ti insegnerò il
+Segreto Supremo!![00]
+
+### B0-106   (voci 070)
+Gantetsu:
+Non ho più nulla da
+insegnarti!
+Usa quel pugno per
+fare ciò che va
+fatto!![00]
+
+### B0-107   (voci 071)
+Tenkai:
+Sento in te un potere
+non ancora espresso...
+Torna qui soltanto
+dopo esserti allenato
+ancora...[WAIT]
+Allora ti concederò il
+metodo supremo della
+morte certa![00]
+
+### B0-108   (voci 072)
+Tenkai:
+Io sono Tenkai![24][20]
+Fratello di Gantetsu,
+l'artista marziale!
+...Sento un grande
+potere dentro di te...
+Opera di mio fratello,
+se non mi sbaglio...[WAIT]
+Molto bene.[24][20]
+Allora ti insegnerò
+anch'io una mia
+tecnica...[00]
+
+### B0-109   (voci 073)
+Tenkai:
+Benvenuto, giovane...
+Ti stavo aspettando.
+E' ora che ti insegni
+il Segreto Supremo...[24][20]
+Ma solo metà.[WAIT]
+Mio fratello Gantetsu
+conosce l'altra metà
+del Segreto.
+Si allena ai piedi di
+una montagna rocciosa
+a ovest.[WAIT]
+Va', vai da Gantetsu!
+Per imparare il
+Segreto Supremo![00]
+
+### B0-110   (voci 074)
+Tenkai:
+Vedo che mio fratello
+Gantetsu ti ha
+insegnato il Segreto...
+
+Eccellente![WAIT]
+Allora è giunto il
+momento di insegnarti
+il Segreto Supremo![00]
+
+### B0-111   (voci 075)
+Tenkai:
+...La tua forza è già
+sufficiente!
+Qui non hai più nulla
+da imparare.[WAIT]
+Va', vattene!
+Scopri quali frutti ti
+ha portato la
+disciplina![00]
+
+### B0-112   (voci 076)
+Jinba:
+Ben arrivato fin qui,
+giovane![22][20]
+Ammiro la tua
+giovinezza!
+Per essere venuto
+fin qui, ti offro
+questo in premio!
+Ti prego, accettalo.[00]
+
+### B0-113   (voci 077)
+Jinba:
+La vita è un
+allenamento per tutti
+noi...
+Come stai, ragazzo?[00]
+
+### B0-114   (voci 078)
+Aiyah!
+Molto piacere di
+conoscere te, signore!
+Io sono mercante
+viaggiatore che apre
+bottega in questo
+paese.[WAIT]
+Vendita comincia
+appena io trova cose
+da vendere. Molto
+felice se torni dopo![00]
+
+### B0-115   (voci 079)
+Aiyah!
+Adesso non c'è niente
+da vendere. Molto
+felice se torni dopo![00]
+
+### B0-116   (voci 07A)
+Aiyah! Ragazzo, tu là!
+C'è cosa buona per
+te qui!
+Guarda! E' bellissima
+croce! Ne vuoi una,
+come portafortuna
+contro spiriti
+maligni?[WAIT]
+Crocifisso costa $300.[24][20]
+Vuoi comprare?
+      Sì      No[END]
+
+### B0-117   (voci 07B)
+Aiyah!
+Grazie per sempre e
+sempre.
+Molto felice parlare
+con te. Adesso niente
+da vendere, ma molto
+felice se torni
+ancora, sì![00]
+
+### B0-118   (voci 07C)
+Aiyah!
+Ragazzo, tu là![24][20]
+Io ha cosa molto
+buona per te!
+Si chiama Kit
+Subacqueo![24][20]
+Fa nuotare chiunque
+come piccoli
+pesciolini![WAIT]
+Kit Subacqueo costa
+$500.[24][20] Vuoi comprare?
+      Sì      No[END]
+
+### B0-119   (voci 07D)
+Aiyah!
+Battaglia finale
+arriva molto presto,
+no?
+Io vede te sempre
+combattere cattivi.
+Tu sei vero eroe![24][20]
+Per questo ora io
+regala qualcosa
+a te.[00]
+
+### B0-120   (voci 07E)
+Hiiiiiiiih![00]
+
+### B0-121   (voci 07F)
+Fantasma Sbarrapasso:
+- Iooo sooono -
+- un fantaaasma -
+- Iooo sooono -
+- mooostruoooso -[24][20]
+- Lulu-luuuu -
+- E quiiindi -[22][20]
+- faccio pauuura -[22][20]
+Uuuaaaaah![21][WAIT]
+Ehm...[24][20][WAIT]
+Ti ho spaventato?[24][20]
+
+      Sì      No[END]
+
+### B0-122   (voci 080)
+Fantasma Sbarrapasso:
+Aaaah! I crocifissi
+mi fanno paura!!
+Perdonamiii!![00]
+
+### B0-123   (voci 081)
+Uah-ah-ah!![24][20]
+Davanti a te c'è la
+Città Fantasma!
+Il paradiso dei
+morti!![22][20]
+Se muori qui, il tuo
+teschio sarà nostro![24][20]
+Gyahahahaa!![WAIT]
+(Che cosa assurda
+da dire. Cosa
+rispondi?)[24][20]
+      Certo   Aiuto![END]
+
+### B0-124   (voci 082)
+Gwaah-oh-oh!!
+Hai fegato,
+ragazzo![24][20]
+Allora avanti![WAIT]
+Benvenuto nella
+nostra città!
+Goditi il soggiorno...
+finché puoi!![24][20]
+Gyahahahahaaa!![00]
+
+### B0-125   (voci 083)
+Dog Wandy:
+Mi chiamo Dog
+Wandy...[22][20][WAIT]
+Mi chiamano il
+"Cagnolino Lesto"![24][20]
+
+...Mi spiace dirlo,
+giovanotto, ma non
+credo tu abbia ancora
+abbastanza forza...
+Torna un'altra volta,
+d'accordo?[WAIT]
+Mi dispiace davvero,
+parola mia.[00]
+
+### B0-126   (voci 084)
+Hai imparato il
+Colpo Folle![22][20][WAIT]
+Con proiettili sparati
+a caso in tutte le
+direzioni, è una
+tecnica letale un
+po' disperata![WAIT]
+Quando i nemici ti
+circondano, pesta
+come un matto sul
+tasto A![00]
+
+### B0-127   (voci 085)
+Uomo Misterioso:
+Ih-ih-ih...
+Benvenuto, benvenuto...
+Quessssta è una
+miniera abbandonata
+della corsssa all'oro...[WAIT]
+Il biglietto per la
+visssita cossssta
+$300![WAIT]
+Paghi $300?
+
+      Sì      No[END]
+
+### B0-128   (voci 086)
+Uomo Misterioso:
+Ih-ih-ih...
+Ci rivediamo...
+Per passsare oltre
+quessssto punto devi
+pagare altri $600![WAIT]
+Paghi $600?[24][20]
+
+      Sì      No[END]
+
+### B0-129   (voci 087)
+Uomo Misterioso:
+Ih-ih-ih... Ancora
+ci rivediamo...
+Per passsare oltre
+quessssto punto devi
+pagare altri $1200![WAIT]
+Paghi $1200?[24][20]
+
+      Sì      No[END]
+
+### B0-130   (voci 088)
+Daniel:
+Non possiamo uscire,
+che NOIA!![00]
+
+### B0-131   (voci 089)
+Cathy:
+Dai, Daniel, dobbiamo
+stare zitti![00]
+
+### B0-132   (voci 08A)
+Barista:
+Salve, [NAME].
+Sei qui per
+divertirti un po'?[00]
+
+### B0-133   (voci 08B)
+Barista:
+Ma è vero che hai
+sconfitto un Boss dei
+Demiseed?
+Non l'avrei mai
+detto...[00]
+
+### B0-134   (voci 08C)
+Barista:
+Quindi affronti quei
+mostri che nemmeno
+gli adulti riuscivano
+a fermare?...[WAIT]
+Che potenza... sei
+nelle grazie del
+Signore o cosa?[00]
+
+### B0-135   (voci 08D)
+Barista:
+Non smetto di
+meravigliarmi di
+quello che fai.[WAIT]
+...Non posso fare
+niente per aiutarti,
+ma prego che tu torni
+sano e salvo.
+
+Falli fuori![00]
+
+### B0-136   (voci 08E)
+Bebe:
+Ma che cliente
+carino![24][20]
+Ih-ih...[00]
+
+### B0-137   (voci 08F)
+Bebe:
+...Caspita, piccolo...
+
+Tutta la città parla
+di te.[00]
+
+### B0-138   (voci 090)
+Bebe:
+Sei proprio un
+ometto forte...
+Gli uomini mi
+piacciono...[24][20]
+forti.[24][20]
+Ih-ih...[00]
+
+### B0-139   (voci 091)
+Bebe:
+Dai il massimo,
+piccolo eroe...
+Ih-ih...[00]
+
+### B0-140   (voci 092)
+Suor Jane:
+Ciao, [NAME].[24][20] Bella
+giornata, vero?
+...Se solo non
+dovessimo preoccuparci
+dei Demiseed...[24][20]  sigh[00]
+
+### B0-141   (voci 093)
+Suor Jane:
+Ehm...[24][20] Stento a
+crederci, ma...
+Sei stato tu a
+sconfiggere i Boss
+dei Demiseed?
+
+      Sì      Già[END]
+
+### B0-142   (voci 094)
+Suor Jane:
+Pare che di recente
+i Demiseed siano più
+attivi...[WAIT]
+Siamo preoccupati,
+così facciamo
+rifugiare qui dentro
+i bambini.[00]
+
+### B0-143   (voci 095)
+Suor Jane:
+...Signore, liberaci
+dalle forze del
+Male...[00]
+
+### B0-144   (voci 096)
+Allevatore Morgan:
+Accidenti, non c'è
+peste peggiore di
+quei Demiseed!
+Mi rompono i recinti,
+scrivono porcherie
+di ogni tipo sul
+sedere dei cavalli...[WAIT]
+Sono piccole cose,
+una dopo l'altra, ma
+tutte insieme mi
+fanno venir voglia
+di strapparmi la
+barba!
+Non c'è niente da
+fare. Mi tocca
+portare tutti i
+cavalli al villaggio...[WAIT]
+Almeno così starò
+un po' più
+tranquillo.[00]
+
+### B0-145   (voci 097)
+Allevatore Morgan:
+Ma guarda, c'è
+[NAME].
+Ora ho portato tutti
+i cavalli al villaggio
+e sto per filarmela
+anch'io da qui.[00]
+
+### B0-146   (voci 098)
+Nero:
+Mio papà è un
+allevatore![24][20]
+E' fortissimo![00]
+
+### B0-147   (voci 099)
+Zia Kate:
+Oh, ciao, piccolo
+[NAME].[WAIT]
+Vivace come sempre,
+vedo![00]
+
+### B0-148   (voci 09A)
+Zia Kate:
+Oh, ciao, piccolo
+[NAME].[WAIT]
+Ho sentito che hai
+battuto un Boss dei
+Demiseed?
+Mi lasci senza
+parole![00]
+
+### B0-149   (voci 09B)
+Zia Kate:
+Oh, ciao, piccolo
+[NAME].[WAIT]
+Sai, ho notato che
+quel mercante laggiù
+non ha mai niente
+da vendere.[24][20]
+Chissà cosa gli
+succede?[00]
+
+### B0-150   (voci 09C)
+Zia Kate:
+Oh, ciao, piccolo
+[NAME].
+Vedo che ti aspetta
+la battaglia finale.
+La zia farà il tifo
+per te da dietro le
+quinte fino alla fine!
+Ora devi proprio dare
+il massimo![00]
+
+### B0-151   (voci 09D)
+Allevatore Morgan:
+Bene, qui dentro quei
+Demiseed non credo
+riescano a entrare!
+
+Brutte canaglie,
+i miei piccoli non
+li toccherete![00]
+
+### B0-152   (voci 09E)
+Nero:
+...Quello non ha fatto
+altro che riposarsi
+per tutto il tempo!
+Non è stato LUI a
+mettere i cavalli nel
+recinto, ho fatto
+TUTTO io...[WAIT]
+...Grr, mi fa così
+ARRABBIARE...[00]
+
+### B0-153   (voci 09F)
+Gabriel:
+Questa è la mia
+favolosa
+Maison-sur-la-mer!
+Per questo servo solo
+quello che piace a me![WAIT]
+Questa è la mia
+favolosa
+Maison-sur-la-mer![00]
+
+### B0-154   (voci 0A0)
+Daniel:
+Ehi, [NAME]!
+Come va?
+Giochiamo oggi?[WAIT]
+Eh?[24][20] Sei occupato?[24][20]
+Uffa, speravo...[24][20]
+Beh, allora magari
+domani![00]
+
+### B0-155   (voci 0A1)
+Daniel:
+Ehi, [NAME]![22][20]
+L'ho saputo da papà!
+Ma davvero combatti
+contro i Demiseed?![24][20]
+WOW! Che figata![00]
+
+### B0-156   (voci 0A2)
+Cathy:
+Ehi, è [NAME]!
+Evviva!![00]
+
+### B0-157   (voci 0A3)
+Cathy:
+Dimmi, dimmi,[24][20]
+non fa paura
+combattere contro
+i Demiseed?[00]
+
+### B0-158   (voci 0A4)
+Suor Jane:
+Santo cielo![24][20]
+Allora le voci sono
+vere![WAIT]
+...Io sono una serva
+di Dio...[22][20]
+Non posso approvare
+che tu usi la
+violenza, ma...
+...il tuo coraggio
+mi è d'ispirazione.[WAIT]
+Signore, fa' che la
+tua Luce illumini
+sempre il cammino di
+questo ragazzo...[00]
+
+### B0-159   (voci 0A5,0A6,0A7,0A8,0A9,0AA,0AB,0AC,0AD,0AE,0AF,0B0,0B1,0B2,0B3,0B4,0B5,0B6,0B7,0B8,0B9,0BA,0BB,0BC,0BD,0BE,0BF,0C0,0C1,0C2,0C3,0C4,0C5,0C6,0C7,0C8,0C9,0CA,0CB,0CC,0CD,0CE,0CF,0D0,0D1,0D2,0D3,0D4,0D5,0D6,0D7,0D8,0D9,0DA,0DB,0DC,0DD,0DE,0DF,0E0,0E1,0E2,0E3,0E4,0E5,0E6,0E7,0E8,0E9,0FC,0FD,0FE,0FF,13C,13E,159,15D,163,165,16A,16C,16F,170,172)
+[00]
+
+### B0-160   (voci 0EA)
+Uah-ah-ah-ah!!
+Ooh, ti ho fatto
+paululla?
+Ti stavo solo
+prendendo in giro!
+Se basta così poco,
+non uscirai mai vivo
+da qui![WAIT]
+Beh, mettici tutto
+quello che hai![24][20]
+Ih-ih-ih!![00]
+
+### B0-161   (voci 0EB)
+Dog Wandy:
+Vedo che è ora di
+insegnarti la mia
+tecnica...[00]
+
+### B0-162   (voci 0EC)
+Dog Wandy:
+Allora? Ti torna utile
+la mia tecnica?[00]
+
+### B0-163   (voci 0ED)
+Uomo Misterioso:
+Ih-ih-ih...
+Lieto di esssservi
+utile...[00]
+
+### B0-164   (voci 0EE)
+Uomo Misterioso:
+Ih-ih-ih...
+Non hai abbassstanza
+sssoldi per passsare...[00]
+
+### B0-165   (voci 0EF)
+Uomo Misterioso:
+Ih-ih-ih...
+Allora non ti faccio
+passsare...[00]
+
+### B0-166   (voci 0F0)
+Colobutch:
+Ehm, beh, ecco,
+t-torna pure quando
+vuoi![WAIT]
+Imparare a usare le
+armi non fa mai
+male, dopotutto![00]
+
+### B0-167   (voci 0F1)
+Colobutch:
+Santo cielo, impari
+in fretta![WAIT]
+Torna più tardi,
+capito?[24][20]
+
+T'insegnerò a usare
+un'arma ancora
+MIGLIORE![00]
+
+### B0-168   (voci 0F2)
+Colobutch:
+Ma che diamine?[WAIT]
+T'ho insegnato tutte
+le armi che conosco...[22][20]
+E ADESSO che faccio?...[00]
+
+### B0-169   (voci 0F3)
+Colobutch:
+BAM!![24][20]
+Annunciamo la grande
+riapertura come la
+nuovissima[22][20]
+Casa delle Bombe!
+Se non ho armi da
+vendere, beh, allora
+le FABBRICO! Uahahah![WAIT]
+Allora che ne dici,
+[NAME]? Ti va di
+comprare una delle mie
+bombe fatte a mano?[22][20]
+Ti faccio degli
+affaroni![00]
+
+### B0-170   (voci 0F4)
+Colobutch:[21]
+Ehm...[20]
+Mi spiace, ma...[24][20]
+Non hai abbastanza
+quattrini.[00]
+
+### B0-171   (voci 0F5)
+Colobutch:
+Oh. Va... va bene.[00]
+
+### B0-172   (voci 0F6)
+1 Fuoco Crisantemo
+costa $100.
+Lo vuoi comprare?[24][20]
+      Sì      No[END]
+
+### B0-173   (voci 0F7)
+3 Fuochi Crisantemo
+costano $300.
+Li vuoi comprare?[24][20]
+      Sì      No[END]
+
+### B0-174   (voci 0F8)
+1 Bomba Stellare - $100.
+La vuoi comprare?[24][20]
+      Sì      No[END]
+
+### B0-175   (voci 0F9)
+3 Bombe Stellari - $300.
+Le vuoi comprare?[24][20]
+      Sì      No[END]
+
+### B0-176   (voci 0FA)
+Nero:
+Mentre io mi spaccavo
+la schiena, tutti
+questi adulti se ne
+stavano seduti![WAIT]
+Ma ora basta! Lavora,
+fannullone, lavora![00]
+
+### B0-177   (voci 0FB)
+Se compri altre Bombe,
+dovrai buttare quelle
+che hai già.
+Va bene?[24][20]
+      Sì      No[END]
+
+### B0-178   (voci 100)
+Nell'anno 1880...[00]
+
+### B0-179   (voci 101)
+...due meteore
+precipitarono
+sulla Terra.[00]
+
+### B0-180   (voci 102)
+Caddero nel West
+americano, su
+Strange Island.[WAIT]
+Verrebbe da pensare
+che fecero un gran
+clamore...[00]
+
+### B0-181   (voci 103)
+Ma la gente di
+quell'epoca era così
+occupata a guadagnarsi[WAIT]
+il poco necessario
+per vivere che nessuno
+ci fece molto caso,[WAIT]
+e l'accaduto fu
+presto dimenticato.[00]
+
+### B0-182   (voci 104)
+Eppure...[WAIT]
+Fu proprio qui che la
+nostra storia ebbe
+inizio...[00]
+
+### B0-183   (voci 105)
+E così, poco tempo
+dopo la caduta delle
+meteore...[00]
+
+### B0-184   (voci 106)
+Eventi inquietanti
+colpirono l'isola, un
+tempo pacifica.[00]
+
+### B0-185   (voci 107)
+Comparvero mostri
+bizzarri che presero
+ad aggredire la gente.[00]
+
+### B0-186   (voci 108)
+E ovunque un mostro
+attaccasse,[WAIT]
+lasciava dietro di sé
+uno stemma dall'aria
+sinistra.[00]
+
+### B0-187   (voci 109)
+"Demiseed"...[WAIT]
+Questa parola, incisa
+sugli stemmi, divenne
+il nome di questi
+misteriosi nemici...[00]
+
+### B0-188   (voci 10A)
+E ora arriviamo al
+Villaggio Bronco,[WAIT]
+un minuscolo paesino
+nel sud dell'isola...[WAIT]
+...dove vive il nostro
+eroe, il giovane
+[NAME].[00]
+
+### B0-189   (voci 10B)
+Mamma di [NAME]:
+Fermo lì,
+giovanotto![00]
+
+### B0-190   (voci 10C)
+Mamma di [NAME]:
+Non ti ho detto di non
+giocare fuori dal
+villaggio?! Là fuori
+ci sono i Demiseed![00]
+
+### B0-191   (voci 10D)
+Mamma di [NAME]:
+Non guardarmi
+così...[WAIT]
+Uffa, va bene,
+VA BENE![24][20]
+Ma torna a casa
+presto![00]
+
+### B0-192   (voci 10E)
+[NAME]:
+Ciaaaao![00]
+
+### B0-193   (voci 10F)
+Papà di [NAME]:
+Quel monello è
+scappato fuori dal[WAIT]
+villaggio un'altra
+volta? E proprio dopo
+che gliel'avevamo
+proibito![00]
+
+### B0-194   (voci 110)
+Mamma di [NAME]:
+Su, su, i ragazzi
+sono ragazzi, caro.[00]
+
+### B0-195   (voci 111)
+Papà di [NAME]:
+No, di questo passo
+non imparerà mai.[WAIT]
+Gli farò una ramanzina
+che non scorderà più![00]
+
+### B0-196   (voci 112)
+[NAME]:
+AAAAAAAAAAH!
+F-f-f-fantasmi!![00]
+
+### B0-197   (voci 113)
+Ufo-uomo (N.1):
+Ehm... terrestre, ci
+farebbe piacere che
+tu ascoltassi senza
+tanto... ehm...
+"dare di matto".[00]
+
+### B0-198   (voci 114)
+Ufo-uomo (N.1):
+Gahh! Vuoi STARE
+ZITTO e ASCOLTARE?![00]
+
+### B0-199   (voci 115)
+[NAME]:
+S-sissignore!![00]
+
+### B0-200   (voci 116)
+Ufo-uomo (N.1):
+Siamo Sceriffi
+Spaziali venuti
+dall'altro capo della
+galassia![WAIT]
+Io sono Zero.[00]
+
+### B0-201   (voci 117)
+Ufo-uomo (N.2):
+Io sono Garo.[00]
+
+### B0-202   (voci 118)
+Zero:
+Siamo sulle tracce
+del famigerato
+Fuorilegge Spaziale
+Demi! Ne sai niente,
+terrestre?[00]
+
+### B0-203   (voci 119)
+[NAME]:
+D-Demi? Ehm...
+Non so, assomiglia
+un sacco a quei
+Demiseed che stanno
+combinando guai
+sull'isola...[00]
+
+### B0-204   (voci 11A)
+Zero:[21]
+Demiseed... [24][20]Questo
+merita
+un'indagine...[00]
+
+### B0-205   (voci 11B)
+Garo:
+Vuoi dire...[WAIT]
+Che anche Mono
+potrebbe essere
+venuto su questo
+pianeta...[00]
+
+### B0-206   (voci 11C)
+[NAME]:
+Eh? Chi è "Mono"?[00]
+
+### B0-207   (voci 11D)
+Zero:
+Uno Sceriffo Spaziale
+partito all'inseguimento
+di Demi prima di noi.[WAIT]
+Non hai sentito
+niente di lui?[00]
+
+### B0-208   (voci 11E)
+[NAME]:
+No, niente di
+niente...[00]
+
+### B0-209   (voci 11F)
+Garo:
+Che cosa starà
+combinando?[WAIT]
+"Vado io a prendere
+quella canaglia di
+Demi!"
+Non aveva detto
+così?[00]
+
+### B0-210   (voci 120)
+Zero:
+Beh, in ogni caso
+dobbiamo riunirci a
+lui il prima
+possibile...[WAIT]
+Ma prima.
+Ragazzo terrestre.[24][20][WAIT]
+Devo chiederti un
+favore.[00]
+
+### B0-211   (voci 121)
+[NAME]:
+Eh?[00]
+
+### B0-212   (voci 122)
+Zero:
+I nostri corpi non
+reggono a lungo su
+questo pianeta.[WAIT]
+Quindi...[22][20]
+Vorrei prendere in
+prestito il tuo corpo
+per un po'.[00]
+
+### B0-213   (voci 123)
+[NAME]:
+COSA?![00]
+
+### B0-214   (voci 124)
+Garo:
+Un momento,
+Capitano!
+Non vorrà dire...[00]
+
+### B0-215   (voci 125)
+Zero:
+Gahh! Vuoi STARE
+ZITTO?![WAIT]
+Se la nostra NAVE non
+fosse distrutta per
+colpa della TUA guida
+spericolata, non ci
+sarebbe NESSUN
+bisogno di chiederlo![00]
+
+### B0-216   (voci 126)
+Garo:
+Beh, su questo...
+ha ragione, ma...[00]
+
+### B0-217   (voci 127)
+[NAME]:
+...Va bene, d'accordo.[00]
+
+### B0-218   (voci 128)
+Garo:
+Ehh!?[WAIT]
+Zero:
+Davvero,
+terrestre?![00]
+
+### B0-219   (voci 129)
+[NAME]:
+Sì! Cioè, siete qui per
+acchiappare un
+cattivo, giusto?[WAIT]
+Se pensate che un
+ragazzino come me vi
+possa servire...[24][20]
+Ben volentieri![00]
+
+### B0-220   (voci 12A)
+Zero:
+...Grazie, coraggioso
+terrestre.[WAIT]
+Hai la nostra più
+profonda gratitudine!![00]
+
+### B0-221   (voci 12B)
+Garo:
+...Senti, come ti
+chiami?[00]
+
+### B0-222   (voci 12C)
+[NAME]:
+Sono [NAME]![00]
+
+### B0-223   (voci 12D)
+Zero:
+Allora, [NAME].
+Se non ti dispiace...[WAIT]
+Tieni i muscoli
+rilassati, e...[00]
+
+### B0-224   (voci 12E)
+Garo:
+Come si sente,
+Capitano?
+Ehm... ora dovrei
+chiamarla "[NAME]",
+giusto?[00]
+
+### B0-225   (voci 12F)
+[NAME](Zero):
+E' un po' stretto, ma
+non troppo scomodo.
+...Bene. Continuerò
+l'indagine in questa
+forma.[WAIT]
+Garo, tu ripara la
+nave sotto quel
+grande albero. E vedi
+se riesci a raccogliere
+dati sui nostri
+nemici.[00]
+
+### B0-226   (voci 130)
+Garo:
+Ricevuto![00]
+
+### B0-227   (voci 131)
+Ehi, [NAME]!!
+Cos'era quel gran
+botto laggiù?[00]
+
+### B0-228   (voci 132)
+[NAME](Zero):
+Presto, nasconditi![00]
+
+### B0-229   (voci 133)
+Tutto bene, [NAME]?
+Non ti sei fatto
+male, vero?[00]
+
+### B0-230   (voci 134)
+[NAME]:
+N-no.[00]
+
+### B0-231   (voci 135)
+Wow! Che cratere
+enorme![22][20]
+Sono stati di nuovo
+i Demiseed?[00]
+
+### B0-232   (voci 136)
+[NAME]:
+Ehm, sì...[22][20]
+Ma io sto bene![WAIT]
+Sono, ehm, scappati
+da qualche parte.[00]
+
+### B0-233   (voci 137)
+Ma pensa...[22][20]
+Beh, torna dentro,
+svelto.[00]
+
+### B0-234   (voci 138)
+Chi essere TUUU?[24][20]
+Mio nome essere
+Miracle 5![WAIT]
+Padrone Demi dire me
+non lasciare tornare
+a casa vivo NESSUNO
+che viene qui![24][20]
+Io essere tanto tanto
+dispiaciuto, ma...[WAIT]
+Io schiacciare te
+con mio CORPO![00]
+
+### B0-235   (voci 139)
+S[21]aresti dunque tu
+quel "Mono" che osa
+opporsi a noi
+Demiseed?[20][WAIT]
+Cosa!?[24][20]
+Sei solo un ragazzo![24][20]
+Che farsa![WAIT]
+Il tuo corpo sarà
+ridotto in cenere
+dalle Arti Psico-Ninja
+di Brazil Circle![00]
+
+### B0-236   (voci 13A)
+C[21]-che disastro...[24][20][WAIT]
+Pare che il mio
+gioco sia durato
+troppo...
+E sia... anche a
+rischio della mia
+stessa vita, preparati
+a conoscere il vero
+segreto delle Arti
+Psico-Ninja...[WAIT]
+Caduta della Colonia
+Ninja!![00]
+
+### B0-237   (voci 13B)
+...Eh-eh-eh...[24][20]
+Dunque sei tu...[24][20]
+Il ragazzo che osa
+opporsi a noi
+Demiseed...[00]
+
+### B0-238   (voci 13D)
+I[21]o sono Demi...[24][21]
+Il potente signore
+dei Demiseed!![00]
+
+### B0-239   (voci 13F)
+S[21]ei dunque tu quello
+che ha battuto due
+boss della mia
+organizzazione e li ha
+fatti venire da me
+a piagnucolare?[WAIT]
+Mi pare una cosa
+infantile, ma visto
+che offendi la mia
+vista, dovrò farti
+sparire...[WAIT]
+Attacca, Galahad E3![24][21]
+Abbattilo e ti
+aspetta una bella
+bistecca succosa![00]
+
+### B0-240   (voci 140)
+Bene, bene![24][20]
+Era da tanto, tanto
+tempo che non avevamo
+un visssitatore VIVO...
+Chiamami...
+Fantasma Sssuzuki![24][20][WAIT]
+Vita, vita, vita...
+Chi ne ha bisssogno?
+
+Essere un fantasssma
+è molto più
+divertente!
+I fantasssmi non
+hanno essssami![WAIT]
+Vieni, ragazzo![24][20]
+Preparati a goderti il
+tuo primo giorno di
+vita fantasssmale![00]
+
+### B0-241   (voci 141)
+Che... dolore![WAIT]
+Non ho mai provato
+un dolore cosssì in
+tutta la mia morte!![WAIT]
+Qui ci vuole l'ultima
+risssorsa![00]
+
+### B0-242   (voci 142)
+Sìsìpronto
+pronto,[24][20]
+Un Parts Shoot,
+grazie, sì, sì.[00]
+
+### B0-243   (voci 143)
+Vieni qui![24][20]
+Apache 1!![00]
+
+### B0-244   (voci 144)
+Aaargh!! Ahi, che
+dolore doloroso![WAIT]
+Ma![24][20]
+Quessta non è una
+sconfitta![24][20]
+Perché i fantasssmi
+non muoiono![24][20]
+Non si ammalano
+nemmeno![WAIT]
+Un giorno farò
+davvero di te un
+fantasssma![24][20]
+Alla prossima![00]
+
+### B0-245   (voci 145)
+E[21]h-eh-eh...[24][21]
+Grazie mille per
+tutti quei
+sssoldi...[24][20]
+Da quanto tempo,
+Bambino Vivo![WAIT]
+Non dirmi che hai
+dimenticato il
+fantasma dell'amore,
+della verità e della
+giussstizia, il
+Fantasssma Suzuki!![WAIT]
+Grazie alle tue
+generose donazioni,
+ho potuto completare
+il Mecha Gigante
+Definitivo![24][20]
+Ssstavolta si fa
+sul serio![00]
+
+### B0-246   (voci 146)
+Da quanto tempo,
+Bambino Vivo![WAIT]
+Non dirmi che hai
+dimenticato il
+fantasma dell'amore,
+della verità e della
+giussstizia, il
+Fantasssma Suzuki!![WAIT]
+Grazie alle tue
+generose donazioni,
+ho potuto completare
+il Mecha Gigante
+Definitivo![24][20]
+Ssstavolta si fa
+sul serio![00]
+
+### B0-247   (voci 147)
+Guarda e stupisci![24][20]
+God Suzuuuking!![00]
+
+### B0-248   (voci 148)
+S[21]-sconfitto ancora...[24][21]
+Ma non lo trovo
+ssstrano, né ti porto
+rancore...[24][20]
+...Ben giocato,
+Bambino Vivo![24][20]
+E' ssstata una bella
+lotta![WAIT]
+Ma non mi sono ancora
+arreso![24][20]
+I fantasssmi non
+muoiono![24][20]
+Ho tutto il tempo
+dell'universsso!
+Un giorno farò
+davvero di te un
+fantasssma![24][20]
+Fino ad allora,[24][20] ciao![00]
+
+### B0-249   (voci 149)
+Complimenti per essere
+arrivato fin qui,
+ragazzino.[24][20]
+Sei molto più forte
+di quanto sembri.[00]
+
+### B0-250   (voci 14A)
+Ma qui finisce la tua
+strada![24][20]
+Preparati, Mary![00]
+
+### B0-251   (voci 14B)
+Sono sempre pronta,
+sorella![00]
+
+### B0-252   (voci 14C)
+Allora andiamo![00]
+
+### B0-253   (voci 14D)
+Per cogliere la gioia
+in ogni anima![00]
+
+### B0-254   (voci 14E)
+Per il domani,
+combattiamo oggi![00]
+
+### B0-255   (voci 14F)
+Le Belle Sorelle
+Combattenti
+dell'Amore e della
+Giustizia![00]
+
+### B0-256   (voci 150)
+Sally![00]
+
+### B0-257   (voci 151)
+...e Mary!![00]
+
+### B0-258   (voci 152)
+In nome del Padrone
+Demi![00]
+
+### B0-259   (voci 153)
+Ti mandiamo i nostri
+pugni più duri![00]
+
+### B0-260   (voci 154)
+E' un osso duro,
+questo glielo
+concedo...[24][20]
+Mary! Ora tocca a te![00]
+
+### B0-261   (voci 155)
+Ricevuto, sorella![00]
+
+### B0-262   (voci 156)
+S-Sally...[24][20]
+Perdonami...[24][20]
+Ho perso...[00]
+
+### B0-263   (voci 157)
+N-non posso
+crederci...[24][20]
+Mary, per ora
+ritiriamoci![00]
+
+### B0-264   (voci 158)
+Ahhh, che peccato![24][20]
+Ce la pagherai![00]
+
+### B0-265   (voci 15A)
+Barone Alps:
+Uaah-ah-ah-ah![24][20][WAIT]
+Se vuoi salvare
+questa ragazza,
+ragazzo, dovrai venire
+alla Torre di Pietra![24][20]
+Ti aspetto![00]
+
+### B0-266   (voci 15C)
+Barone Alps:[21]
+Ti stavo aspettando,
+[NAME]...[00]
+
+### B0-267   (voci 15E)
+Barone Alps:
+Mh?[24][20] Ah sì, sì![22][20][WAIT]
+Riporterò di sicuro
+questa ragazza al
+villaggio...
+...non appena avrò
+finito di spiaccicare
+TE, ragazzo![21][WAIT]
+...O forse dovrei
+chiamarti...[WAIT]
+Sceriffo Spaziale[24][20] Zero!![00]
+
+### B0-268   (voci 15F)
+Sarah:[21]
+Sceriffo...[24][20]Spaziale!?[00]
+
+### B0-269   (voci 160)
+Barone Alps:
+Inseguire il nostro
+grande padrone Demi
+di stella in stella
+per tutta la galassia...
+Sei stato bravo a
+seguirne le tracce
+fin quaggiù...[WAIT]
+Ma per te qui è il
+capolinea![00]
+
+### B0-270   (voci 161)
+Barone Alps:
+Con te ho finito,
+ragazza. Su, vattene
+da qui.[00]
+
+### B0-271   (voci 162)
+Sarah:
+.......
+..Ehm.....[00]
+
+### B0-272   (voci 164)
+Sarah:[21]
+.........[WAIT]
+...V-[22][21]va bene.....[24][21]
+Ho capito...[00]
+
+### B0-273   (voci 166)
+Sarah:S-sì![00]
+
+### B0-274   (voci 167)
+Barone Alps:[21]
+Eh-eh-eh...[24][20][WAIT]
+Oh, niente...[22][20]
+Pensavo solo che è
+proprio strano che un
+uomo dello spazio
+rischi la vita per un
+moccioso terrestre
+come quello...[WAIT]
+Un mestiere che ti si
+addice poco, eh,
+Sceriffo Spaziale?[00]
+
+### B0-275   (voci 168)
+[NAME]:
+......![00]
+
+### B0-276   (voci 169)
+Barone Alps:[21]
+Ooh...[24][20]ho toccato un
+tasto dolente?[24][21]
+Chiedo scusa...[21][WAIT]
+Bene...[24][20]
+Direi che è ora di
+cominciare...[24][20][WAIT]
+Sei pronto? Ti
+avverto, sono un
+osso duro![00]
+
+### B0-277   (voci 16B)
+.[21]..Benvenuto, mio caro
+piccolo Zero...
+Ti stavo aspettando...[WAIT]
+O ora dovrei dire[22][21]
+"mio caro piccolo
+[NAME]"?[00]
+
+### B0-278   (voci 16D)
+M[21]i dispiace tanto
+averti fatto fare
+tutta questa strada
+solo per mor...[24][20]Ehi![24][20]
+C-[22][20]cosa stai
+facendo?[00]
+
+### B0-279   (voci 16E)
+C-[22][20]cos'è QUELLO?[24][20]
+Cosa credi di fare?![WAIT]
+No![22][20] Fermo![22][20] Ti prego![24][20]
+AAAAAAAAAAAH!![00]
+
+### B0-280   (voci 171)
+M[21]a-[24][20]ma che diavolo
+stai FACENDO?![WAIT]
+Io sto qui a
+chiacchierare
+tranquillo e tu mi
+tiri un ESPLOSIVO![WAIT]
+Ooohh, ora mi hai
+fatto arrabbiare![24][20]
+Questa non te la
+perdono! No, dobbiamo
+chiudere i conti
+adesso!![00]
+
+### B0-281   (voci 173)
+Il mecha che ho
+preparato sarà finito
+solo al 70 per cento,
+ma basta e avanza per
+farti fuori!![00]
+
+### B0-282   (voci 174)
+L[21]uci,[24][20] ACCESE![00]
+
+### B0-283   (voci 175)
+M[21]usica,[24][20] VIA![00]
+
+### B0-284   (voci 176)
+.[21]..Grazie per
+l'attesa...[24][20]
+Allora, cominciamo?[00]
+
+### B0-285   (voci 177)
+Gyaaahh! N-non è
+possibile!![24][20]
+Danni al 96 per cento?![24][20]
+Potenza del motore
+in calo!?[WAIT]
+Non puoi avermi
+sconfitto! Non ci
+posso credere!![22][20]
+Iiiaaargh!![22][20][00]
+
+### B0-286   (voci 178)
+[NAME]:
+Ma--?[24][20]
+Sta crollando!?[00]
+
+### B0-287   (voci 179)
+E[21]h-eh... proprio così...[24][20]
+Credevi di arrivare
+al finale così
+facilmente? Ti
+seppellirò qui con me![00]
+
+### B0-288   (voci 17A)
+[NAME]:
+N-no![24][20]
+Che faccio adesso?![00]
+
+### B0-289   (voci 17B)
+Robaton:
+Fiu, appena in
+tempo![00]
+
+### B0-290   (voci 17C)
+[NAME]:
+Robaton?![WAIT]
+Ma avevi detto che i
+posti bui non li
+sopporti![00]
+
+### B0-291   (voci 17D)
+Robaton:
+Non è il momento!
+Aggrappati![00]
+
+### B0-292   (voci 17E)
+[NAME]:
+A-agli ordini!![00]
+
+### B0-293   (voci 17F)
+C-cosa--?![24][20]
+U-un terremoto!?[22][20]
+Aiuto![24][20]
+Ehi! G-guardate
+lassù![00]
+
+### B0-294   (voci 15B)
+[00]
+
+### B1-000   (voci 000)
+E' f-finita...?[WAIT]
+Wow! La montagna è
+completamente
+diversa...[00]
+
+### B1-001   (voci 001,002,003,004)
+[NAME]:
+Sono tornatooo![22][20][WAIT]
+Robaton:
+Yippie-ka-yei![00]
+
+### B1-002   (voci 005)
+Sarah:
+[NAME]![22][20]
+Stai bene!![00]
+
+### B1-003   (voci 006)
+[NAME]:
+Il male è stato
+sconfitto!
+Missione...[22][20]
+compiuta al
+cento per cento!![24][20][21]
+E ora...[24][21]
+dobbiamo salutarci...[00]
+
+### B1-004   (voci 007)
+Sarah:[21]
+.......[00]
+
+### B1-005   (voci 008)
+[NAME](Zero):
+...Ho fatto passare
+fin troppo a questo
+ragazzo terrestre.[WAIT]
+Per favore, fai in
+modo che il suo corpo
+riposi come si deve.[00]
+
+### B1-006   (voci 009,00A)
+[NAME](Zero):
+E così...[00]
+
+### B1-007   (voci 00B)
+Sarah:
+Kyaaaaaaaaah![00]
+
+### B1-008   (voci 00C)
+Zero:
+Ehm... Non c'è da
+preoccuparsi.[24][20]
+Spero.[00]
+
+### B1-009   (voci 00D)
+Sarah:
+SPERI?![00]
+
+### B1-010   (voci 00E)
+Garo:
+E' normale, dopo una
+separazione così
+improvvisa...
+Starà bene.[22][20][WAIT]
+Presto si sveglierà
+da quello che è stato
+un lungo, lungo sogno.[00]
+
+### B1-011   (voci 00F)
+Sarah:
+Davvero!?[24][21]
+...grazie al cielo...[00]
+
+### B1-012   (voci 010)
+Robaton:
+Yuhuu! Finalmente
+possiamo tornare
+al Quartier Generale![00]
+
+### B1-013   (voci 011)
+Zero:
+E di che stai
+parlando?[24][20]
+Tu resti qui.[00]
+
+### B1-014   (voci 012)
+Robaton:
+COOOSA--?![00]
+
+### B1-015   (voci 013)
+Zero:
+Senti, questa nave è
+fatta solo per due,[WAIT]
+e se pensi che ci sia
+posto anche per te
+dentro quel...
+coso, ti sbagli di
+grosso.[00]
+
+### B1-016   (voci 014)
+Robaton:
+Ma come--!?[WAIT]
+Andiamo, non ho
+rischiato la pelle
+anch'io come tutti
+voialtri?![24][20]
+State SCHERZANDO,
+spero![00]
+
+### B1-017   (voci 015)
+Garo:
+Va bene, facciamo
+così.[WAIT]
+Quando Demi sarà al
+sicuro in prigione,
+tornerò a prenderti.[00]
+
+### B1-018   (voci 016)
+Robaton:
+D-dici davvero?![00]
+
+### B1-019   (voci 017)
+Garo:
+...tra una
+cinquantina d'anni.[00]
+
+### B1-020   (voci 018)
+Zero:
+Allora, voi due! [24][20]Che
+restiamo sempre amici![00]
+
+### B1-021   (voci 019)
+Garo:
+Arrivederci![00]
+
+### B1-022   (voci 01A)
+[NAME]:
+Ooohh...[00]
+
+### B1-023   (voci 01B)
+Sarah:
+[NAME]![00]
+
+### B1-024   (voci 01C)
+[NAME]:
+Eh? Che ci facevo qui
+a dormire?
+Giurerei di aver
+appena incontrato
+degli... uomini dello
+spazio... o roba del
+genere...[24][21]
+...Eh?[00]
+
+### B1-025   (voci 01D)
+Sarah:[21]
+...Non è niente,
+[NAME].[24][21]
+Proprio niente...[00]
+
+### B1-026   (voci 01E)
+Dopo di allora[00]
+
+### B1-027   (voci 01F)
+[NAME] fu lodato da
+tutti come il piccolo
+eroe che aveva
+salvato l'isola.[WAIT]
+Nessuno ne fu più
+felice del papà di
+[NAME].[00]
+
+### B1-028   (voci 020)
+Su insistenza dello
+sceriffo, [NAME]
+divenne Vicesceriffo.[WAIT]
+Nessuno ne fu più
+felice del papà di
+[NAME].[00]
+
+### B1-029   (voci 021)
+Tuttavia...[00]
+
+### B1-030   (voci 022)
+Senza più lo Sceriffo
+Spaziale Zero nel suo
+corpo, [NAME] era
+(ovviamente) solo un
+ragazzino, incapace
+perfino di sparare.[WAIT]
+Nessuno ne soffrì più
+del papà di [NAME].[00]
+
+### B1-031   (voci 023)
+Man mano che il ricordo
+dei Demiseed e del
+ruolo di [NAME]
+svaniva,[WAIT]
+la gente cominciò a
+chiedersi ad alta voce
+se non fosse stato
+tutto un sogno, o una
+specie di errore.[WAIT]
+Nessuno ne soffrì più
+del papà di [NAME].[00]
+
+### B1-032   (voci 024)
+Eppure...[00]
+
+### B1-033   (voci 025)
+[NAME] non diede
+retta a quelle voci.[WAIT]
+Ogni giorno ce la
+metteva tutta per
+diventare un grande
+sceriffo.[WAIT]
+Inutile dire che
+Sarah lo sosteneva
+in tutto e per tutto...[WAIT]
+Almeno per ora, pare
+proprio che la vita
+continuerà in pace.[00]
+
+### B1-034   (voci 026)
+Inutile dire che
+Sarah lo sosteneva
+in tutto e per tutto...[WAIT]
+Almeno per ora, pare
+proprio che la vita
+continuerà in pace.[00]
+
+### B1-035   (voci 027)
+ - P.S.[22][20]
+Per favore, venite a
+prendermi presto.[WAIT]
+ - un Robaton molto
+pentito[00]
+
+### B1-036   (voci 028)
+   Fine!![25]Robaton:
+Allora è ora della
+battaglia finale,
+eh, [NAME]?
+Che si fa?[WAIT]
+      Base nemica!
+      Meglio di no[05]Robaton:
+Che c'è, [NAME]?
+Non ti senti bene?
+Che si fa?[WAIT]
+      Torna in città
+      Sto bene[05]Papà di [NAME]:
+...così ho saputo che
+sei andato di nuovo
+a giocare fuori dal
+villaggio...[00]
+
+### B1-037   (voci 029)
+Robaton:
+Allora è ora della
+battaglia finale,
+eh, [NAME]?
+Che si fa?[WAIT]
+      Base nemica!
+      Meglio di no[05]Robaton:
+Che c'è, [NAME]?
+Non ti senti bene?
+Che si fa?[WAIT]
+      Torna in città
+      Sto bene[05]Papà di [NAME]:
+...così ho saputo che
+sei andato di nuovo
+a giocare fuori dal
+villaggio...[00]
+
+### B1-038   (voci 02A)
+Robaton:
+Che c'è, [NAME]?
+Non ti senti bene?
+Che si fa?[WAIT]
+      Torna in città
+      Sto bene[05]Papà di [NAME]:
+...così ho saputo che
+sei andato di nuovo
+a giocare fuori dal
+villaggio...[00]
+
+### B1-039   (voci 02B)
+Papà di [NAME]:
+...così ho saputo che
+sei andato di nuovo
+a giocare fuori dal
+villaggio...[00]
+
+### B1-040   (voci 02C)
+Papà di [NAME]:
+Perché diamine non
+dai retta a tua
+madre?! Lei...[21]
+...si preoccupa
+per te...[20]
+Eh?[24][20]...Cosa dici?[00]
+
+### B1-041   (voci 02D)
+Papà di [NAME]:
+...Eh?[24][20]
+"Il nostro senso di
+Giustizia si è
+risvegliato"?[WAIT]
+"E per questo
+dobbiamo sconfiggere
+i Demiseed...
+...Papà."?[24][20]
+Ma che...[00]
+
+### B1-042   (voci 02E)
+Papà di [NAME]:
+Stupido che non
+sei altro![00]
+
+### B1-043   (voci 02F)
+Mamma di [NAME]:
+Ti prego, caro, non
+essere così duro
+con...[00]
+
+### B1-044   (voci 030)
+Papà di [NAME]:
+Silenzio, donna![00]
+
+### B1-045   (voci 031)
+Papà di [NAME]:
+Ma che DIAVOLO stai
+dicendo, ragazzo?
+Credi che quei
+Demiseed siano roba
+da TE?[WAIT]
+Non raccontarci più
+queste fesserie![00]
+
+### B1-046   (voci 032)
+Papà di [NAME]:
+Adesso![24][20]
+Voglio che prometti
+a mamma e papà:[WAIT]
+"Non andrò più a
+giocare fuori dal
+villaggio." Dillo![00]
+
+### B1-047   (voci 033)
+Papà di [NAME]:
+...Cosa?[24][20] "Nessuno può
+fermarci."?
+"Distruggere i
+Demiseed è la nostra
+missione...
+...Papà."?[24][20]
+...ma che roba è?[00]
+
+### B1-048   (voci 034)
+Papà di [NAME]:
+Non hai sentito una
+parola di quello che
+ho detto, ragazzo![WAIT]
+Bene, se le cose
+stanno così, allora
+vai pure, fai quello
+che ti pare![WAIT]
+...Ma ascoltami bene!![00]
+
+### B1-049   (voci 035)
+Papà di [NAME]:
+Se hai deciso con
+cuore d'uomo che è
+questo che vuoi fare,
+allora ti parlo da
+uomo a uomo![WAIT]
+Finché non avrai
+abbattuto almeno un
+Demiseed, non voglio
+vedere la tua faccia
+in questa casa!![WAIT]
+Mi sono spiegato?![00]
+
+### B1-050   (voci 036)
+Mamma di [NAME]:
+[NAME], ma cosa ti è
+saltato in mente di
+dire certe cose?...[24][20][WAIT]
+Su, tesoro.[22][20]
+Dovresti proprio
+chiedere scusa a tuo
+padre, più tardi.[00]
+
+### B1-051   (voci 037)
+Papà di [NAME]:
+In questa casa non
+c'è posto per te!
+Fuori di qui![00]
+
+### B1-052   (voci 038)
+Mamma di [NAME]:
+Tu e tuo padre siete
+due testoni, lo
+sai...?[WAIT]
+...Non dargli retta,
+d'accordo? Puoi
+tornare a casa quando
+vuoi. Intesi?[00]
+
+### B1-053   (voci 039)
+Papà di [NAME]:
+Avanti, hai sentito!
+Fuori di qui![00]
+
+### B1-054   (voci 03A)
+Billy:
+Cosa?[24][20] Hai sconfitto
+un boss dei Demiseed?!
+Dici davvero?! Ero
+sicuro che stessi solo
+andando a giocare...
+Ahah![22][20] E' fantastico![WAIT]
+Corro subito a dirlo
+a tuo padre!
+Farà i salti
+mortali![00]
+
+### B1-055   (voci 03B)
+Billy:
+Ehi, [NAME]!
+Come va?[00]
+
+### B1-056   (voci 03C)
+Ragazza:
+Kyaaaaaaaaah!![00]
+
+### B1-057   (voci 03D)
+Ragazza:
+S-scusa, [NAME]![WAIT]
+Ma sei piombato in
+camera mia così di
+corsa... è anche
+colpa tua![00]
+
+### B1-058   (voci 03E)
+Ragazza:
+Eh? C-cosa?[22][21]
+..."Chi sei?"
+...hai detto
+così?[00]
+
+### B1-059   (voci 03F)
+Ragazza:
+Ehm, stai bene,
+[NAME]?
+Hai battuto la testa
+o cosa?![21]
+...Cioè...[20]
+Ah. Giusto.[24][20]
+L'hai... battuta.[24][20]
+Quando io... già.[00]
+
+### B1-060   (voci 040)
+Ragazza:
+...Ehm, va bene,
+credo...[WAIT]
+Siamo amici da così
+tanto tempo che è un
+po' strano...
+...beh, pazienza![00]
+
+### B1-061   (voci 041)
+Ragazza:
+Mi chiamo Sarah![24][20]
+Sono la figlia dello
+sceriffo!
+...Fa un po' strano
+dirlo, visto che ci
+vediamo sempre...[WAIT]
+Ih-ih-ih!
+Scusami davvero se
+ti ho colpito,
+[NAME]![24][20] Beh, ci
+vediamo![00]
+
+### B1-062   (voci 042)
+Sarah:
+[NAME], non scordarti
+di nuovo il mio nome,
+d'accordo?[00]
+
+### B1-063   (voci 043)
+Ragazza:
+C-cos'è successo,
+[NAME]?[WAIT]
+Ho sentito dei gran
+botti venire da
+casa tua, così sono
+venuta a vedere...[00]
+
+### B1-064   (voci 044)
+Ragazza:
+Stai bene,
+[NAME]?![22][20]
+Hai battuto la testa
+o cosa?!
+...Oh, ma l'hai
+battuta davvero...[22][20]
+Hai un bernoccolo
+proprio qui...[00]
+
+### B1-065   (voci 045)
+Ragazza:
+Mi chiamo Sarah![22][20]
+Sono la figlia dello
+sceriffo!
+Ma lascia stare, cos'è
+successo, [NAME]?[22][20]
+Cosaa!?[22][20]Ti hanno
+cacciato di casa?[22][20]
+Perché?[00]
+
+### B1-066   (voci 046)
+Sarah:[21]
+...attento, tu...[22][20]
+...Neanche a mio papà
+piacerebbero questi
+discorsi.[00]
+
+### B1-067   (voci 047)
+Sarah:
+Nemmeno mio papà sa
+cosa fare con i
+Demiseed!
+Se non ci riescono gli
+adulti, figurati
+se ci riesci TU![WAIT]
+Dovresti andare a
+chiedere scusa a tuo
+papà, [NAME]!
+E stavolta piantala
+con le stranezze.[00]
+
+### B1-068   (voci 048)
+Sarah:
+[NAME]! Mi raccomando,
+chiedi scusa a tuo
+papà![00]
+
+### B1-069   (voci 049)
+Papà di [NAME]:
+In questa casa non
+c'è posto per te!
+Ho detto, ...[24][20]Mh?[00]
+
+### B1-070   (voci 04A)
+Papà di [NAME]:
+Eh?[24][20] C-COSA?[24][20]
+Un Boss dei Demiseed?
+Tu!? [22][20]Ma va' là![00]
+
+### B1-071   (voci 04B)
+Papà di [NAME]:
+Que...[22][20]
+Quello è...?![22][20]
+Uno Stemma Demiseed!?[00]
+
+### B1-072   (voci 04C)
+Mamma di [NAME]:
+Oh...[22][21]
+Oh, cielo...[22][20][00]
+
+### B1-073   (voci 04D)
+Papà di [NAME]:
+Eh... cosa?[24][20]
+C'è dell'altro?
+"Ho preso un cattivo,
+quindi posso tornare
+a casa...
+...vero, papà?"[WAIT]
+E-ehm![24][20]
+C-certo che puoi!
+Era una promessa fra
+uomini, dopotutto![22][20]
+Mh![22][20] Sì![00]
+
+### B1-074   (voci 04E)
+Papà di [NAME]:
+C-comunque![WAIT]
+Dovresti andare a
+riferirlo allo
+sceriffo!
+
+Sì, così va bene!
+[00]
+
+### B1-075   (voci 04F)
+Papà di [NAME]:
+C-comunque![WAIT]
+Dovresti andare a
+riferirlo allo
+sce[21]rif[22]...[20]
+Mh? Cosa dici?
+L'hai già fatto?[22][21]
+Ah, sì...[00]
+
+### B1-076   (voci 050)
+Papà di [NAME]:
+B-bravo![24][20]
+Sì! Bravo,
+[NAME]![00]
+
+### B1-077   (voci 051)
+Mamma di [NAME]:
+...Davvero, piccola
+peste...
+Non so se metterti
+in punizione o
+abbracciarti...[00]
+
+### B1-078   (voci 052)
+Mamma di [NAME]:
+...Non strafare,
+tesoro.[00]
+
+### B1-079   (voci 053)
+Mamma di [NAME]:
+Tuo padre sembra più
+felice di quanto
+l'abbia mai visto...[00]
+
+### B1-080   (voci 054)
+Mamma di [NAME]:
+Cosa? Hanno rapito
+Sarah?![00]
+
+### B1-081   (voci 055)
+Mamma di [NAME]:
+Buongiorno, [NAME]!
+Hai dormito bene?[00]
+
+### B1-082   (voci 056)
+Mamma di [NAME]:
+...Bentornato,
+[NAME]!
+Esci di nuovo fra
+poco?[WAIT]
+Sbriga in fretta le
+tue faccende e torna
+subito a casa,
+capito?[00]
+
+### B1-083   (voci 057)
+Sarah:
+Ho saputo! Hai
+battuto un Demiseed?
+Incredibile, [NAME]![WAIT]
+Di solito sei un tale
+sciocchino, ma a
+quanto pare quando
+serve sai darti una
+mossa![00]
+
+### B1-084   (voci 058)
+Sarah:
+Hai sconfitto un
+altro boss?[WAIT]
+Wow, [NAME]![24][20]
+Forse mi sbagliavo
+su di te![00]
+
+### B1-085   (voci 059)
+Sarah:
+...Quasi non ci
+credo...
+Quando sei diventato
+così forte?[00]
+
+### B1-086   (voci 05A)
+Sarah:
+...Ultimamente... ci
+stavo pensando...
+...è solo che sembri
+diverso dal [NAME]
+che conosco...[WAIT]
+...Scusa.
+Sto solo... dicendo
+sciocchezze, credo...[00]
+
+### B1-087   (voci 05B)
+Sarah:
+......Io...[22][20]
+...Potrei giurare...
+Scusa,[22][20] lascia stare...[00]
+
+### B1-088   (voci 05C)
+Sarah:[21]
+........[24][21]
+......Ehm...[00]
+
+### B1-089   (voci 05D)
+Sarah:[21]
+.......[24][21][WAIT]
+...Grazie.[00]
+
+### B1-090   (voci 05E)
+Sarah:[21]
+...Chiunque tu sia,
+mi hai salvata...
+So che dovrei
+ringraziarti, ma...[22][21]
+io...[22][21]io solo...[00]
+
+### B1-091   (voci 05F)
+Sarah:[21]
+.......[24][21]Dimmi solo
+una cosa.[WAIT]
+[NAME]...[24][21]
+   ...sta bene?[00]
+
+### B1-092   (voci 060)
+Sarah:[21]
+......[NAME]...[24][22][21]
+...è lì dentro?[00]
+
+### B1-093   (voci 061)
+Sarah:[21]
+...Davvero...[WAIT]
+...è...[24][21]tutto quello
+che volevo sapere...[00]
+
+### B1-094   (voci 062)
+Papà di [NAME]:[21]
+Bene, bene, bene...[24][20]
+Quanto vi invidio,
+ragazzi![00]
+
+### B1-095   (voci 063)
+Sarah:[21]
+.........[WAIT]
+......Buona fortuna,
+[NAME]![00]
+
+### B1-096   (voci 064)
+Papà di [NAME]:
+H-hai battuto UN ALTRO
+Boss?[WAIT]
+Ma allora...[24][20]devi
+essere SUPER-forte![00]
+
+### B1-097   (voci 065)
+Papà di [NAME]:[21]
+Mmm... mm-mmm...[WAIT]
+Già, già, l'ho sempre
+pensato che un giorno
+avresti fatto cose
+spettacolari.[00]
+
+### B1-098   (voci 066)
+Papà di [NAME]:
+Bene, bene, bene,
+ah-ah-ah!
+Questo è il mio
+ragazzo!![00]
+
+### B1-099   (voci 067)
+Papà di [NAME]:
+Bene, bene, bene,
+ah-ah-ah!
+Scoppio d'orgoglio![00]
+
+### B1-100   (voci 068)
+Papà di [NAME]:
+Oh, [NAME]![WAIT]
+Stavo giusto parlando
+di te![00]
+
+### B1-101   (voci 069)
+Papà di [NAME]:
+C-cosa!?[24][20]
+Sarah è stata--!?
+Beh, forza, [NAME]![22][20]
+Devi fare qualcosa![00]
+
+### B1-102   (voci 06A)
+Papà di [NAME]:
+Bene, bene, bene,
+ah-ah-ah!
+Continua così,
+ragazzo mio!![00]
+
+### B1-103   (voci 06B)
+Mamma di [NAME]:
+Tuo padre è andato
+all'ufficio dello
+sceriffo.[00]
+
+### B1-104   (voci 06C,06D,06E,06F,070,071,072,073,074,075,076,077,078,079,07A,07B,07C,07D,07E)
+[00]
+
+### B1-105   (voci 07F,080)
+Garo:
+Sì, Capitano![24][20]
+...Cioè, [NAME]!
+
+      Info    Parla[END]
+
+### B1-106   (voci 081)
+Garo:
+Allora... secondo i
+sensori...[WAIT]
+Rilevo una specie di
+energia anomala nella
+foresta a sud-est.[WAIT]
+Potrebbe avere a che
+fare con i
+Demiseed...[00]
+
+### B1-107   (voci 082)
+Garo:
+Io resto qui a
+riparare la nave e a
+raccogliere
+informazioni sul
+nemico.
+Se rilevo qualcosa,
+te lo riferirò quando
+passi di qui.[00]
+
+### B1-108   (voci 083)
+Garo:
+Cosa? Hai incontrato
+Mono?
+...Capisco, quindi
+quello che captavano
+i sensori era
+l'energia di Mono...[WAIT]
+Beh, in ogni caso
+sono contento che
+siamo riusciti a
+contattarlo![WAIT]
+Allora, noi tre uniremo
+le forze e
+combatteremo insieme
+finché Demi non sarà
+catturato![00]
+
+### B1-109   (voci 084)
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[00]
+
+### B1-110   (voci 085)
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[WAIT]
+Il Boss di lì
+dovrebbe essere un
+"Ninja"!
+Per quel che ho
+capito, i "Ninja" sono
+forti e nudi, e con un
+colpo di taglio ti
+fanno volare la testa![WAIT]
+Stia attento,
+Capitano![00]
+
+### B1-111   (voci 086)
+Garo:
+La montagna al centro
+dell'isola, dici?...
+L'ho controllata
+anch'io, ma sembra
+protetta da una
+potente barriera e
+non vedo modo di
+entrare.[WAIT]
+Pare proprio che sia
+il quartier generale
+dei Demiseed, ma se
+non troviamo un modo
+per entrare...[00]
+
+### B1-112   (voci 087)
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[WAIT]
+Pare che il Boss di
+quel covo sia una
+fusione di mecha ed
+esseri viventi.
+Direi che Demi ha
+manipolato le
+creature di qui
+trasformandole in
+mostri...[WAIT]
+Non so nulla della
+potenza d'attacco o
+delle armi del Boss.
+Agisca con prudenza,
+per favore![00]
+
+### B1-113   (voci 088)
+Garo:
+Credo di cominciare
+ad abituarmi alla vita
+qui, [NAME].
+E' una stella così
+bella e tranquilla...
+Peccato non essere
+venuti in vacanza
+invece che per
+lavoro...[00]
+
+### B1-114   (voci 089)
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[WAIT]
+Il Boss di lì
+dovrebbe essere una
+specie di "Fantasma".
+Mi dicono che un
+"Fantasma" è lo
+spirito di un morto
+che va in giro da
+solo.
+Sembra quasi un po'...
+come noi.[00]
+
+### B1-115   (voci 08A)
+Garo:
+Le riparazioni della
+nave non vanno bene
+come speravo... mi
+mancano dei pezzi
+necessari...[22]
+[21]
+Come?[20][WAIT]
+Sì, sì, lo SO![24][20]
+E' per colpa della
+mia guida se la nave
+è ridotta così...
+Me ne assumo tutta la
+responsabilità!
+Finirò queste
+riparazioni![00]
+
+### B1-116   (voci 08B)
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[WAIT]
+Il Boss di lì sembra
+essere una specie di
+robot gigante...
+La sua energia supera
+di gran lunga tutto
+quello visto finora!
+
+Stia attento![00]
+
+### B1-117   (voci 08C)
+Garo:
+Avrà notato che i
+nemici sono diventati
+più forti!
+Credo che Demi sia
+sempre più deciso a
+renderci la vita
+difficile![00]
+
+### B1-118   (voci 08D)
+Trovati $200![00]
+
+### B1-119   (voci 08E)
+Trovati $500![00]
+
+### B1-120   (voci 08F)
+Trovati $1000![00]
+
+### B1-121   (voci 090)
+Garo:
+Non ho ancora trovato
+un modo per arrivare
+al loro quartier
+generale...
+...ma dammi ancora un
+po' di tempo![24][20]
+Ci dev'essere un modo
+per arrivare a quella
+montagna![00]
+
+### B1-122   (voci 091)
+Garo:
+Allora, ho trovato
+qualcosa sul posto di
+cui ti ha parlato
+quello sceriffo...[WAIT]
+A quanto pare la Torre
+di Legno non ha un
+Boss ma due, una
+coppia di femmine
+umane![WAIT]
+Sembra che siano
+"artiste marziali" e
+dicono di voler
+"battersi con un
+degno avversario!"
+...Pare pericoloso![00]
+
+### B1-123   (voci 092)
+Garo:
+Riguardo a come
+entrare nel quartier
+generale dei
+Demiseed...[22][20]
+C'è una possibilità
+che mi è venuta in
+mente.
+[22]
+...[24][20]Non ne sarò sicuro
+finché non provo,
+ma...[WAIT]
+Mono...[22][20]
+Se magari riuscissimo
+ad aumentare per un
+po' le capacità di
+movimento di Robaton...
+Comunque, continuo a
+lavorarci![00]
+
+### B1-124   (voci 093)
+Garo:
+C-cos'è successo?![WAIT]
+Cosa?! Hanno rapito
+una del villaggio?
+
+Per la tartaruga a gas
+di Cassiopea! E'
+terribile![WAIT]
+Ehm-- S-sissignore!
+Riguardo a questo
+"Barone Alps"...
+Dovrebbe essere uno
+degli agenti di punta
+dei Demiseed![WAIT]
+E dicono che abbia
+armi nascoste in tutto
+il corpo!
+Stia attento![00]
+
+### B1-125   (voci 094)
+Garo:
+Capitano!
+...Cioè, [NAME]!
+Buone notizie![24][20]
+Ho finalmente trovato
+un modo per entrare
+nel quartier generale
+nemico!![WAIT]
+Poco fa ho contattato
+Robaton...
+...e gli ho trasferito
+la micro-energia del
+generatore appena
+riparato della nostra
+nave![WAIT]
+Ora che Robaton è
+potenziato, basta
+cavalcarlo per
+sfondare la barriera
+ed entrare nella base
+nemica!
+Ti servirà anche per
+fuggire dalla base![00]
+
+### B1-126   (voci 095)
+Garo:[00]
+
+### B1-127   (voci 096)
+Garo:
+La battaglia finale
+si avvicina![WAIT]
+La base dei Demiseed
+è al centro dell'isola,
+in cima alla montagna!
+Cavalcando Robaton
+dovresti poterti
+teletrasportare lì![24][20]
+Vai a prendere Demi![00]
+
+### B1-128   (voci 097)
+Robaton potenziato![22][20]
+Ora puoi
+teletrasportarti
+quando vuoi alla base
+dei Demiseed![00]
+
+### B1-129   (voci 098)
+Garo:
+Ehi, Mono![24][20] ...O ora
+è Robaton?
+Va bene comunque, ma
+devo dire... che
+faccione enorme.[00]
+
+### B1-130   (voci 099)
+Fantasma Sbarrapasso:
+Aaah! Un cavallo!
+Cavallocavallocavallo!!
+- Iooo sooono -
+- un fantaaasma -[24][20]
+- non sono un cavallo -
+Lalalalaaa...
+- E quiiindi -
+- sono un fantaaasma -
+Uuuaaaaah![21][WAIT]
+Ehm...[24][20][WAIT]
+Ti ho spaventato?[24][20]
+
+      Sì      No[END]
+
+### B1-131   (voci 09A)
+Robaton:
+N-non ce la faccio,
+Capo!
+'Sta elettricità è
+troppa per me!
+Non c'è verso di
+superare 'sta
+barriera![00]
+
+### B1-132   (voci 09B)
+Jinba:[21]
+.....[24][20][21]
+....Un cavallo?
+Che ci fa un cavallo
+in un posto simile?[00]
+
+### B1-133   (voci 09C)
+Fantasma Sbarrapasso:
+Oh, davvero![22][20]
+Che bello sentirlo![24][20]
+Allora! Prossima strofa![WAIT]
+- Iooo sooono -
+- un fantaaasma -[24][20]
+- mi piacciono i -
+- cavaaalli -
+Lalalaaa...
+- Peeerò -[22][20]
+- tu sei un asinooo -
+Uuuaaaaah![WAIT]
+Il Fantasma Sbarrapasso
+ignora [NAME] e
+continua a cantare la
+sua strana canzone...
+
+Pare che dovrai fare
+qualcosa se vuoi
+passare...[00]
+
+### B1-134   (voci 09D)
+Ih-ih-ih-ih![24][20]
+
+Noi rivedere ancora!![WAIT]
+Padrone Demi usato
+suo potere per
+riportare me qui a
+battere te!
+Con mio corpo tutto
+nuovo, stavolta tu
+essere schiacciato
+DAVVERO!![00]
+
+### B1-135   (voci 09E)
+.[21]..Ti stavo
+aspettando, giovane...
+O piuttosto,[24][20]
+Sceriffo Spaziale [22][20]Zero!![WAIT]
+Già una volta fui
+ingannato dal tuo
+volto smunto, ma ora
+basta![24][20]
+D'ora innanzi il mio
+spirito sarà limpido![WAIT]
+Ora ti abbatterò con
+tutto il mio potere!
+In guardia!![00]
+
+### B1-136   (voci 09F)
+S[21]istema di sicurezza...
+...Operativo.....[WAIT]
+...Mecha ricostruito
+Galahad E3...
+Preparativi d'attacco
+tutti verdi...[WAIT]
+...Allarme intrusi...[24][21]
+Galahad E3 -[22][21]
+     - DECOLLO!![00]
+
+### B1-137   (voci 0A0)
+...Benvenuto,
+ragazzino... [24][20]Che
+piacere rivederti...[00]
+
+### B1-138   (voci 0A1)
+L'altra volta ci hai
+proprio suonate!
+...Non pensare che
+la lasceremo passare
+liscia![00]
+
+### B1-139   (voci 0A2)
+Vedi, a noi
+proprio non va
+di perdere...
+Quindi temo...[00]
+
+### B1-140   (voci 0A3)
+...Che stavolta io e
+mia sorella ti
+affronteremo insieme!
+Preparati![00]
+
+### B1-141   (voci 0A4)
+C-[22][21]che smacco...[24][21]
+
+La sconfitta è mia...[WAIT]
+Cadere per mano di un
+semplice alieno... [22][21]Il
+mio addestramento è
+ancora insufficiente.[WAIT]
+B[20]ene![24][20]
+Con l'universo come
+mia palestra, da oggi
+mi allenerò per
+diventare Psico-Ninja
+Spaziale![21]
+Dunque...[24][20]addio![24][20][00]
+
+### B1-142   (voci 0A5)
+O[21]hhh, che male...[24][20]
+Eh?[22][20] D-[22][20]dove sono?[00]
+
+### B1-143   (voci 0A6)
+Mary! Cosa ci fai
+conciata in QUEL
+modo?[00]
+
+### B1-144   (voci 0A7)
+S-senti chi parla,
+sorella![00]
+
+### B1-145   (voci 0A8)
+Ma cosa--![24][20]
+Mi sento come se mi
+fossi appena
+svegliata![00]
+
+### B1-146   (voci 0A9)
+A-aspetta, sorella![24][20]
+Torno con te!![00]
+
+### B1-147   (voci 0AA,0AB,0AC,0AD,0AE,0AF,0B0,0B1,0B2,0B3,0B4,0B5,0B6,0B7,0B8,0B9)
+Barone Alps:[21]
+C...[20]COSA?![24][20]
+Non smette di
+scaricare energia!
+Di questo passo,[24][20]
+ESPLODE!
+NON E' DIVERTENTE!![24][20]
+Aaaaahhh!!![00]
+
+### B1-148   (voci 0BA)
+Barone Alps:[21]
+...Me le stai proprio
+suonando di santa
+ragione...[20][WAIT]
+Dalla tomba ti
+pentirai di avermi
+costretto a fare sul
+serio![WAIT]
+Bene![24][20]
+Grande Cannone,[22][20]
+Carica d'energia!![00]
+
+### B1-149   (voci 0BB)
+Carne Deliziosa![24][20]
+Salute al MASSIMO![00]
+
+### B1-150   (voci 0BC)
+Robaton:
+E-eh? [24][20]Questa sì che
+è strana...
+Non riesco ad andare
+più avanti...[24][20]e c'è
+pure 'sto odore
+strano...[WAIT]
+Capo...[24][20]ho un
+bruuutto presentimento
+su 'sta faccenda...[00]
+
+### B1-151   (voci 0BD)
+Aiyah![24][20]
+Prego aspettare
+un pochettino!![00]
+
+### B1-152   (voci 0BE)
+Non puoi aprire i
+forzieri mentre
+cavalchi Robaton!
+...Ci dispiace tanto,
+davvero.[00]
+
+### B1-153   (voci 0BF)
+Buona fortuna, eh!![00]
+
+### B1-154   (voci 0C0)
+Sceriffo:
+Salve, [NAME].[24][20]
+Hai qualche faccenda
+con l'Ufficio dello
+Sceriffo?[00]
+
+### B1-155   (voci 0C1)
+Sceriffo:
+Cosa?[24][20]
+Dici che TU hai
+battuto un boss dei
+Demiseed?[00]
+
+### B1-156   (voci 0C2)
+Sceriffo:
+Mah...[22][20]
+Beh, quello è uno
+Stemma Demiseed,
+non c'è dubbio! Va
+bene, allora, ti
+credo![00]
+
+### B1-157   (voci 0C3)
+Sceriffo:
+...Neanch'io ho
+intenzione di lasciar
+stare quelle canaglie,
+ma...[WAIT]
+Conosci la mappa che
+appare quando premi il
+tasto Select, vero? [24][20]E
+quella grossa montagna
+sospetta al centro,
+tutta coperta di
+nuvole?[00]
+
+### B1-158   (voci 0C4)
+Sceriffo:
+Se non sbaglio, quello
+dev'essere il quartier
+generale dei
+Demiseed...[24][20]
+Ma per qualche
+motivo, non riusciamo
+nemmeno ad
+avvicinarci!
+In nessun modo![00]
+
+### B1-159   (voci 0C5)
+Sceriffo:
+Però![WAIT]
+Se non possiamo
+attaccare la loro base
+principale, almeno
+possiamo provare a
+far fuori i covi che
+hanno sparsi per
+l'isola![22][20]
+E per questo ci serve
+la tua forza![24][20]
+Ti prego, aiutaci![00]
+
+### B1-160   (voci 0C6)
+Sceriffo:
+Ah, sapevo di poter
+contare su di te,
+[NAME]!
+Bene, ti dirò dei
+covi dei Demiseed che
+abbiamo trovato![00]
+
+### B1-161   (voci 0C7)
+Sceriffo:
+Ah, giusto!
+
+Quando sconfiggi un
+Demiseed, ritira la
+taglia da Peggy,
+laggiù![00]
+
+### B1-162   (voci 0C8)
+Sceriffo:
+Cosa! Hai battuto un
+altro boss?!
+Spettacolare![24][20]
+Bene, ecco dove
+dovresti andare
+adesso![00]
+
+### B1-163   (voci 0C9)
+Sceriffo:
+Il Canyon Rosso, nel
+sud-ovest dell'isola...
+In cima c'è la terza
+base dei Demiseed![WAIT]
+Questo lo sappiamo,
+ma... pare che una
+frana blocchi
+l'ingresso![24][20]
+Non riuscirai a
+passare senza fare
+qualcosa a quei
+macigni![00]
+
+### B1-164   (voci 0CA)
+Sceriffo:
+C'è una città
+fantasma a nord-est...
+E ho sentito che i
+Demiseed ci hanno
+costruito una base![WAIT]
+Si dice che in quel
+posto ci siano VERI
+FANTASMI che vanno
+in giro, quindi stai
+in guardia![00]
+
+### B1-165   (voci 0CB)
+Sceriffo:
+Sulla montagna a est
+del villaggio c'è una
+miniera abbandonata.
+Pare che quelle
+canaglie ne stiano
+facendo una base,
+ma...[WAIT]
+Per arrivarci dovrai
+risalire il fiume a
+est...[24][20]
+Sai nuotare, vero?[00]
+
+### B1-166   (voci 0CC)
+Sceriffo:
+Ora le uniche basi
+nemiche rimaste sono
+quelle due torri a
+nord...[WAIT]
+Ma la Torre di Pietra
+è bloccata da una
+barriera elettrica, e
+alla Torre di Legno
+non ci si può
+nemmeno AVVICINARE!
+Cioè, a meno di
+risalire a nuoto una
+CASCATA...
+...Insomma, ne so
+quanto te...[00]
+
+### B1-167   (voci 0CD)
+Sceriffo:
+No, davvero, è tutto
+merito di [NAME] se i
+Demiseed sono quasi
+annientati![WAIT]
+Dev'essere un orgoglio
+avere un figlio così
+in gamba!
+Tale e quale al
+padre, eh?[00]
+
+### B1-168   (voci 0CE)
+Sceriffo:
+Che succede, [NAME]?![24][20]
+Cosa?! SARAH?!
+Oh, santo cielo![WAIT]
+[NAME]! Sei la mia
+unica speranza!
+
+Ti prego, [22][20]salva mia
+figlia![22][20]
+Salva Sarah![00]
+
+### B1-169   (voci 0CF)
+Sceriffo:
+Sarah![24][20]
+Sei salva!![00]
+
+### B1-170   (voci 0D0)
+Sceriffo:
+Grazie, [NAME]!![WAIT]
+Non so come
+ringraziarti per
+quello che hai fatto![00]
+
+### B1-171   (voci 0D1)
+Sceriffo:
+Così si fa, [NAME]!
+Combatti per la
+giusta causa![00]
+
+### B1-172   (voci 0D2)
+Strana Bestia:
+Pe-perbacco... Nun so
+chi siete, ma grazie
+assai d'avermi
+salvato![00]
+
+### B1-173   (voci 0D3)
+Strana Bestia:
+Aspetta un
+momentino... sei
+conciato strano, ma
+sei il Capo Zero,
+vero?!
+Uh-uh! Non ti vedo da
+una vita![24][20]
+...Sono io, sono io![WAIT]
+Lo Sceriffo Spaziale
+Mono![00]
+
+### B1-174   (voci 0D4)
+Mono:
+Me la cavavo
+benissimo a inseguire
+quel Demi fin qua,
+ma...[WAIT]
+Quando ho provato ad
+atterrare su 'sto
+pianeta, per sbaglio
+mi so' schiantato
+proprio addosso a
+'sta creatura,
+"Robaton".[WAIT]
+Noi due ci siamo,
+ehm, fusi, e adesso
+non riesco a
+staccarmi da lui
+manco a pagarlo![00]
+
+### B1-175   (voci 0D5)
+Robaton:
+Comunque, filiamocela
+da 'sta tana di
+muffa![00]
+
+### B1-176   (voci 0D6)
+Mono:
+...Capisco se sei
+arrabbiato, Capo...
+...ahiaaa.....[24][20]
+Ma perbacco, mi
+dispiace un sacco![WAIT]
+Ho risposto male, ho
+fatto stupidaggini e
+sono stato una vera
+seccatura per tutti
+voi!
+[24][20]
+Ma guarda, me ne
+pento!
+[WAIT]
+D'ora in poi seguirò
+i tuoi ordini, lo
+giuro![22][20]
+Dai, mettiamoci una
+pietra sopra![00]
+
+### B1-177   (voci 0D7)
+Mono si è unito
+al gruppo![22][20][00]
+
+### B1-178   (voci 0D8)
+Mono:
+Ah, se non ti
+dispiace, d'ora in
+poi puoi chiamarmi
+"Robaton"?[WAIT]
+Mi ci sono un po'
+affezionato a quel
+nome...[24][20]
+Scusa, ma...
+per favoruccio?[00]
+
+### B1-179   (voci 0D9)
+...Robaton si è unito
+al gruppo![22][24][22][00]
+
+### B1-180   (voci 0DA)
+Robaton:
+Uh-uhuuu!![24][20]
+Non vedevo il sole da
+una vita!
+Che bello potersi
+MUOVERE dopo essere
+stato rinchiuso in
+tutto quel buio![00]
+
+### B1-181   (voci 0DB)
+Robaton:
+A proposito![WAIT]
+D'ora in poi, a volte
+vedrai i nemici
+sconfitti lasciar
+cadere delle carote!
+Se ne raccogli una,
+tienila alta alta e
+io arrivo di corsa![WAIT]
+Però non sopporto i
+posti bui come i
+sotterranei.[22][20]
+Quindi lì non provare
+a chiamarmi!
+
+E per ora, hasta la
+vista!
+[00]
+
+### B1-182   (voci 0DC)
+Peggy:
+Ciao! Sono Peggy,
+quella che consegna
+le taglie da queste
+parti![WAIT]
+Abbiamo messo una
+taglia su tutti i
+boss dei Demiseed, e
+va benissimo, sai,
+è giusto fare
+QUALCOSA, ma...[WAIT]
+Neanche un'anima ha
+riscosso UNA sola
+taglia...
+e io me ne sto qui
+seduta a morire di
+noia.[00]
+
+### B1-183   (voci 0DD)
+Peggy:
+Super, [NAME]![WAIT]
+La taglia di $200 su
+Miracle 5 è tua![00]
+
+### B1-184   (voci 0DE)
+Peggy:
+Ottimo, [NAME]![WAIT]
+La taglia di $400 su
+Brazil Circle è tua![00]
+
+### B1-185   (voci 0DF)
+Peggy:
+Magnifico, [NAME]![WAIT]
+La taglia di $600 su
+Galahad E3 è tua![00]
+
+### B1-186   (voci 0E0)
+Peggy:
+Fantastico, [NAME]![WAIT]
+La taglia di $1000 su
+Ghost Suzuki è tua![00]
+
+### B1-187   (voci 0E1)
+Peggy:
+Splendido, [NAME]![WAIT]
+La taglia di $1400 su
+God Suzuking è tua![00]
+
+### B1-188   (voci 0E2)
+Peggy:
+Eccezionale, [NAME]![WAIT]
+La taglia di $2000 su
+Mary e Sally è tua![00]
+
+### B1-189   (voci 0E3)
+Peggy:
+Bravissimo, [NAME]![WAIT]
+La taglia di $3000 sul
+Barone Alps è tua![00]
+
+### B1-190   (voci 0E4)
+Peggy:
+Mh? [24][20]Ti ho già dato
+la taglia, no?[00]
+
+### B1-191   (voci 0E5)
+Peggy:
+L'ultima battaglia
+contro i Demiseed è
+proprio dietro
+l'angolo![WAIT]
+Ci sei quasi![22][20]
+Non mollare![00]
+
+### B1-192   (voci 0E6)
+C'è una grotta a
+nord-ovest che mi
+puzza parecchio!
+Vai a darci
+un'occhiata per me![WAIT]
+Dirò a Frank di farti
+passare dal cancello
+ovest.
+
+Non deludermi![00]
+
+### B1-193   (voci 0E7)
+Bzzzzzzaap![22][20]
+Con questa barriera
+non c'è modo di
+entrare nella torre![00]
+
+### B1-194   (voci 0E8)
+Papà di [NAME]:
+Ma no, ma no, ah-ah!
+Meno male che NON
+somiglia al suo
+vecchio, uah-ah-ah![00]
+
+### B1-195   (voci 0E9)
+Sceriffo:
+Ecco di nuovo la
+modestia! Ah-ah-ah![00]
+
+### B1-196   (voci 0EA)
+Sarah:
+C-[24][20]COSA?![00]
+
+### B1-197   (voci 0EB)
+Sceriffo:
+[NAME]! Si parla del
+diavolo![00]
+
+### B1-198   (voci 0EC)
+Sceriffo:
+Cosa? Hai appena
+battuto il sesto
+boss?!
+Favoloso, semplicemente
+favoloso![00]
+
+### B1-199   (voci 0ED)
+Sceriffo:
+Quindi l'unico covo
+rimasto è la Torre di
+Pietra...[24][20]e sai che
+c'è? Siamo riusciti a
+danneggiarla un po'
+anche noi![WAIT]
+Quella banda se la
+darà a gambe in un
+attimo con la coda
+fra le gambe! E tutto
+grazie a te, [NAME]![00]
+
+### B1-200   (voci 0EE)
+Sarah:[21]
+.........[24][21][WAIT]
+.......[24][21]
+...Puoi venire qui
+un attimo?[00]
+
+### B1-201   (voci 0EF)
+Sarah:[21]
+...[NAME]...
+Tu...[24][20]
+Tu non sei il VERO
+[NAME], vero?![00]
+
+### B1-202   (voci 0F0)
+Sarah:
+Ultimamente pensavo
+che in te ci fosse
+qualcosa di diverso,
+ma...[24][20]
+E' che...
+...il [NAME] che
+conosco io non è mai
+stato così forte![00]
+
+### B1-203   (voci 0F1)
+Sarah:
+Il [NAME] che conosco
+di solito è un...
+Beh, è un tontolone.[24][20]
+E non ci si può mai
+contare...[WAIT]
+Ma ha sempre un gran
+sorriso stampato in
+faccia,
+E solo a stare con
+lui non posso fare a
+meno di ridere...[00]
+
+### B1-204   (voci 0F2)
+Sarah:
+In te non sento
+niente di tutto
+questo!
+Chi SEI?[24][20]
+Dov'è il vero
+[NAME]? [24][20]Rispondi![00]
+
+### B1-205   (voci 0F3)
+Voce Misteriosa:
+Uaahahahah!![00]
+
+### B1-206   (voci 0F4)
+Sarah:
+T-tu non sei di
+queste parti!
+Chi sei?![00]
+
+### B1-207   (voci 0F5)
+Uomo Misterioso:
+Ah-ah-ah...[24][20]
+Salve, mia cara.
+Sono il Barone Alps![24][20]
+E sono qui per
+rapire proprio te![00]
+
+### B1-208   (voci 0F6)
+Sarah:
+KYAAAAH![24][20]
+  [NAME], aiuto!![00]
+
+### B1-209   (voci 0F7)
+Mono:
+Cossa?[24][20]
+
+"Cosa ci fai conciato
+in QUEL modo?"
+[24][20]...dici?[WAIT]
+Ah, che bello che
+me l'hai chiesto![00]
+
+### B1-210   (voci 0F8)
+Sarah:
+Papà!![00]
+
+### B1-211   (voci 0F9)
+Sceriffo:
+Mille grazie, [NAME]!
+Con sette dei loro
+Boss fuori gioco,
+forse i Demiseed la
+smetteranno di darci
+il tormento![00]
+
+### B1-212   (voci 0FA)
+Sceriffo:
+Mh? [24][20]Cosa?[24][20]
+"Resta ancora il vero
+Boss"?[WAIT]
+"Finché non sarà
+sconfitto, il nostro
+compito non è
+finito..."?[00]
+
+### B1-213   (voci 0FB)
+Sceriffo:[21]
+Mmm.....[24][20] Giusto![24][20]
+Non dire altro!
+Lascio la faccenda
+dei Demiseed
+interamente a te!
+Dacci dentro![00]
+
+### B1-214   (voci 0FC)
+Papà di [NAME]:
+Ma allora ce l'hai
+FATTA![24][20]
+Questo è il mio
+ragazzo![00]
+
+### B1-215   (voci 0FD)
+Sceriffo:[21]
+Mmm.....[24][20] Giusto![24][20]
+Non dire altro!
+Lascio la faccenda
+dei Demiseed
+interamente a te!
+Dacci dentro![00]
+
+### B1-216   (voci 0FE)
+Salve![24][20]
+Sono lo Spirito del
+Forziere!
+Come premio per avermi
+trovato, ti donerò
+dei bei vestiti![WAIT]
+Quelli a sinistra (SX)
+aumentano la difesa,
+quelli a destra (DX)
+aumentano l'attacco!
+Pensaci bene prima di
+scegliere![WAIT]
+...Quali preferisci?[24][20]
+      SX      DX[END]
+
+### B1-217   (voci 0FF)
+Bene![24][20]
+Usali bene![00]

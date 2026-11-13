@@ -1,0 +1,446 @@
+### B0-074
+Woody:
+Ehi, [NAME]!
+Come te la passi?
+Eh, cosa sto facendo?
+Devo occuparmi di un
+po' di cavalli del
+pascolo a ovest, così
+mi stavo preparando![00]
+
+### B0-075
+Woody:
+Ehi, [NAME]!
+Come te la passi?
+Eh, cosa sto facendo?
+Beh, per ora il lavoro
+è finito, così mi
+stavo prendendo una
+pausetta![22][20]
+Uff! Che fatica.[00]
+
+### B0-076
+Woody:
+Ehi, [NAME]!
+Come te la passi?
+Eh, cosa sto facendo?
+Finalmente ho messo
+i cavalli nel recinto,
+così mi stavo
+prendendo una pausetta!
+Uff! Che fatica.[00]
+
+### B0-077
+Woody:
+Oh... ciao, [NAME]...
+anf... anf...[WAIT]
+Eh, cosa sto facendo?
+Ho battuto la fiacca
+un po' troppo e la
+piccola Nero si è
+arrabbiata, così ora
+la aiuto coi cavalli![24][20]
+
+...ansiiimo...[00]
+
+### B0-078
+Colobutch:
+Benveeenuto! Entra
+pure!![21]
+...è quello che vorrei
+poter dire, ma...[20][WAIT]
+A dire il vero, quei
+Demiseed mi hanno
+rubato tutto quello
+che avevo da vendere![22][20]
+BAM!![21]   SNIFF[20][WAIT]
+Ora posso solo
+insegnare alla gente
+a usare le armi...
+Non che serva a molto
+dirlo a un ragazzino
+come te...[21]
+Accidenti!...[20][WAIT]
+Se solo ci fosse un
+tipo abbastanza
+coraggioso da tener
+testa a quei Demiseed...[00]
+
+### B0-079
+Hai imparato a usare la
+Mitragliatrice![22][20][WAIT]
+La potenza lascia un
+po' a desiderare, ma
+quanto a comodità è
+la numero uno![22][20]
+Fatti strada con una
+pioggia di proiettili!![00]
+
+### B0-080
+Hai imparato a usare
+il Bazooka![22][20][WAIT]
+Ha la potenza di una
+normale Bomba!
+Non hai molti colpi,
+quindi mira con cura![00]
+
+### B0-081
+Hai imparato a usare
+il Lanciafiamme![22][20][WAIT]
+Un'arma di fuoco
+dalla potenza senza
+pari!
+
+Però divora munizioni
+come niente, quindi
+tieni d'occhio il conto![00]
+
+### B0-082
+Hai imparato a usare
+il Braccio Trapano![22][20][WAIT]
+Vai, Braccio Trapano![24][20]
+Il sogno di ogni uomo,
+il Braccio Trapano!
+Abbatte qualsiasi
+nemico con un solo
+colpo![00]
+
+### B0-083
+Hai imparato a usare
+la Palla di Ferro![22][20][WAIT]
+Una palla di ferro
+chiodata! Questa
+DEVE fare male!
+Tieni premuto il tasto
+per farla girare
+sempre più veloce!
+Quando i cattivi ti
+circondano, falciali![00]
+
+### B0-084
+Batt:
+Proteggo io questi
+bambini!
+...Beh, ecco...
+...eh-eh-eh...
+
+Con una signora così
+carina... ehm, suora,
+a chiedermelo,
+come potevo dire di
+no, eh?...[WAIT]
+Ragazzo! Anche tu sei
+importante! Abbi cura
+di te, mi raccomando![00]
+
+### B0-085
+Moglie di Colobutch:
+Stai attento, piccolo
+[NAME]!
+Dai una bella lezione
+a quei Demiseed da
+parte mia e, perché
+no, anche da parte
+del mio caro marito![00]
+
+### B0-086
+Moglie di Colobutch:
+Giuro, con quell'uomo
+ci ho quasi rinunciato![WAIT]
+Quel vecchio sciocco
+si è fatto rubare tutte
+le armi dai Demiseed![22][20]
+Come pensa che ci
+difendiamo ADESSO,
+senza nemmeno
+un'arma?![WAIT]
+Che vergogna,
+che vergogna![00]
+
+### B0-087
+Moglie di Colobutch:
+Ma è vero che hai
+battuto un Demiseed?!
+Sei una meraviglia![WAIT]
+Mio marito, invece...[21][20]
+Dovrei proprio
+costringerlo a
+prendere esempio
+da te![00]
+
+### B0-088
+Moglie di Colobutch:
+Mio marito ha
+finalmente riaperto
+bottega. Fabbrica
+bombe da vendere con
+tutto il materiale che
+riesce a trovare.[WAIT]
+Dice che vuole esserti
+d'aiuto, [NAME].
+Pare che anche lui,
+nel momento del
+bisogno, ce la faccia...
+Forse non gli ho dato
+PROPRIO abbastanza
+fiducia.[00]
+
+### B0-089
+Billy:
+Mi spiace, non posso
+farti passare, ragazzo.
+Tuo padre su questo è
+stato chiarissimo.
+Scusa. Fai il bravo e
+resta al villaggio,
+d'accordo?[00]
+
+### B0-090
+Billy:
+...Santo cielo...[24][20]
+E va bene, va bene,
+basta tormentarmi.
+Vai pure.[WAIT]
+Ma che non ti senta
+raccontarlo a tuo
+padre.[00]
+
+### B0-091
+Billy:
+Stai attento, eh.
+Non fare sciocchezze!
+Se si fa pericoloso,
+torna subito al
+villaggio, capito?[00]
+
+### B0-092
+Billy:
+Il villaggio lascialo
+nelle nostre mani![00]
+
+### B0-093
+Frank:
+Eh no, non si passa.
+Là fuori i Demiseed
+hanno mostri a non
+finire![WAIT]
+Non è un posto dove
+i ragazzini vanno a
+giocare![24][20]
+Su, fila a casa.[00]
+
+### B0-094
+Frank:
+OK, lo sceriffo mi ha
+spiegato tutto.
+Ti lascio passare.
+Ma là fuori stai
+bene attento![00]
+
+### B0-095
+Frank:
+Falli a pezzi,
+cacciatore.[00]
+
+### B0-096
+Frank:
+Pare che ultimamente
+gli attacchi nemici
+siano sempre più
+violenti...[WAIT]
+Fatevi sotto,
+maledetti Demiseed!
+Vediamo se riuscite
+a passare di qui![00]
+
+### B0-097
+Batt:
+Sono un vagabondo
+solitario...[24][20]
+...vago per le terre
+selvagge con la
+pistola in pugno...[00]
+
+### B0-098
+Batt:
+...Ragazzo, hai la
+faccia di chi va
+a combattere.
+...No, non dire niente,
+si capisce.[WAIT]
+Hai una faccia
+parecchio strana, ma
+vedo quello sguardo
+serio nei tuoi occhi...[WAIT]
+Bene, ragazzo! Lascia
+che ti insegni una
+tecnica che ho ideato
+alla fine dei miei
+viaggi![00]
+
+### B0-099
+Batt:
+Falli a pezzi,
+ragazzo!![00]
+
+### B0-100
+Bart:
+Sapevo di fare bene a
+puntare su di te,
+ragazzo! Sei davvero
+speciale![WAIT]
+Grazie a te posso
+starmene tranquillo
+qui a bere da
+mezzogiorno al
+tramonto...[22][20]
+Hic![00]
+
+### B0-101
+Gantetsu:
+Io sono Gantetsu![24][20]
+
+Sono un maestro delle
+discipline marziali![WAIT]
+Torna qui, giovane,
+quando sarai più
+forte![24][20]
+Quando verrà il
+momento, ti
+trasmetterò il mio
+metodo infallibile![00]
+
+### B0-102
+Gantetsu:
+Benvenuto, giovane.
+Aspettavo il tuo
+arrivo! Ora sembri
+abbastanza forte da
+imparare le mie
+tecniche...
+Eccellente!
+Allora ti insegnerò
+il mio metodo per la
+vittoria certa![00]
+
+### B0-103
+Gantetsu:
+Torna quando ti sarai
+allenato ancora.[WAIT]
+Quando spirito,
+tecnica e corpo
+saranno del tutto
+affinati, allora e
+solo allora potrò
+insegnarti il metodo
+supremo della morte
+certa!![00]
+
+### B0-104
+Gantetsu:
+Vedo che sei diventato
+ancora più forte,
+giovane.
+
+Ne sono lieto![WAIT]
+Vieni, è ora che ti
+insegni il Segreto
+Supremo...
+Ma solo metà!
+Mio fratello minore
+Tenkai conosce
+l'altra metà.[WAIT]
+Lo troverai ad
+allenarsi su un'isola
+nel mare del sud.
+Va', vai a incontrare
+Tenkai![00]
+
+### B0-105
+Gantetsu:
+Vedo che sei diventato
+ancora più forte,
+giovane.
+
+Ne sono lieto![WAIT]
+E vedo che mio
+fratello minore Tenkai
+ti ha concesso il
+Segreto...
+Ne sono ancora più
+lieto![WAIT]
+E' giunto il momento!
+Ora ti insegnerò il
+Segreto Supremo!![00]
+
+### B0-106
+Gantetsu:
+Non ho più nulla da
+insegnarti!
+Usa quel pugno per
+fare ciò che va
+fatto!![00]
+
+### B0-107
+Tenkai:
+Sento in te un potere
+non ancora espresso...
+Torna qui soltanto
+dopo esserti allenato
+ancora...[WAIT]
+Allora ti concederò il
+metodo supremo della
+morte certa![00]
+
+### B0-108
+Tenkai:
+Io sono Tenkai![24][20]
+Fratello di Gantetsu,
+l'artista marziale!
+...Sento un grande
+potere dentro di te...
+Opera di mio fratello,
+se non mi sbaglio...[WAIT]
+Molto bene.[24][20]
+Allora ti insegnerò
+anch'io una mia
+tecnica...[00]
+
+### B0-109
+Tenkai:
+Benvenuto, giovane...
+Ti stavo aspettando.
+E' ora che ti insegni
+il Segreto Supremo...[24][20]
+Ma solo metà.[WAIT]
+Mio fratello Gantetsu
+conosce l'altra metà
+del Segreto.
+Si allena ai piedi di
+una montagna rocciosa
+a ovest.[WAIT]
+Va', vai da Gantetsu!
+Per imparare il
+Segreto Supremo![00]
+
+### B0-110
+Tenkai:
+Vedo che mio fratello
+Gantetsu ti ha
+insegnato il Segreto...
+
+Eccellente![WAIT]
+Allora è giunto il
+momento di insegnarti
+il Segreto Supremo![00]
+
+### B0-111
+Tenkai:
+...La tua forza è già
+sufficiente!
+Qui non hai più nulla
+da imparare.[WAIT]
+Va', vattene!
+Scopri quali frutti ti
+ha portato la
+disciplina![00]
