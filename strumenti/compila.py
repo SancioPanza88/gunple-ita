@@ -139,6 +139,94 @@ def patch_hud(d):
     write_strip(d, [HUD_TILE(c) for c in (17, 18, 19)], hud_strip('PUNTI:', 24))
     write_strip(d, [HUD_TILE(c) for c in (20, 21, 22)], hud_strip('VITA:', 24, 4))
 
+
+# ---------------------------------------------------------------- titolo: New Game / Load Game
+TITLE_TILES = 0x2c8000          # grafica 4bpp del titolo, non compressa (tile n -> +n*32)
+TITLE_MAP = 0x2cd000            # tilemap 32x32 del titolo
+TITLE_GLYPHS = {   # maschere del riempimento; l'ombreggiatura si calcola da sola
+    'u': ['........', '........', '.#...#..', '.#...#..', '.#...#..', '.#...#..', '..####..', '........'],
+    'v': ['........', '........', '.#...#..', '.#...#..', '.#...#..', '..#.#...', '...#....', '........'],
+    'r': ['........', '........', '.#.##...', '.##..#..', '.#......', '.#......', '.#......', '........'],
+    'i': ['..#.....', '........', '..#.....', '..#.....', '..#.....', '..#.....', '..#.....', '........'],
+    'c': ['........', '........', '..###...', '.#...#..', '.#......', '.#...#..', '..###...', '........'],
+    'C': ['..####..', '.#....#.', '.#......', '.#......', '.#......', '.#....#.', '..####..', '........'],
+}
+# lettere riusate dall'originale (N, o, a, G) e tile liberate (e, w, m, L, d) o vuote
+TITLE_SLOTS = {'N': 0x0e, 'o': 0x1f, 'a': 0x100, 'G': 0x15, ' ': 0x00,
+               'u': 0x0d, 'v': 0x0f, 'r': 0x14, 'i': 0x52, 'c': 0x24, 'C': 0x1c4}
+TITLE_ROWS = [(20, 'Nuovo Gioco'), (21, 'Carica Gioco')]
+
+def title_shade(F):
+    f = lambda x, y: 0 <= x < 8 and 0 <= y < 8 and F[y][x] == '#'
+    out = [[0] * 8 for _ in range(8)]
+    for y in range(8):
+        for x in range(8):
+            if f(x, y): out[y][x] = 0xA
+            elif f(x - 1, y) or f(x, y - 1) or f(x - 1, y - 1): out[y][x] = 2
+            elif f(x + 1, y) or f(x, y + 1) or f(x + 1, y + 1): out[y][x] = 9
+    return out
+
+def put_tile4(d, o, px):
+    for y in range(8):
+        for p in range(4):
+            v = 0
+            for x in range(8): v |= ((px[y][x] >> p) & 1) << (7 - x)
+            d[o + (p // 2) * 16 + 2 * y + (p % 2)] = v
+
+def patch_title_menu(d):
+    assert struct.unpack_from('<H', d, TITLE_MAP + (20 * 32 + 13) * 2)[0] == 0x080e, 'mappa titolo non trovata'
+    for ch, mask in TITLE_GLYPHS.items():
+        put_tile4(d, TITLE_TILES + TITLE_SLOTS[ch] * 32, title_shade(mask))
+    for row, text in TITLE_ROWS:
+        for k, ch in enumerate(text):
+            t = TITLE_SLOTS[ch]
+            struct.pack_into('<H', d, TITLE_MAP + (row * 32 + 13 + k) * 2, 0x0800 | t)
+
+
+# ---------------------------------------------------------------- schermata dei salvataggi: EMPTY -> VUOTO
+EMPTY_TILE = lambda t: 0x2cd800 + t * 32     # sprite 16x16 c0, c2, c4, c6 (4bpp, non compressi)
+def empty_strip():
+    from PIL import Image, ImageDraw
+    im = Image.new('1', (64, 16), 0); dr = ImageDraw.Draw(im)
+    dr.line([(2, 3), (6, 13)], fill=1); dr.line([(11, 3), (7, 12)], fill=1)            # V
+    dr.line([(15, 3), (15, 11)], fill=1); dr.line([(23, 3), (23, 11)], fill=1)
+    dr.line([(16, 12), (22, 12)], fill=1)                                                 # U
+    dr.ellipse([(27, 3), (35, 13)], outline=1)                                            # O
+    dr.line([(38, 3), (48, 3)], fill=1); dr.line([(43, 3), (43, 13)], fill=1)             # T
+    dr.ellipse([(51, 3), (59, 13)], outline=1)                                            # O
+    m = [[im.getpixel((x, y)) for x in range(64)] for y in range(16)]
+    out = [[0] * 64 for _ in range(16)]
+    for y in range(16):
+        for x in range(64):
+            if m[y][x]: out[y][x] = 1
+            elif (x > 0 and m[y][x - 1]) or (y > 0 and m[y - 1][x]): out[y][x] = 2
+    return out
+def patch_empty(d):
+    strip = empty_strip()
+    for k, b in enumerate((0xc0, 0xc2, 0xc4, 0xc6)):
+        for dy, dx, t in ((0, 0, b), (0, 8, b + 1), (8, 0, b + 16), (8, 8, b + 17)):
+            px = [row[k * 16 + dx:k * 16 + dx + 8] for row in strip[dy:dy + 8]]
+            put_tile4(d, EMPTY_TILE(t), px)
+
+
+# ---------------------------------------------------------------- schermata dei salvataggi: messaggi in basso
+# Stringhe di puntatori a glifi (word), chiuse da 0000, a indirizzi fissi: stessa lunghezza dell'inglese
+SAVE_MSGS = 0x47F03
+SAVE_TEXTS = [('Save where?', 'Dove salvo?'), ('Saved!!', 'Salvato'), ('Load which?', 'Che carico?'),
+              ('Loaded!', 'Pronto!'), ('Erase?', 'Tolgo?')]
+def patch_save_msgs(d):
+    from gunple import EN_TABLE
+    inv = {v: k for k, v in EN_TABLE.items()}
+    gp = [struct.unpack_from('<H', d, 0x3F800 + 2 * c)[0] for c in range(0x80)]
+    rev = {w: c for c, w in enumerate(gp)}
+    a = SAVE_MSGS
+    for en, it in SAVE_TEXTS:
+        assert len(en) == len(it), it
+        cur = ''.join(EN_TABLE[rev[struct.unpack_from('<H', d, a + 2 * k)[0]]] for k in range(len(en)))
+        assert cur == en, (cur, en)
+        for k, ch in enumerate(it): struct.pack_into('<H', d, a + 2 * k, gp[inv[ch]])
+        a += 2 * len(en) + 2
+
 # ---------------------------------------------------------------- grafiche 2bpp
 def get_tile(d, o):
     return [[((d[o + 2 * y] >> (7 - x)) & 1) | (((d[o + 2 * y + 1] >> (7 - x)) & 1) << 1) for x in range(8)] for y in range(8)]
@@ -431,6 +519,9 @@ def main(en_path, script_path, jp_path, outdir):
     make_glyphs(d)
     patch_menus(d)
     patch_hud(d)
+    patch_title_menu(d)
+    patch_empty(d)
+    patch_save_msgs(d)
     patch_graphics(d)
     report = []
     for bi, (base, n, end) in enumerate(G.BANKS):

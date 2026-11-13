@@ -23,7 +23,7 @@ La ROM non la trovate qui e non posso darvela.
 
 ## Cosa c'è dentro
 
-Tutto il testo del gioco, dall'introduzione ai titoli di coda: 513 messaggi, compresi negozi, boss e quel fantasma che non la smette di cantare. In più ho tradotto le schede delle mosse, i menu, le scritte PUNTI e VITA in alto sullo schermo e le opzioni del game over, e ho aggiunto le lettere accentate al font.
+Tutto il testo del gioco, dall'introduzione ai titoli di coda: 513 messaggi, compresi negozi, boss e quel fantasma che non la smette di cantare. In più ho tradotto le schede delle mosse, i menu, le scritte PUNTI e VITA in alto sullo schermo, il menu del titolo, la schermata dei salvataggi e le opzioni del game over, e ho aggiunto le lettere accentate al font.
 
 Ho lasciato com'erano il logo del titolo, la scritta GAME OVER e il pulsante "HELLO!" della schermata del nome, di cui onestamente non ho ancora capito lo scopo. Per le maiuscole accentate nel font non c'era spazio, quindi troverete E' al posto di È, come nelle traduzioni amatoriali di una volta.
 
