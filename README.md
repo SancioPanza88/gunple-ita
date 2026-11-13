@@ -29,7 +29,7 @@ Ho lasciato com'erano il logo del titolo, la scritta GAME OVER e il pulsante "HE
 
 ## Una cosa da sapere
 
-Non ho fatto tutto da solo. Per questo progetto mi sono fatto aiutare da un'intelligenza artificiale (Claude, di Anthropic): con lei ho capito come il gioco memorizza il testo, ho scritto gli strumenti per estrarlo e reinserirlo e ho preparato la prima stesura della traduzione. Le scelte e la revisione sono mie, ma preferisco dirlo chiaramente.
+Non ho fatto tutto da solo. Per questo progetto mi sono fatto aiutare da un'intelligenza artificiale (Claude, di Anthropic): con lei ho capito come il gioco memorizza il testo, ho scritto gli strumenti per estrarlo e reinserirlo e ho preparato la prima stesura della traduzione. Mi sembra giusto dirlo chiaramente.
 
 Proprio per questo la v1.0 va presa per quello che è: una versione da testare. Il testo è stato verificato in automatico (niente righe che escono dalla finestra, ogni messaggio al suo posto), però il gioco non l'ho ancora finito con la patch. Qualche frase storta, un refuso o una scritta disegnata male ci saranno di sicuro.
 
